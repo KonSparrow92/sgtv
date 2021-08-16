@@ -4,9 +4,6 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
-https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
-
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",8频道
 https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
 
