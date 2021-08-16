@@ -1,3 +1,3 @@
 # sgtv
 SGTV
-<code>https://iptv-org.github.io/iptv/categories/weather.m3u</code>
+<code>https://KonSparrow92/sgtv/main/sgtv.m3u8</code>
