@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://pcccw.github.io/Ark/EPG/guide_71.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
