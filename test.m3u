@@ -84,7 +84,7 @@ https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-870
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://ott-navigator.my.id/VISPLUS-MPD/master_visplus.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indonesia", SCTV
+#EXTINF:-1 site-id="204" tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indonesia", SCTV
 https://ott-navigator.my.id/VISPLUS-MPD/master_visplus.m3u8?id=sctv
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/logo_sctv_big1.png" group-title="Indonesia", SCTV-Backup
