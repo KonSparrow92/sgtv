@@ -33,7 +33,7 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
+#EXTINF:-1 tvg-ID="NTV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",八度空间
@@ -165,7 +165,7 @@ https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO ARENA
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=arena
 
-#EXTINF:-1 tvg-ID="AstroSuperSport.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
+#EXTINF:-1 tvg-ID="AstroSuperSport.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=001
 
 #EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
@@ -177,19 +177,19 @@ https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=003
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=004
 
-#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
+#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2_BACKUP
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=006
 
-#EXTINF:-1 tvg-ID="AstroSuperSport.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
+#EXTINF:-1 tvg-ID="AstroSuperSport.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS_BACKUP
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=009
 
-#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
+#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2_BACKUP
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=010
 
-#EXTINF:-1 tvg-ID="AstroSuperSport3.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3
+#EXTINF:-1 tvg-ID="AstroSuperSport3.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3_BACKUP
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=011
 
-#EXTINF:-1 tvg-ID="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4
+#EXTINF:-1 tvg-ID="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4_BACKUP
 https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=012
 
 #EXTINF:-1 tvg-id="ChampionTV1.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/logo_champ1_big1.png" group-title="Sports",Champion 1 (OTTO TEVE)
