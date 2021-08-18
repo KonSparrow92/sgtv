@@ -154,6 +154,18 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="Documentary",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX Sports 2 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="FoxSportsMalaysia.us" tvg-name="Fox Sports Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports1.png" group-title="Sports",Fox Sports Asia Thai (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
@@ -165,36 +177,6 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="Fox Sports 3 Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports3.png" group-title="Sports",Fox Sports 3 Asia Thai (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO ARENA
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=arena
-
-#EXTINF:-1 tvg-ID="AstroSuperSport.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=001
-
-#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=002
-
-#EXTINF:-1 tvg-ID="AstroSuperSport3.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=003
-
-#EXTINF:-1 tvg-ID="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=004
-
-#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=006
-
-#EXTINF:-1 tvg-ID="AstroSuperSport.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=009
-
-#EXTINF:-1 tvg-ID="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=010
-
-#EXTINF:-1 tvg-ID="AstroSuperSport3.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=011
-
-#EXTINF:-1 tvg-ID="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4
-https://otto-aplikasi.xyz/sports/assp/master_assp.m3u8?id=012
 
 #EXTINF:-1 tvg-id="ChampionTV1.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/logo_champ1_big1.png" group-title="Sports",Champion 1 (OTTO TEVE)
 https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-6685
