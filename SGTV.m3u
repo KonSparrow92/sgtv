@@ -170,17 +170,20 @@ https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ChampionTV1.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/logo_champ1_big1.png" group-title="Sports",Champion 1 (OTTO TEVE)
-https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-6685
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="Sports", Champions TV 1
+http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
-#EXTINF:-1 tvg-id="ChampionTV2.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/logo_champ2_big1.png" group-title="Sports",Champion 2 (OTTO TEVE)
-https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-6686
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="Sports", Champions TV 2
+http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
-#EXTINF:-1 tvg-id="ChampionTV3.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/logo_champ3_big1.png" group-title="Sports",Champion 3 (OTTO TEVE)
-https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-6786
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="Sports", Champions TV 3
+http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
 #EXTINF:-1 radio="false" tvg-id="I112.12631.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" tvg-chno="4834" group-title="** US **",Cartoon Network
 http://stream.tvtap.live:8081/live/cn.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="** US **", Cartoon Network 
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 #EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="** US **",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
