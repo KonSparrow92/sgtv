@@ -160,9 +160,6 @@ https://akamai.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.
 #EXTINF:-1 tvg-id="Net TV" tvg-name="NetTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Indonesia",NETTV-AKA (OTTO TEVE)
 https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES",Thrill
-http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
-
 #EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="MOVIES",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
