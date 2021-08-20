@@ -80,10 +80,10 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
+http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/25
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
