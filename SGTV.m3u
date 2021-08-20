@@ -170,15 +170,12 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsMalaysia.us" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2Malaysia.us" tvg-name="FOX Sports 2 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Sports" , Astro Arena HD
