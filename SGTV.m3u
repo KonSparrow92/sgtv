@@ -160,7 +160,7 @@ https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-734
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans 7-Backup
 https://akamai.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
 
-#EXTINF:-1 tvg-id="Net TV" tvg-name="NetTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="Indonesia",NETTV-AKA (OTTO TEVE)
+#EXTINF:-1 tvg-id="Net TV" tvg-name="NetTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="Indonesia",NETTV
 https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 
 #EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="MOVIES",Boo
