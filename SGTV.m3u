@@ -70,6 +70,12 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro",Astro Ria HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
+
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro",Astro Ria-Backup
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
 
