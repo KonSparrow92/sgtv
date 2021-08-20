@@ -52,6 +52,9 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
 #EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Malaysia",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
+#EXTINF:-1, tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Drama-Sangat-2020.png" group-title="Malaysia" ,Drama Sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="AstroAwani.my" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
