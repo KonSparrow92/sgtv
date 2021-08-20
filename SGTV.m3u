@@ -184,25 +184,25 @@ https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="Sports" , Astro Arena HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.cleanpng.com/png-astro-arena-television-channel-high-definition-tel-2630025/preview.html", Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" ,Astro Supersport HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest/scale-to-width-down/600?cb=20200929173213",Astro Supersport HD
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23453
 
-#EXTINF:-1 group-title="Sports" ,Astro Supersport 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png",Astro Supersport 2 HD
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23452
 
-#EXTINF:-1 group-title="Sports" ,Astro Supersport 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/813.png/revision/latest/scale-to-width-down/600?cb=20200929173928",Astro Supersport 3 HD
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451
 
-#EXTINF:-1 group-title="Sports" ,Astro Supersport 4 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/814.png/revision/latest/scale-to-width-down/600?cb=20200929174031",Astro Supersport 4 HD
 http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973
 
-#EXTINF:-1tvg-id=""tvg-name="https://i.imgur.com/K3AtFDD.png"group-title="Sports",BT SPORTS 1
+#EXTINF:-1tvg-id="" tvg-name="https://i.imgur.com/K3AtFDD.png" group-title="Sports" tvg-logo="",BT SPORTS 1
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/174235.ts
 
-#EXTINF:-1tvg-id=""tvg-name="https://i.imgur.com/K3AtFDD.png"group-title="Sports",BT SPORTS 2
+#EXTINF:-1tvg-id="" tvg-name="https://i.imgur.com/K3AtFDD.png" group-title="Sports" tvg-logo="",BT SPORTS 2
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/174237.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="Sports", Champions TV 1
