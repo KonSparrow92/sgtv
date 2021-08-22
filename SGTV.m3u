@@ -10,10 +10,10 @@ http://203.154.243.89:11205/
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Crime_2017.svg" group-title="Entertaiment",FOX Crime
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="Entertaiment",FOX Action
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="Entertaiment",FOX Family
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Family
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
