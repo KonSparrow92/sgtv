@@ -53,7 +53,7 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
+#EXTINF:-1 tvg-ID="NTV7.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",八度空间
@@ -266,13 +266,13 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF: -1 tvg-id="HBOSignatureEast.us" tvg-logo="http://127.0.0.1/" tvg-logo="https://www.pngfind.com/pngs/m/167-1674877_top-suggestions-ofhbo-family-logo-png-hbo-signature.png" group-title="MOVIES", HBO Signature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
-#EXTINF:-1 channel-id="90" radio="false" tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-chno="3539" tvg-country="MY" group-title="MOVIES",HBO Malaysia
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO Malaysia" group-title="MOVIES",HBO-Backup
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO-Backup
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-country="US" tvg-language="English" tvg-logo="https://w7.pngwing.com/pngs/178/921/png-transparent-mtv-live-hd-mtv2-viacom-media-networks-others-television-text-logo.png" group-title="Music",MTV Live HD
+#EXTINF:-1 tvg-id="MTVSouthEastAsiaPlus1.us" tvg-name="MTV Live HD" tvg-country="US" tvg-language="English" tvg-logo="https://w7.pngwing.com/pngs/178/921/png-transparent-mtv-live-hd-mtv2-viacom-media-networks-others-television-text-logo.png" group-title="Music",MTV Live HD
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (720p)
@@ -298,33 +298,3 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 
 #EXTINF:-1 tvg-id="VEVORBUS.us" tvg-name="VEVO R&B (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fJFzPB7.jpg" group-title="Music",VEVO R&B (US) (1080p)
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
-
-#EXTINF: -1 tvg-id="sinar.fm.my" tvg-name="SINAR" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/sinar.png" group-title="RADIO", SINAR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066063
-
-#EXTINF: -1 tvg-name="KOOL FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png" group-title="RADIO", KOOL FM
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066068
-
-#EXTINF: -1 tvg-name="FLY FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/fly.png" group-title="RADIO", FLY FM
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066069
-
-#EXTINF: -1 tvg-id="era.fm.my" tvg-name="ERA" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/era.png" group-title="RADIO", ERA
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066062
-
-#EXTINF: -1 tvg-id="Suria" tvg-name="SURIA" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png" group-title="RADIO", SURIA
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066065
-
-#EXTINF: -1 tvg-id="thr.gegar.my" tvg-name="GEGAR" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/thr-kuala-lumpur.png" group-title="RADIO", GEGAR
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066067
-
-#EXTINF: -1 tvg-name="HOT FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png" group-title="RADIO", HOT FM
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066064
-
-#EXTINF: -1 tvg-name="HITZ" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hitz.png" group-title="RADIO", HITZ
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066066
-
-#EXTINF: -1 tvg-name="ONE FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/one-fm.png" group-title="RADIO", ONE FM
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066070
-
-#EXTINF: -1 tvg-name="MIX" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-fm.png" group-title="RADIO", MIX
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066071
