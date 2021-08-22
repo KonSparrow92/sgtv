@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://pcccw.github.io/Ark/EPG/guide_71.xml,https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,"
 
-#EXTINF:-1, tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV
+#EXTINF:-1, tvg-id="WAR.Asia" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV
 http://203.154.243.89:11205/
 
 #EXTINF:-1, tvg-id="WAR.Asia" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV-Backup
@@ -195,7 +195,7 @@ https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="FoxSports2Malaysia.us" tvg-name="FOX Sports 2 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
 https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
+#EXTINF:-1 tvg-id="FS3.Asia" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest/scale-to-width-down/750?cb=20190123083011", Astro Arena HD
