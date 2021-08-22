@@ -2,8 +2,11 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
-#EXTINF:-1 channel-id="247" radio="false" tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/300?cb=20180325001201" tvg-country="US" group-title="Entertaiment",Warner TV
+#EXTINF:-1, tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV
 http://203.154.243.89:11205/
+
+#EXTINF:-1, tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV-Backup
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Crime_2017.svg" group-title="Entertaiment",FOX Crime
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
