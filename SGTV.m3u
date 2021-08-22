@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml",url-tvg="https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml",url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml"
 
