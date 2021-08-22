@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,"
 
 #EXTINF:-1, tvg-id="WarnerTVSoutheastAsia.us" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV
 http://203.154.243.89:11205/
