@@ -1,7 +1,5 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml",url-tvg="https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml",url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
-
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml"
-
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
 #EXTINF:-1 channel-id="247" radio="false" tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/300?cb=20180325001201" tvg-country="US" group-title="Entertaiment",Warner TV
@@ -16,8 +14,11 @@ http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Family
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
+#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
+
+#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
 
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",8频道
 https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
@@ -256,7 +257,7 @@ http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 #EXTINF:-1 channel-id="90" radio="false" tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-chno="3539" tvg-country="MY" group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO" group-title="MOVIES",HBO-Backup
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO Malaysia" group-title="MOVIES",HBO-Backup
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (720p)
