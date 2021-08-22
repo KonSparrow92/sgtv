@@ -218,6 +218,18 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/174235.ts
 #EXTINF:-1tvg-id="" tvg-name="https://i.imgur.com/K3AtFDD.png" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",BT SPORTS 2
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/174237.ts
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Entertaiment",
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="Entertaiment",
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="NickelodeonSouthEastAsia.us" tvg-logo="https://e7.pngegg.com/pngimages/982/982/png-clipart-logo-nickelodeon-arabia-television-bumper-nicktoons-splat-uk.png" group-title="Entertaiment",
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="NickJrAsia.us" tvg-logo="https://img.favpng.com/24/22/17/nick-jr-too-nickelodeon-television-channel-png-favpng-UtKbg952dUtK73dVPf2qw9gam.jpg" group-title="Entertaiment",
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+
 #EXTINF:-1 radio="false" tvg-id="I112.12631.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" tvg-chno="4834" group-title="Entertaiment",Cartoon Network
 http://stream.tvtap.live:8081/live/cn.stream/chunks.m3u8
 
