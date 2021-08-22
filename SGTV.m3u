@@ -231,10 +231,10 @@ http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-ID="NickJrAsia.us" tvg-logo="https://img.favpng.com/24/22/17/nick-jr-too-nickelodeon-television-channel-png-favpng-UtKbg952dUtK73dVPf2qw9gam.jpg" group-title="Entertaiment", Nick Jr.
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
-#EXTINF:-1 radio="false" tvg-id="I112.12631.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" tvg-chno="4834" group-title="Entertaiment",Cartoon Network
+#EXTINF:-1 tvg-id="	CartoonNetworkAsia.us" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" group-title="Entertaiment",Cartoon Network
 http://stream.tvtap.live:8081/live/cn.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Entertaiment", Cartoon Network 
+#EXTINF:-1 tvg-id="	CartoonNetworkAsia.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Entertaiment", Cartoon Network 
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 #EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
