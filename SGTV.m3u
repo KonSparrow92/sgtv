@@ -9,10 +9,10 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Crime_2017.svg" group-title="Entertaiment",FOX Crime
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
+#EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Family
+#EXTINF:-1 tvg-id="FFM.Asia" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Family
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
@@ -72,13 +72,13 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 tvg-ID="AstroAwani.my" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
+#EXTINF:-1 tvg-id="Cer.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Malaysia",Astro Citra
+#EXTINF:-1 tvg-id="CIT.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Malaysia",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Malaysia",Astro Oasis
@@ -249,10 +249,10 @@ http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
 #EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="Entertaiment",Disney
 http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
+#EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 
-#EXTINF:-1 tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD
+#EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
