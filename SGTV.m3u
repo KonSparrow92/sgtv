@@ -264,10 +264,10 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="http://127.0.0.1/" tvg-logo="https://www.pngfind.com/pngs/m/167-1674877_top-suggestions-ofhbo-family-logo-png-hbo-signature.png" group-title="MOVIES", HBO Signature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO Malaysia
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO-Backup
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO-Backup
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-country="US" tvg-language="English" tvg-logo="https://w7.pngwing.com/pngs/178/921/png-transparent-mtv-live-hd-mtv2-viacom-media-networks-others-television-text-logo.png" group-title="Music",MTV Live HD
