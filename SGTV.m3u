@@ -4,6 +4,18 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
+#EXTINF:-1 channel-id="247" radio="false" tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/300?cb=20180325001201" tvg-country="US" group-title="Entertaiment",Warner TV
+http://203.154.243.89:11205/
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Crime_2017.svg" group-title="Entertaiment",FOX Crime
+http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="Entertaiment",FOX Action
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="Entertaiment",FOX Family
+http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
 
@@ -205,41 +217,23 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/174235.ts
 #EXTINF:-1tvg-id="" tvg-name="https://i.imgur.com/K3AtFDD.png" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",BT SPORTS 2
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/174237.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="Sports", Champions TV 1
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="Sports", Champions TV 2
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="Sports", Champions TV 3
-http://dituduhmaling.xyz/V11710/championstv3.m3u8
-
-#EXTINF:-1 radio="false" tvg-id="I112.12631.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" tvg-chno="4834" group-title="** US **",Cartoon Network
+#EXTINF:-1 radio="false" tvg-id="I112.12631.schedulesdirect.org" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" tvg-chno="4834" group-title="Entertaiment",Cartoon Network
 http://stream.tvtap.live:8081/live/cn.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="** US **", Cartoon Network 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Entertaiment", Cartoon Network 
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
-#EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="** US **",CBS
+#EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
 
-#EXTINF:-1 radio="false" tvg-id="I135.16794.schedulesdirect.org" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" tvg-chno="4836" group-title="** US **",Cinemax
+#EXTINF:-1 radio="false" tvg-id="I135.16794.schedulesdirect.org" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" tvg-chno="4836" group-title="Entertaiment",Cinemax
 http://stream.tvtap.live:8081/live/us-cinemax.stream/chunks.m3u8
 
-#EXTINF:-1 radio="false" tvg-id="I169.25788.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="** US **",Discovery
+#EXTINF:-1 radio="false" tvg-id="I169.25788.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="Entertaiment",Discovery
 http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
 
-#EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="** US **",Disney
+#EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="Entertaiment",Disney
 http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
-
-#EXTINF:-1 radio="false" tvg-id="I280.87056.schedulesdirect.org" tvg-name="Fox" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87056_dark_360w_270h.png" tvg-chno="4842" group-title="** US **",Fox
-http://stream.tvtap.live:8081/live/us-fox.stream/chunks.m3u8
-
-#EXTINF:-1 radio="false" tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82541_dark_360w_270h.png" tvg-chno="4843" group-title="** US **",Fox Sports 1
-http://stream.tvtap.live:8081/live/foxsports1.stream/chunks.m3u8
-
-#EXTINF:-1 radio="false" tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s33178_dark_360w_270h.png" tvg-chno="4844" group-title="** US **",Fox Sports 2
-http://stream.tvtap.live:8081/live/foxsports2.stream/chunks.m3u8
 
 #EXTINF:-1 channel-id="1" radio="false" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" tvg-chno="3459" group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -253,20 +247,17 @@ http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", ONE HD
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" tvg-logo="" group-title="MOVIES", ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+#EXTINF: -1 tvg-id="HBOSignatureEast.us" tvg-logo="http://127.0.0.1/" tvg-logo="https://www.pngfind.com/pngs/m/167-1674877_top-suggestions-ofhbo-family-logo-png-hbo-signature.png" group-title="MOVIES", HBO Signature
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
 #EXTINF:-1 channel-id="90" radio="false" tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-chno="3539" tvg-country="MY" group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO" group-title="MOVIES",HBO-Backup
-https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
-
-#EXTINF:-1 channel-id="247" radio="false" tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/300?cb=20180325001201" tvg-country="US" group-title="MOVIES",Warner TV
-http://203.154.243.89:11205/
+http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (720p)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
