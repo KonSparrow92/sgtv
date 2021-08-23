@@ -214,16 +214,16 @@ https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest/scale-to-width-down/600?cb=20200929173213",Astro Supersport HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23453,http://iptv.tvmalaysia.cc:80/139664/139664/6708
+http://iptv.tvmalaysia.cc:80/139664/139664/6708
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png",Astro Supersport 2 HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23452,http://iptv.tvmalaysia.cc:80/139664/139664/6710
+http://iptv.tvmalaysia.cc:80/139664/139664/6710
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/813.png/revision/latest/scale-to-width-down/600?cb=20200929173928",Astro Supersport 3 HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/23451,http://iptv.tvmalaysia.cc:80/139664/139664/6711
+http://iptv.tvmalaysia.cc:80/139664/139664/6711
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/814.png/revision/latest/scale-to-width-down/600?cb=20200929174031",Astro Supersport 4 HD
-http://smarters.link:80/GKRd2v78K4/rBnbUy2853/33973,http://iptv.tvmalaysia.cc:80/139664/139664/6712
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
 #EXTINF:-1tvg-id="" tvg-name="https://i.imgur.com/K3AtFDD.png" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png",BT SPORTS 1
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/174235.ts
