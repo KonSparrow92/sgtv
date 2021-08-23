@@ -1,12 +1,28 @@
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png", FOX MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="FOX & HBO // IPTV Rilo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png", FOX MOVIES
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png", FOXCRIME
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="FOX & HBO // IPTV Rilo" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png", FOXCRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/djxb8zwv43efqm2/fox%20action%203.png?dl=1", FOX ACTION MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="FOX & HBO // IPTV Rilo" tvg-logo="https://www.dropbox.com/s/djxb8zwv43efqm2/fox%20action%203.png?dl=1", FOX ACTION MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1", FOX FAMILY MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="FOX & HBO // IPTV Rilo" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1", FOX FAMILY MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/2nco42w6houz4an/fox%20tv.png?dl=1", FOX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="FOX & HBO // IPTV Rilo" tvg-logo="https://www.dropbox.com/s/2nco42w6houz4an/fox%20tv.png?dl=1", FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="FOX & HBO // IPTV Rilo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="FOX & HBO // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo%201.jpg?dl=1", HBO
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
