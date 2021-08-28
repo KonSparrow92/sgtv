@@ -279,12 +279,6 @@ http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-ID="NickJrAsia.us" tvg-logo="https://img.favpng.com/24/22/17/nick-jr-too-nickelodeon-television-channel-png-favpng-UtKbg952dUtK73dVPf2qw9gam.jpg" group-title="Entertaiment", Nick Jr.
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="	CartoonNetworkAsia.us" tvg-name="Cartoon Network" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60048_dark_360w_270h.png" group-title="Entertaiment",Cartoon Network
-http://stream.tvtap.live:8081/live/cn.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="	CartoonNetworkAsia.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Entertaiment", Cartoon Network 
-http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
-
 #EXTINF:-1,group-title="Entertaiment", Cartoon Network HD
 http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts
 
