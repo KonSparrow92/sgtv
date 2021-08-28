@@ -9,7 +9,10 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Crime_2017.svg" group-title="Entertaiment",FOX Crime
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 
-#EXTINF:-1,group-title="Entertaiment", Cinemax HD
+#EXTINF:-1,group-title="MOVIES", Cinemax HD
+http://iptv.tvmalaysia.cc/live/932633/932633/9008.ts
+
+#EXTINF:-1,group-title="MOVIES", Cinemax HD-Backup
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 
 #EXTINF:-1,group-title="Entertaiment", FOX HD
@@ -22,7 +25,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
-http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+http://iptv.tvmalaysia.cc/live/932633/932633/9006.ts
 
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Family
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
@@ -274,16 +277,19 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="http://127.0.0.1/" tvg-logo="https://www.pngfind.com/pngs/m/167-1674877_top-suggestions-ofhbo-family-logo-png-hbo-signature.png" group-title="MOVIES", HBO Signature
-http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO-Backup
-http://107.167.5.66:80/mylive/102/2065/index.m3u8
+http://iptv.tvmalaysia.cc/live/932633/932633/7067.ts
 
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="Star Movies" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies-Backup
+http://iptv.tvmalaysia.cc/live/932633/932633/8997.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-country="US" tvg-language="English" tvg-logo="https://w7.pngwing.com/pngs/178/921/png-transparent-mtv-live-hd-mtv2-viacom-media-networks-others-television-text-logo.png" group-title="Music",MTV Live HD
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
