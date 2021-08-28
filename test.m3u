@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport2
-#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport1*
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport2*
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",!Astro SuperSport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",Astro SuperSport 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",!Astro SuperSport 3
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",!Astro SuperSport 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
