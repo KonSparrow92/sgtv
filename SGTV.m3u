@@ -213,6 +213,24 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7220.ts
 #EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="Documentary",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",National Geographic HD
+http://iptv.tvmalaysia.cc/live/932633/932633/7075.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",HGTV
+http://iptv.tvmalaysia.cc/live/932633/932633/7076.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Discovery Channel HD
+http://iptv.tvmalaysia.cc/live/932633/932633/7078.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",History
+http://iptv.tvmalaysia.cc/live/932633/932633/7079.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Nat Geo People
+http://iptv.tvmalaysia.cc/live/932633/932633/7080.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Nat Geo Wild
+http://iptv.tvmalaysia.cc/live/932633/932633/7081.ts
+
 #EXTINF:-1 tvg-id="FoxSportsMalaysia.us" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
 https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 
