@@ -237,6 +237,15 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6748.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", BeIN Sports
 http://iptv.tvmalaysia.cc/live/932633/932633/6749.ts
 
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", SuperSport Premier League
+http://iptv.tvmalaysia.cc/live/932633/932633/6574.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", SuperSport La Liga
+http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", SuperSport Football
+http://iptv.tvmalaysia.cc/live/932633/932633/6576.ts
+
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
 https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 
