@@ -1,9 +1,22 @@
 #EXTM3U
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 1
+#EXTINF:-1 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 1
 #http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 2
+#EXTINF:-1 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 2
 #http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 3
+#EXTINF:-1 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 3
 #http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 4
+#EXTINF:-1 tvg-id="bein1hd.jsc" group-title="WorldSports",ASSP 4
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport1
+#https://www.livedoomovies.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport2
+#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport1*
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",bt sport2*
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
