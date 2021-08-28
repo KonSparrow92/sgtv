@@ -1,16 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6708
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6710
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6711
-#EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6712
-
-#EXTINF:-1,Astro Super Sport 1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,Astro Super Sport 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,Astro Super Sport 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 2
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
