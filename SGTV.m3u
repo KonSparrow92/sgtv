@@ -6,8 +6,11 @@ http://203.154.243.89:11205/
 #EXTINF:-1, tvg-id="WAR.Asia" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV-Backup
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Crime_2017.svg" group-title="Entertaiment",FOX Crime
-http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
+http://iptv.tvmalaysia.cc/live/932633/932633/7223.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertaiment",FOX Crime
+http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts
 
 #EXTINF:-1,group-title="MOVIES", Cinemax HD
 http://iptv.tvmalaysia.cc/live/932633/932633/9008.ts
@@ -21,8 +24,11 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
 #EXTINF:-1, group-title="MOVIES", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1,group-title="Entertaiment", FOX Life HD
+#EXTINF:-1, group-title="Entertaiment", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
+
+#EXTINF:-1, group-title="Entertaiment", FOX Life-Backup
+http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts
 
 #EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
 http://iptv.tvmalaysia.cc/live/932633/932633/9006.ts
@@ -200,6 +206,9 @@ https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 
 #EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="MOVIES",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL
+http://iptv.tvmalaysia.cc/live/932633/932633/7220.ts
 
 #EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="Documentary",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
