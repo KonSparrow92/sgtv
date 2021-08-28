@@ -4,7 +4,7 @@
 http://203.154.243.89:11205/
 
 #EXTINF:-1, tvg-id="WAR.Asia" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV-Backup
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+http://iptv.tvmalaysia.cc/live/932633/932633/7072.ts
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
 http://iptv.tvmalaysia.cc/live/932633/932633/7223.ts
@@ -118,7 +118,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
+http://iptv.tvmalaysia.cc/live/932633/932633/6740.ts
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -231,6 +231,12 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7080.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Nat Geo Wild
 http://iptv.tvmalaysia.cc/live/932633/932633/7081.ts
 
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", BeIN MAX
+http://iptv.tvmalaysia.cc/live/932633/932633/6748.ts
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", BeIN Sports
+http://iptv.tvmalaysia.cc/live/932633/932633/6749.ts
+
 #EXTINF:-1 tvg-id="FoxSportsMalaysia.us" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
 https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 
@@ -278,6 +284,9 @@ http://stream.tvtap.live:8081/live/cn.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="	CartoonNetworkAsia.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Entertaiment", Cartoon Network 
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+
+#EXTINF:-1,group-title="Entertaiment", Cartoon Network HD
+http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts
 
 #EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
