@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",!Astro SuperSport 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",Astro SuperSport 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",!Astro SuperSport 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",!Astro SuperSport 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-19-091353.jpg",BT SPORT HD 1
+https://ilike.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-19-091353.jpg",BT SPORT HD 2
+https://ilike.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
