@@ -1,14 +1,12 @@
 #EXTM3U
-
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6708
-http://iptv.tvmalaysia.cc:80/989898/989898/6708
+
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 2 HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6710
-http://iptv.tvmalaysia.cc:80/989898/989898/6710
+
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 3 HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6711
-http://iptv.tvmalaysia.cc:80/989898/989898/6711
+
 #EXTINF:0 tvg-id="ext" group-title="WorldSports",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6712
-http://iptv.tvmalaysia.cc:80/989898/989898/6712
