@@ -145,9 +145,9 @@ http://gpc.my.id/vidio/rtv.m3u8
 http://dituduhmaling.xyz/V11710/RTV.m3u8
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-name="SCTV.id" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indonesia", SCTV
-https://ott-navigator.my.id/VISPLUS-MPD/master_visplus.m3u8?id=sctv
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
 
-#EXTINF:-1 tvg-id="SCT.ID" tvg-name="SCTV.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/logo_sctv_big1.png" group-title="Indonesia", SCTV-Backup
+#EXTINF:-1 tvg-id="SCT.ID" tvg-name="SCTV.id" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indonesia", SCTV-Backup
 https://akamai.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 
 #EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Indonesia", RCTI
