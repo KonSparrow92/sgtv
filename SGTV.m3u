@@ -117,7 +117,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
 http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
+#EXTINF:0 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/6740.ts
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
