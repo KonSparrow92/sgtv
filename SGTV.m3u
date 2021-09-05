@@ -12,13 +12,13 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7223.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertaiment",FOX Crime
 http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts
 
-#EXTINF:-1,group-title="MOVIES", Cinemax HD
+#EXTINF:-1 tvg-ID="CinemaxAsiaPlus1.us" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD
 http://iptv.tvmalaysia.cc/live/932633/932633/9008.ts
 
-#EXTINF:-1,group-title="MOVIES", Cinemax HD-Backup
+#EXTINF:-1 tvg-ID="CinemaxAsiaPlus1.us" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD-Backup
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 
-#EXTINF:-1,group-title="Entertaiment", FOX HD
+#EXTINF:-1 group-title="Entertaiment", FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1, group-title="MOVIES", FOX Movies HD
@@ -294,14 +294,11 @@ http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-ID="NickJrAsia.us" tvg-logo="https://img.favpng.com/24/22/17/nick-jr-too-nickelodeon-television-channel-png-favpng-UtKbg952dUtK73dVPf2qw9gam.jpg" group-title="Entertaiment", Nick Jr.
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
-#EXTINF:-1,group-title="Entertaiment", Cartoon Network HD
+#EXTINF:-1 tvg-ID="CartoonNetworkAsia.us" tvg-logo="https://www.subpng.com/png-qy49qf/download.html" group-title="Entertaiment", Cartoon Network HD
 http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts
 
 #EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
-
-#EXTINF:-1 radio="false" tvg-id="I135.16794.schedulesdirect.org" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" tvg-chno="4836" group-title="Entertaiment",Cinemax
-http://stream.tvtap.live:8081/live/us-cinemax.stream/chunks.m3u8
 
 #EXTINF:-1 radio="false" tvg-id="I169.25788.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="Entertaiment",Discovery
 http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
