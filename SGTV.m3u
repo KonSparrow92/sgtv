@@ -324,7 +324,7 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO HD-Backup
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO HD-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/7067.ts
 
 #EXTINF:-1 tvg-id="HBF.ASIA" tvg-name="HBO Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.pngg" group-title="MOVIES", HBO Family
