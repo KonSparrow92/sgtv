@@ -12,22 +12,22 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7223.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertaiment",FOX Crime
 http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts
 
-#EXTINF:-1 tvg-ID="CinemaxAsiaPlus1.us" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD
+#EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD
 http://iptv.tvmalaysia.cc/live/932633/932633/9008.ts
 
 #EXTINF:-1 tvg-ID="CinemaxAsiaPlus1.us" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD-Backup
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertaiment", FOX HD
+#EXTINF:-1 tvg-id="Fox.Asia" group-title="Entertaiment", FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1, group-title="MOVIES", FOX Movies HD
+#EXTINF:-1,tvg-id="FXM.Asia" group-title="MOVIES", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1, group-title="Entertaiment", FOX Life HD
+#EXTINF:-1, tvg-id="FXL.Asia" group-title="Entertaiment", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1, group-title="Entertaiment", FOX Life-Backup
+#EXTINF:-1, tvg-id="FXL.Asia" group-title="Entertaiment", FOX Life-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts
 
 #EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
@@ -138,10 +138,10 @@ https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-870
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://ott-navigator.my.id/VISPLUS-MPD/master_visplus.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Rajawali_Televisi_2014_stacked_below.svg/revision/latest/scale-to-width-down/512?cb=20200802115312"group-title="Indonesia",RTV
+#EXTINF:-1 tvg-ID="RTV.ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Rajawali_Televisi_2014_stacked_below.svg/revision/latest/scale-to-width-down/512?cb=20200802115312" group-title="Indonesia",RTV
 http://gpc.my.id/vidio/rtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Rajawali_Televisi_2014_stacked_below.svg/revision/latest/scale-to-width-down/512?cb=20200802115312"group-title="Indonesia",RTV-Backup
+#EXTINF:-1 tvg-ID="RTV.ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Rajawali_Televisi_2014_stacked_below.svg/revision/latest/scale-to-width-down/512?cb=20200802115312" group-title="Indonesia",RTV-Backup
 http://dituduhmaling.xyz/V11710/RTV.m3u8
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-name="SCTV.id" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indonesia", SCTV
@@ -289,7 +289,7 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="NickelodeonSouthEastAsia.us" tvg-logo="https://e7.pngegg.com/pngimages/982/982/png-clipart-logo-nickelodeon-arabia-television-bumper-nicktoons-splat-uk.png" group-title="Entertaiment", Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+http://iptv.tvmalaysia.cc/live/932633/932633/6814.ts
 
 #EXTINF:-1 tvg-ID="NickJrAsia.us" tvg-logo="https://img.favpng.com/24/22/17/nick-jr-too-nickelodeon-television-channel-png-favpng-UtKbg952dUtK73dVPf2qw9gam.jpg" group-title="Entertaiment", Nick Jr.
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
@@ -297,10 +297,10 @@ http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-ID="CartoonNetworkAsia.us" tvg-logo="https://www.subpng.com/png-qy49qf/download.html" group-title="Entertaiment", Cartoon Network HD
 http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts
 
-#EXTINF:-1 radio="false" tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
+#EXTINF:-1 tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
 
-#EXTINF:-1 radio="false" tvg-id="I169.25788.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="Entertaiment",Discovery
+#EXTINF:-1 tvg-id="I169.25788.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="Entertaiment",Discovery
 http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
 
 #EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="Entertaiment",Disney
@@ -335,9 +335,6 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/8997.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-country="US" tvg-language="English" tvg-logo="https://w7.pngwing.com/pngs/178/921/png-transparent-mtv-live-hd-mtv2-viacom-media-networks-others-television-text-logo.png" group-title="Music",MTV Live HD
-http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (720p)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
