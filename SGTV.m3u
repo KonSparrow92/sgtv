@@ -21,7 +21,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.Asia" group-title="Entertaiment", FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1,tvg-id="FXM.Asia" group-title="MOVIES", FOX Movies HD
+#EXTINF:-1,tvg-id="413" group-title="MOVIES", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life HD
@@ -321,7 +321,7 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="http://127.0.0.1/" tvg-logo="https://www.pngfind.com/pngs/m/167-1674877_top-suggestions-ofhbo-family-logo-png-hbo-signature.png" group-title="MOVIES", HBO Signature
 http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO HD
+#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD-Backup
