@@ -24,10 +24,10 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
 #EXTINF:-1,tvg-id="FXM.Asia" group-title="MOVIES", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="FXL.Asia" group-title="Entertaiment", FOX Life HD
+#EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest?cb=20191201074855" group-title="Entertaiment", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="FXL.Asia" group-title="Entertaiment", FOX Life-Backup
+#EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest?cb=20191201074855" group-title="Entertaiment", FOX Life-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts
 
 #EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
@@ -153,7 +153,7 @@ https://akamai.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 #EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Indonesia", RCTI
 https://akamai.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 
-#EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/rcti.png" group-title="Indonesia", RCTI-Backup
+#EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Indonesia", RCTI-Backup
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -219,7 +219,7 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7075.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",HGTV
 http://iptv.tvmalaysia.cc/live/932633/932633/7076.ts
 
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Discovery Channel HD
+#EXTINF:-1 tvg-ID="I169.25788.schedulesdirect.org" tvg-logo="" group-title="Documentary",Discovery Channel HD
 http://iptv.tvmalaysia.cc/live/932633/932633/7078.ts
 
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",History
@@ -300,7 +300,7 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts
 #EXTINF:-1 tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="I169.25788.schedulesdirect.org" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="Entertaiment",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="Documentary",Discovery
 http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
 
 #EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="Entertaiment",Disney
@@ -321,7 +321,7 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="http://127.0.0.1/" tvg-logo="https://www.pngfind.com/pngs/m/167-1674877_top-suggestions-ofhbo-family-logo-png-hbo-signature.png" group-title="MOVIES", HBO Signature
 http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO Malaysia
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO-Backup
