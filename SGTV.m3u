@@ -27,7 +27,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 #EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life-Backup
+#EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life HD-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts
 
 #EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
@@ -58,10 +58,10 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+http://iptv.tvmalaysia.cc/live/932633/932633/7177.ts
 
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+http://iptv.tvmalaysia.cc/live/932633/932633/7178.ts
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -80,6 +80,9 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9-Backup
+http://iptv.tvmalaysia.cc/live/932633/932633/7185.ts
 
 #EXTINF:-1 tvg-ID="TVS.MY" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg" group-title="Malaysia",TV Sarawak
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
