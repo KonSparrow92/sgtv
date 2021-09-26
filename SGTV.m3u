@@ -7,7 +7,7 @@ http://203.154.243.89:11205/
 http://iptv.tvmalaysia.cc/live/932633/932633/7072.ts
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
-http://iptv.tvmalaysia.cc/live/932633/932633/7223.ts
+http://45.126.83.51/dr9445/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertaiment",FOX Crime
 http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts
@@ -308,6 +308,9 @@ http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL-Backup
+http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
