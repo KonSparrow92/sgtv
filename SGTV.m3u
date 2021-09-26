@@ -31,7 +31,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts
 
 #EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
-http://iptv.tvmalaysia.cc/live/932633/932633/9006.ts
+http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/20.ts
 
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Family
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
@@ -118,10 +118,10 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
+http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:0 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
-http://iptv.tvmalaysia.cc/live/932633/932633/6740.ts
+http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -307,9 +307,6 @@ http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL
-http://iptv.tvmalaysia.cc/live/932633/932633/7220.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL-Backup
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
@@ -326,6 +323,9 @@ http://watchindia.net:8880/live/54739/54739/2103.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
 http://watchindia.net:8880/live/54739/54739/2101.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD-Backup
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" tvg-logo="" group-title="Malaysia", ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
