@@ -19,10 +19,10 @@ http://iptv.tvmalaysia.cc/live/932633/932633/9008.ts
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Asia" group-title="Entertaiment", FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/83
 
 #EXTINF:-1,tvg-id="413" group-title="MOVIES", FOX Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/58
 
 #EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
@@ -340,7 +340,7 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD-Backup
-http://iptv.tvmalaysia.cc/live/932633/932633/7067.ts
+https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.pngg" group-title="MOVIES", HBO Family
 http://iptv.tvmalaysia.cc/live/932633/932633/7070.ts
