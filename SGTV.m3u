@@ -295,7 +295,7 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6814.ts
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="CartoonNetworkAsia.us" tvg-logo="https://www.subpng.com/png-qy49qf/download.html" group-title="Entertaiment", Cartoon Network HD
-http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts
+
 
 #EXTINF:-1 tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
