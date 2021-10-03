@@ -118,7 +118,7 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:0 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
 http://iptv.tvmalaysia.cc:80/100904/100904/6740
