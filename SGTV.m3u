@@ -351,39 +351,6 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/8997.ts
 
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Premiere
-http://watchindia.net:8880/live/54739/54739/2169.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Select
-http://watchindia.net:8880/live/54739/54739/2170.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Hits
-http://watchindia.net:8880/live/54739/54739/2171.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Greats
-http://watchindia.net:8880/live/54739/54739/2172.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Family
-http://watchindia.net:8880/live/54739/54739/2173.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Disney
-http://watchindia.net:8880/live/54739/54739/2175.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Action
-http://watchindia.net:8880/live/54739/54739/2176.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Comedy
-http://watchindia.net:8880/live/54739/54739/2177.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Thriller
-http://watchindia.net:8880/live/54739/54739/2178.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Drama
-http://watchindia.net:8880/live/54739/54739/2179.ts
-
-#EXTINF:-1,group-title="MOVIES", Sky Cinema Sci-Fi/Horror
-http://watchindia.net:8880/live/54739/54739/2180.ts
-
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (720p)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
