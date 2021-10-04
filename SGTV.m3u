@@ -247,13 +247,13 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
 http://iptv.tvmalaysia.cc/live/932633/932633/6576.ts
 
 #EXTINF:-1 tvg-id="815" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+http://67.73.246.186:8000/play/a01e
 
 #EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+http://67.73.246.186:8000/play/a016
 
 #EXTINF:-1 tvg-id="817" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+http://67.73.246.186:8000/play/a017
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest/scale-to-width-down/750?cb=20190123083011", Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
