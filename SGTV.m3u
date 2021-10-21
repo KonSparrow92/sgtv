@@ -115,7 +115,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD-Backup
-http://live8.sin4proxy.iptv9k.com:80/review_stream/riakbmm22/i.m3u8
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6730
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
