@@ -22,7 +22,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/83
 
 #EXTINF:-1,tvg-id="413" group-title="MOVIES", FOX Movies HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/58
+http://93.157.62.180:80/FoxMovies/index.m3u8
 
 #EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
