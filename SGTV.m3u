@@ -112,13 +112,13 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-http://iptv.tvmalaysia.cc:80/penang174/penang174/6730
+http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
 
 #EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD-Backup
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/warna.m3u8
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
 http://iptv.tvmalaysia.cc:80/100904/100904/6740
@@ -295,7 +295,7 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6814.ts
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="CartoonNetworkAsia.us" tvg-logo="https://www.subpng.com/png-qy49qf/download.html" group-title="Entertaiment", Cartoon Network HD
-
+http://vvc.to:80/189684019898/855647498450/175259
 
 #EXTINF:-1 tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
 http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
