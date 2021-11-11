@@ -112,16 +112,16 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
+http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD-Backup
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://5.161.45.72:5080/WebRTCApp/streams/warna.m3u8
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
-http://iptv.tvmalaysia.cc:80/100904/100904/6740
+http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -325,7 +325,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 http://watchindia.net:8880/live/54739/54739/2103.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
-http://watchindia.net:8880/live/54739/54739/2101.ts
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202509
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD-Backup
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
