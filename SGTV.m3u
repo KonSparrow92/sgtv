@@ -338,9 +338,10 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD-Backup
 https://gratismkctv.net/film/hbo.m3u8
+
+#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO ALT
+http://50.7.61.148:30080/Entry/hbo
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.pngg" group-title="MOVIES", HBO Family
 http://iptv.tvmalaysia.cc/live/932633/932633/7070.ts
