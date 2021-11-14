@@ -9,6 +9,10 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7072.ts
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN-Backup
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertaiment",FOX Crime
 http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts
 
@@ -247,13 +251,13 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
 http://iptv.tvmalaysia.cc/live/932633/932633/6576.ts
 
 #EXTINF:-1 tvg-id="815" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
-http://67.73.246.186:8000/play/a01e
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
 #EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
-http://67.73.246.186:8000/play/a016
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
 #EXTINF:-1 tvg-id="817" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
-http://67.73.246.186:8000/play/a017
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest/scale-to-width-down/750?cb=20190123083011", Astro Arena HD
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -313,16 +317,10 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD_Backup
-http://watchindia.net:8880/live/54739/54739/2088.ts
+https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD_Backup
-http://watchindia.net:8880/live/54739/54739/2103.ts
+https://snehz5tv.herokuapp.com?c=0-9-privehd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
 https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202509
@@ -340,8 +338,8 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 https://gratismkctv.net/film/hbo.m3u8
 
-#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO ALT
-http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES", Flix Chinese Sub
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.pngg" group-title="MOVIES", HBO Family
 http://iptv.tvmalaysia.cc/live/932633/932633/7070.ts
