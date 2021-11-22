@@ -7,6 +7,7 @@ http://203.154.243.89:11205/
 http://iptv.tvmalaysia.cc/live/932633/932633/7072.ts
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN-Backup
@@ -241,15 +242,6 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6748.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", BeIN Sports
 http://iptv.tvmalaysia.cc/live/932633/932633/6749.ts
 
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", SuperSport Premier League
-http://iptv.tvmalaysia.cc/live/932633/932633/6574.ts
-
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", SuperSport La Liga
-http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
-
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", SuperSport Football
-http://iptv.tvmalaysia.cc/live/932633/932633/6576.ts
-
 #EXTINF:-1 tvg-id="815" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
@@ -311,10 +303,7 @@ http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL
-http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL-Backup
-http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
+http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
 https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
@@ -350,6 +339,10 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD-Backup
 http://iptv.tvmalaysia.cc/live/932633/932633/8997.ts
 
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
+#http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
+https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
+
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (720p)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
@@ -373,3 +366,6 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 
 #EXTINF:-1 tvg-id="VEVORBUS.us" tvg-name="VEVO R&B (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fJFzPB7.jpg" group-title="Music",VEVO R&B (US) (1080p)
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
+http://iptv.prosto.tv:7000/ch128/video.m3u8
