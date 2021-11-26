@@ -63,10 +63,10 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
-http://iptv.tvmalaysia.cc/live/932633/932633/7177.ts
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV2
-http://iptv.tvmalaysia.cc/live/932633/932633/7178.ts
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -75,7 +75,7 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-ID="NTV7.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
@@ -102,30 +102,26 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cer.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang123/penang123/7267
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-id="CIT.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Malaysia",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+https://link.zozotv.xyz/ding/ding/37
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Malaysia",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 
 #EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD-Backup
-http://5.161.45.72:5080/WebRTCApp/streams/riaa.m3u8
+http://wanicelife.com:8880/SFL143456/73U700Y1/1705
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-
-#EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna-Backup
+http://wanicelife.com:8880/SFL143456/73U700Y1/1706
+http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
 http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
@@ -153,25 +149,13 @@ http://gpc.my.id/vidio/rtv.m3u8
 http://dituduhmaling.xyz/V11710/RTV.m3u8
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-name="SCTV.id" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indonesia", SCTV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
-
-#EXTINF:-1 tvg-id="SCT.ID" tvg-name="SCTV.id" tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Indonesia", SCTV-Backup
-https://akamai.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
 #EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Indonesia", RCTI
-https://akamai.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
-
-#EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Indonesia", RCTI-Backup
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://ott-navigator.my.id/VISPLUS-MPD/master_visplus.m3u8?id=rcti
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
 
 #EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Indonesia", INDOSIAR
-https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-205
-
-#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Indonesia", INDOSIAR-Backup
-https://akamai.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
 #EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
@@ -213,7 +197,7 @@ https://akamai.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.
 https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 
 #EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="MOVIES",Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599322
 
 #EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="Documentary",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
@@ -324,8 +308,8 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-https://gratismkctv.net/film/hbo.m3u8
+https://dik.si/SEhbo?shareext.m3u8
+http://homeplex.live:8080/FQWA9E9wHF/nWYRuhPJwe/34793
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES", Flix Chinese Sub
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
