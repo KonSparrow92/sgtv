@@ -293,9 +293,9 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
-http://50.7.61.148:30080/Entry/hbo
 http://iptv.tvmalaysia.cc:80/kl570/kl570/7067
 http://urtv.cc:80/jalan8/jalan8/7071
+http://50.7.61.148:30080/Entry/hbo
 https://dik.si/SEhbo?shareext.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES", Flix Chinese Sub
