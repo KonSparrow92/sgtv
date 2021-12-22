@@ -109,16 +109,15 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 
 #EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
 https://my.odtv.uk/live/9486331171/7860879594/13.ts
+
+#EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_2
 http://iptv.tvmalaysia.cc/jalan8/jalan8/6730
-https://nonton.site:8443/Ainamanja/RPLf79Gusm/37332
 
 #EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
 https://my.odtv.uk/live/9486331171/7860879594/18.ts
-http://wanicelife.com:8880/SFL143456/73U700Y1/1706
-https://link.zozotv.xyz/ding/ding/35
-http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
-http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 http://iptv.tvmalaysia.cc/jalan8/jalan8/6740
+
+#EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna_2
 http://urtv.cc:80/jalan8/jalan8/6740
 http://iptv.tvmalaysia.cc:80/kl570/kl570/6740
 
@@ -291,14 +290,15 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="http://127.0.0.1/" tvg-logo="https://www.pngfind.com/pngs/m/167-1674877_top-suggestions-ofhbo-family-logo-png-hbo-signature.png" group-title="MOVIES", HBO Signature
+http://50.7.61.148:30080/Entry/hbo
 http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
 https://my.odtv.uk/live/9486331171/7860879594/72.ts
+
+#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD_2
 http://iptv.tvmalaysia.cc:80/kl570/kl570/7067
 http://urtv.cc:80/jalan8/jalan8/7071
-http://50.7.61.148:30080/Entry/hbo
-https://dik.si/SEhbo?shareext.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES", Flix Chinese Sub
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -308,6 +308,8 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7070.ts
 
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD_2
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
