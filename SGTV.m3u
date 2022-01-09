@@ -7,30 +7,11 @@ http://203.154.243.89:11205/
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
 http://50.7.61.148:30080/Entry/axn
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertaiment",FOX Crime
-http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts
-
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD
-http://iptv.tvmalaysia.cc:80/kl570/kl570/7062
+http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/MAX.m3u8
 
-#EXTINF:-1 tvg-id="Fox.Asia" group-title="Entertaiment", FOX HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/83
-
-#EXTINF:-1,tvg-id="413" group-title="MOVIES", FOX Movies HD
-http://93.157.62.180:80/FoxMovies/index.m3u8
-
-#EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="FXL.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Entertaiment", FOX Life HD-Backup
-http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts
-
-#EXTINF:-1 tvg-id="FAM.Asia" tvg-name="FOX Action" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Action
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/20.ts
-
-#EXTINF:-1 tvg-id="FFM.Asia" tvg-name="FOX Family" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/318-3185379_fox-family-movies-logo-hd-png-download.png" group-title="MOVIES",FOX Family
-http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/kl570/kl570/9027
+#EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD_Backup
+https://kopiku.my.id/inr/hbo2.m3u8?channel=max
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
@@ -282,9 +263,6 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" tvg-logo="" group-title="Malaysia", ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES", HBO ALT
-http://50.7.61.148:30080/Entry/hbo
-
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
 https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
 http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/HBO.m3u8
@@ -292,11 +270,17 @@ http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/HBO.m3u8
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD_Backup
 https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="MOVIES",HBO Signature
+https://kopiku.my.id/inr/hbo2.m3u8?channel=sig
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" group-title="MOVIES",HBO Family
+https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" group-title="MOVIES",HBO Hits
+https://kopiku.my.id/inr/hbo2.m3u8?channel=hit
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES", Flix Chinese Sub
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.pngg" group-title="MOVIES", HBO Family
-http://iptv.tvmalaysia.cc/live/932633/932633/7070.ts
 
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
