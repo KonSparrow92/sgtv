@@ -7,10 +7,10 @@ http://203.154.243.89:11205/
 http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD
-http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/MAX.m3u8
+https://kopiku.my.id/inr/hbo2.m3u8?channel=max
 
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD_Backup
-https://kopiku.my.id/inr/hbo2.m3u8?channel=max
+http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/MAX.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
@@ -87,10 +87,10 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 
-#EXTINF:-1 tvg-id="Ria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
+#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
 http://zalogitv.tech:8080/padji33/33334444/1819
 
-#EXTINF:-1 tvg-id="War.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
+#EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
 http://zalogitv.tech:8080/padji33/33334444/1818
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
@@ -272,10 +272,10 @@ https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="MOVIES",HBO Signature
 https://kopiku.my.id/inr/hbo2.m3u8?channel=sig
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" group-title="MOVIES",HBO Family
 https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" group-title="MOVIES",HBO Hits
 https://kopiku.my.id/inr/hbo2.m3u8?channel=hit
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES", Flix Chinese Sub
