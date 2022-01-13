@@ -88,6 +88,9 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
+http://urtv.cc:80/penang181/penang181/6730
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_backup
 http://zalogitv.tech:8080/padji33/33334444/1819
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
@@ -315,3 +318,107 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1 tvg-id="VEVORBUS.us" tvg-name="VEVO R&B (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fJFzPB7.jpg" group-title="Music",VEVO R&B (US) (1080p)
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 
+
+##VOD##
+
+#EXTINF:-1 tvg-id="" tvg-name="The 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj0EPtI1mEwqjR34RQJdnbns0am.jpg" group-title="VOD",The 355 (2022)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5764.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 20th Anniversary: Return to Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34Xss3gwKdwvtomCDkeC2lW4PVB.jpg" group-title="VOD",Harry Potter 20th Anniversary: Return to Hogwarts (2022)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5738.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Sing 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="VOD",Sing 2 (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5737.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Afterlife (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQzuB0ieTDgxO2vGI6nDQvH1zxY.jpg" group-title="ENGLISH",Ghostbusters: Afterlife (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5526.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="VOD",Spider-Man: No Way Home (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5355.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Welcome to Raccoon City (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg" group-title="VOD",Resident Evil: Welcome to Raccoon City (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5510.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg" group-title="VOD",Eternals (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3249.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Mother/Android (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv200_bestv2/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg" group-title="VOD",Mother/Android (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5512.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Swan Song (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0WW5vX58oMEg9aRRTB5QtG1Vyn.jpg" group-title="VOD",Swan Song (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5511.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Rumble (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVKfyo2YQ1Sf0fKzZfc5t9HM6eK.jpg" group-title="VOD",Rumble (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5513.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="VOD",The Matrix Resurrections (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5515.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SkzM3TPpt72FoO46NSjipNXkNG.jpg" group-title="VOD",Don't Look Up (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5520.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Spider in the Attic (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16GLoqmzcnpAe5CIeCWYthhyiNl.jpg" group-title="VOD",Spider in the Attic (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3248.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/shang-chi-poster_660fcb9f.jpeg" group-title="VOD",Shang-Chi and the Legend of the Ten Rings
+http://w.nasvpn.xyz:8080/movie/saya/saya/3255.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="No Time to Die (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="VOD",No Time to Die (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3281.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg" group-title="VOD",Red Notice (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3282.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Cop Movie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV8nVK5Z3vpuEpZGPWFa69Lb7L9.jpg" group-title="VOD",A Cop Movie (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3237.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Army of Thieves (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg" group-title="VOD",Army of Thieves (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4146.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="VOD",Dune (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3236.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Never Back Down: Revolt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icAG01wZyy1ZpS3UEnPReph3jMV.jpg" group-title="VOD",Never Back Down: Revolt (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3242.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Finch (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="VOD",Finch (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3246.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Adopted (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u8HFtdvmCW4ldM527CveUc2IJr.jpg" group-title="VOD",Adopted (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/3247.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Rambo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45YC86aMjWlcPkvgWwqdI6Clq7b.jpg" group-title="VOD",Rambo (2008)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4145.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="VOD",Black Widow (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4698.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="I Care a Lot (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg" group-title="VOD",I Care a Lot (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4699.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Raya and the Last Dragon (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg" group-title="VOD",Raya and the Last Dragon (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4700.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Unkind (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIVAoYst8fU5gpE3K9BaXSiYmYm.jpg" group-title="VOD",The Unkind (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4703.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Copshop (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szArp3dQlVajpsqpyPFVAFHFsa3.jpg" group-title="VOD",Copshop (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4147.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Last Duel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg" group-title="VOD",The Last Duel (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4938.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Bhoot Police (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="VOD",Bhoot Police (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4944.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Unforgivable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPQM1zqqsm6Lw1tHF41BwbmOkya.jpg" group-title="VOD",The Unforgivable (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5314.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Thor: End of Days (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8Jn9wBMCmmhS5T3CkcmqwFhsQ.jpg" group-title="VOD",Thor: End of Days (2020)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5350.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Protector (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKE9BxgtT5g2pE3ZKC7MnzsAbTZ.jpg" group-title="VOD",The Protector (2005)
+http://w.nasvpn.xyz:8080/movie/saya/saya/4488.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bhuj: The Pride of India (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdWesowyWuM2C5FjNkF589lGiu7.jpg" group-title="VOD",Bhuj: The Pride of India (2021)
+http://w.nasvpn.xyz:8080/movie/saya/saya/5147.mkv
