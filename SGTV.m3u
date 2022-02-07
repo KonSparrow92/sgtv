@@ -231,7 +231,10 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest/scale-to-width-down/600?cb=20200929173213",Astro Supersport HD
-https://tinyurl.com/32a67rds
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://goldentv.tech:25461/rachman/rachman/25010
+#http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59220.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" group-title="Sports" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png",Astro Supersport 2 HD
 https://tinyurl.com/ym8cntjt
@@ -240,7 +243,10 @@ https://tinyurl.com/ym8cntjt
 https://tinyurl.com/5f3atddd
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/814.png/revision/latest/scale-to-width-down/600?cb=20200929174031",Astro Supersport 4 HD
-https://tinyurl.com/cwvzchmv
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://goldentv.tech:25461/rachman/rachman/25015
+#http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Entertaiment", Disney XD
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
@@ -273,9 +279,11 @@ http://210.210.155.35/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/
 http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
@@ -310,10 +318,10 @@ http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD_2
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+http://foctv.xyz:25510/Imrany/BB1732/220
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
 #http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
