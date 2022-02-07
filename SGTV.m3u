@@ -73,7 +73,14 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cer.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
-http://iptv.tvmalaysia.cc:80/penang123/penang123/7267
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:network-caching=333
+https://raw.githubusercontent.com/karlfazreen/mylisting/main/xtroceria.m3u8
+
+#EXTINF:-1 tvg-id="Cer.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria_ALT
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+https://tinyurl.com/2c5e92de
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
