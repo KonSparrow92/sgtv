@@ -88,10 +88,26 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-https://my.odtv.uk/live/9486331171/7860879594/13.ts
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:network-caching=333
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+https://tinyurl.com/2p8e9pfc
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_ALT
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+https://tinyurl.com/4ufknwmc
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-https://my.odtv.uk/live/9486331171/7860879594/18.ts
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:network-caching=333
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+https://tinyurl.com/2352r5dz
+
+#EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna_ALT
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
+https://tinyurl.com/5n6kynjc
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
