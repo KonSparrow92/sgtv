@@ -7,10 +7,7 @@ http://203.154.243.89:11205/
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD
-https://kopiku.my.id/inr/hbo2.m3u8?channel=max
-
-#EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD_Backup
-http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/MAX.m3u8
+https://live.astradamy.com/hbogo/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
@@ -95,21 +92,13 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:network-caching=333
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/2p8e9pfc
+https://tinyurl.com/2p94fcn6
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_ALT
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/4ufknwmc
+https://tinyurl.com/2msfprdb
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:network-caching=333
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/2352r5dz
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117671
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna_ALT
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -279,15 +268,13 @@ http://210.210.155.35/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/
 http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202509
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117532
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD-Backup
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
@@ -296,36 +283,32 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
-http://50.7.61.148:30080/Entry/hbo
-http://202.83.123.80/Gegonjer-TV/Master/INI_HBO/HBO.m3u8
+https://live.astradamy.com/hbogo/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD_ALT
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117571
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="MOVIES",HBO Signature
-https://kopiku.my.id/inr/hbo2.m3u8?channel=sig
+https://live.astradamy.com/hbogo/hbosig/index.m3u8
 
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" group-title="MOVIES",HBO Family
-https://kopiku.my.id/inr/hbo2.m3u8?channel=fam
+https://live.astradamy.com/hbogo/hbofam/index.m3u8
 
 #EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" group-title="MOVIES",HBO Hits
-https://kopiku.my.id/inr/hbo2.m3u8?channel=hit
+https://live.astradamy.com/hbogo/hbohits/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES", Flix Chinese Sub
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1, group-title="Movies",tvg-logo="", tvN
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-
-#EXTINF:-1, group-title="Movies",tvg-logo="", tvNMovies
-http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-http://foctv.xyz:25510/Imrany/BB1732/220
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1896
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
 #http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
 https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
+
+#EXTINF:-1 tvg-id="MTVSpankingNew.us" tvg-name="MTV Spanking New" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Spanking New (720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (720p)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
