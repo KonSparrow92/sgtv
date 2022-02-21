@@ -3,6 +3,9 @@
 #EXTINF:-1, tvg-id="WAR.Asia" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV
 http://203.154.243.89:11205/
 
+#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/animax.png" group-title="Entertaiment", Animax 2
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117500
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 
@@ -206,6 +209,9 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6748.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", BeIN Sports
 http://iptv.tvmalaysia.cc/live/932633/932633/6749.ts
 
+#EXTINF: -1 tvg-logo="http://cloudserver.server-cdn-streaming.com/live-player/11/1634022552-27CDF3C5-71BB2109.png" group-title="Sports", SPOTV 1 (MOTOGP)
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117332
+
 #EXTINF:-1 tvg-id="815" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
@@ -260,6 +266,8 @@ http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
 #EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="Entertaiment",Disney
 http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
 
+############################################### MOVIES ######################################
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL
 http://210.210.155.35/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
 
@@ -276,7 +284,7 @@ http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMF
 https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117532
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD-Backup
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117532
 
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" tvg-logo="" group-title="Malaysia", ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -305,6 +313,8 @@ http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1896
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
 #http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
 https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
+
+############################################### MUSIC ######################################
 
 #EXTINF:-1 tvg-id="MTVSpankingNew.us" tvg-name="MTV Spanking New" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Spanking New (720p)
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
