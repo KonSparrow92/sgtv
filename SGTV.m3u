@@ -92,18 +92,17 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599227
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-https://tinyurl.com/2p94fcn6
+http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/1705
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_ALT
+https://tinyurl.com/2p94fcn6
 https://tinyurl.com/2msfprdb
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117671
+http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/1706
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna_ALT
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/2.8.4
-https://tinyurl.com/5n6kynjc
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -318,6 +317,15 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Music",1HD Music Television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="Music",MTV 80s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv80s
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1200px-MTV-Logo.svg.png" group-title="Music",MTV 90s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
+
+#EXTINF:-1 tvg-id="" group-title="Music"  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/mtvclassic.png", MTV Classic
+http://supportstreams.net:80/558585765/n4ySrfoH20/357
 
 #EXTINF:-1 tvg-id="VEVO2KUS.us" tvg-name="VEVO 2K (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="Music",VEVO 2K (US) (1080p)
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
