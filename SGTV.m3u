@@ -203,6 +203,11 @@ http://iptv.tvmalaysia.cc/live/932633/932633/7080.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Nat Geo Wild
 http://iptv.tvmalaysia.cc/live/932633/932633/7081.ts
 
+######################################  SPORTS  #####################################
+
+#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", MOTO GP HD
+http://mytv.fun:8080/afbpayt3zf/hoy2322qzl/686219
+
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", BeIN MAX
 http://iptv.tvmalaysia.cc/live/932633/932633/6748.ts
 
@@ -241,6 +246,8 @@ https://tinyurl.com/5f3atddd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://goldentv.tech:25461/rachman/rachman/25015
 #http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
+
+###################################  KIDS  ###################################
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Entertaiment", Disney XD
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
