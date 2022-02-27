@@ -226,26 +226,26 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-id="817" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest/scale-to-width-down/750?cb=20190123083011", Astro Arena HD
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="Sports",ASTRO SUPERSPORT HD
+http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287306.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest/scale-to-width-down/600?cb=20200929173213",Astro Supersport HD
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goldentv.tech:25461/rachman/rachman/25010
-#http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59220.m3u8
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="Sports",ASTRO SUPERSPORT 2 HD
+http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287305.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" group-title="Sports" tvg-logo="https://ia800804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png",Astro Supersport 2 HD
-https://tinyurl.com/ym8cntjt
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="Sports",ASTRO SUPERSPORT 3 HD
+http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287304.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/813.png/revision/latest/scale-to-width-down/600?cb=20200929173928",Astro Supersport 3 HD
-https://tinyurl.com/5f3atddd
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="Sports",ASTRO SUPERSPORT 4 HD
+http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287303.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/814.png/revision/latest/scale-to-width-down/600?cb=20200929174031",Astro Supersport 4 HD
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://goldentv.tech:25461/rachman/rachman/25015
-#http://meu02.cularu.com:8880/live/dyw12m3n4983/x2V52z9P7K/59217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="Sports",Astro Supersport 4_Backup
+http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="Sports",Astro Supersport 5 HD
+http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287302.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="Sports",Astro Supersport 5_Backup
+http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 
 ###################################  KIDS  ###################################
 
