@@ -92,19 +92,9 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71020
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/1705
-
-#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_ALT
-https://tinyurl.com/2p94fcn6
-https://tinyurl.com/2msfprdb
-
-#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_Backup
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1705
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/1706
-
-#EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna_ALT
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1706
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
@@ -182,27 +172,6 @@ https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 #EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="MOVIES",Boo
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1697
 
-#EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="Documentary",National Geographic Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",National Geographic HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7075.ts
-
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",HGTV
-http://iptv.tvmalaysia.cc/live/932633/932633/7076.ts
-
-#EXTINF:-1 tvg-ID="I169.25788.schedulesdirect.org" tvg-logo="" group-title="Documentary",Discovery Channel HD
-http://iptv.tvmalaysia.cc/live/932633/932633/7078.ts
-
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",History
-http://iptv.tvmalaysia.cc/live/932633/932633/7079.ts
-
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Nat Geo People
-http://iptv.tvmalaysia.cc/live/932633/932633/7080.ts
-
-#EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Documentary",Nat Geo Wild
-http://iptv.tvmalaysia.cc/live/932633/932633/7081.ts
-
 ######################################  SPORTS  #####################################
 
 #EXTINF:-1 tvg-ID="" tvg-logo="" group-title="Sports", MOTO GP HD
@@ -247,32 +216,6 @@ http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287302.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="Sports",Astro Supersport 5_Backup
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 
-###################################  KIDS  ###################################
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Entertaiment", Disney XD
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="Entertaiment", Disney Jr.
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="NickelodeonSouthEastAsia.us" tvg-logo="https://e7.pngegg.com/pngimages/982/982/png-clipart-logo-nickelodeon-arabia-television-bumper-nicktoons-splat-uk.png" group-title="Entertaiment", Nickelodeon
-http://iptv.tvmalaysia.cc/live/932633/932633/6814.ts
-
-#EXTINF:-1 tvg-ID="NickJrAsia.us" tvg-logo="https://img.favpng.com/24/22/17/nick-jr-too-nickelodeon-television-channel-png-favpng-UtKbg952dUtK73dVPf2qw9gam.jpg" group-title="Entertaiment", Nick Jr.
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="CartoonNetworkAsia.us" tvg-logo="https://www.subpng.com/png-qy49qf/download.html" group-title="Entertaiment", Cartoon Network HD
-http://vvc.to:80/189684019898/855647498450/175259
-
-#EXTINF:-1 tvg-id="I115.10098.schedulesdirect.org" tvg-name="CBS" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10098_dark_360w_270h.png" tvg-chno="4835" group-title="Entertaiment",CBS
-http://stream.tvtap.live:8081/live/us-cbs.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25788_dark_360w_270h.png" tvg-chno="4837" group-title="Documentary",Discovery
-http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
-
-#EXTINF:-1 radio="false" tvg-id="I186.79589.schedulesdirect.org" tvg-name="Disney" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" tvg-chno="4838" group-title="Entertaiment",Disney
-http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
-
 ############################################### MOVIES ######################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL
@@ -292,9 +235,6 @@ http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD-Backup
 http://103.153.39.36:8000/play/a016
-
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" tvg-logo="" group-title="Malaysia", ONE HD
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
 https://live.astradamy.com/hbogo/hbo/index.m3u8
@@ -316,10 +256,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1896
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
-#http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
-https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
 
 ############################################### MUSIC ######################################
 
