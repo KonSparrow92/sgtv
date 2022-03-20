@@ -83,7 +83,7 @@ https://tinyurl.com/2c5e92de
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-id="CIT.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="Malaysia",Astro Citra
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71146
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Malaysia",Astro Oasis
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
@@ -92,10 +92,18 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71020
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1705
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_Backup
+https://tinyurl.com/47ef5b4z
+#https://tinyurl.com/2n7nve7k
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
-http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1706
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
+
+#EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna_Backup
+https://tinyurl.com/cdddk2p3
+#https://tinyurl.com/2p84vdkx
 
 #EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -225,10 +233,10 @@ http://210.210.155.35/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/
 http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-name="&Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="MOVIES",&Flix HD
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34503?token=TURYAhZYEAwSXQIBCVcCBwAHAVMADFEPBQpTBlAJBFQCUwJTBgAFVFVGTxBLF0AGVA9uD1IbCQUFBlQGShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RQD1ccQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/104.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD
-http://45.86.190.64:25461/FQWA9E9wHF/nWYRuhPJwe/34478?token=TURYAhZYEAwSVFZWXVMFUg0HV1QACFUOCFAADAAPVVAPBFEBXFQDAgJGTxBLF0AGVA9uD1IbCQUFB1MNShsTFlMUbwoBEggUAVdSBQ1WC0EZQEUPW1wRDAAFUARSD1RTBFMcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXFEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/105.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
 http://live.flixhub.net/hls/sonypixhd.m3u8
@@ -256,6 +264,9 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="MOVIES",Star Movies HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1896
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="MOVIES",Rock Entertaiment
+http://210.210.129.106/dr9445/h/h16/01.m3u8
 
 ############################################### MUSIC ######################################
 
