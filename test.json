@@ -1,0 +1,71 @@
+{
+  "categories": [
+    {
+      "name": "Sample Basic",
+      "channels": [
+        {
+          "name": "Channel Basic",
+          "stream_url": "https://.../basic.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sample with DRM",
+      "channels": 5
+        {
+          "name": "5",
+          "drm_id": "https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57",
+          "stream_url": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd"
+        },
+        {
+          "name": "Channel Widevine",
+          "drm_id": "drm_wv",
+          "stream_url": "https://.../widevine.mpd"
+        },
+        {
+          "name": "Channel PlayReady",
+          "drm_id": "drm_pr",
+          "stream_url": "https://.../playready.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Sample with UserAgent & Referer",
+      "channels": [
+        {
+          "name": "Channel /w UserAgent",
+          "stream_url": "https://.../useragent.m3u8",
+          "user_agent": "VLCPlayer (Android 12)"
+        },
+        {
+          "name": "Channel /w Referer",
+          "stream_url": "https://.../referer.m3u8",
+          "referer": "https://..."
+        },
+        {
+          "name": "Channel /w UA+Referer",
+          "stream_url": "https://.../ua-referer.m3u8",
+          "user_agent": "VLCPlayer (Android 12)",
+          "referer": "https://..."
+        }
+      ]
+    }
+  ],
+  "drm_licenses": [
+    {
+      "drm_id": "drm_ck",
+      "drm_type": "clearkey",
+      "drm_key": "AAAABBBB:00001111"
+    },
+    {
+      "drm_id": "drm_wv",
+      "drm_type": "widevine",
+      "drm_key": "https://..."
+    },
+    {
+      "drm_id": "drm_pr",
+      "drm_type": "playready",
+      "drm_key": "https://..."
+    }
+  ]
+}
