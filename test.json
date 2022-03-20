@@ -7,7 +7,6 @@
           "name": "Channel Basic",
           "stream_url": "https://.../basic.m3u8"
         }
-      ]
     },
     {
       "name": "Sample with DRM",
