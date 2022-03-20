@@ -248,7 +248,7 @@ http://103.153.39.36:8000/play/a016
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD_ALT
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117571
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="MOVIES",HBO Signature
 https://live.astradamy.com/hbogo/hbosig/index.m3u8
