@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-19-091353.jpg",BT SPORT HD 1
-https://ilike.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1  group-title="กีฬา" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-19-091353.jpg",BT SPORT HD 2
-https://ilike.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="TEST" group-title="KIDS",Cartoon Network 
+https://liveanevia.mncnow.id:443/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
