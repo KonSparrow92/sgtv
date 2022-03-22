@@ -3,15 +3,6 @@
 #EXTINF:-1, tvg-id="WAR.Asia" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png" group-title="Entertaiment",Warner TV
 http://203.154.243.89:11205/
 
-#EXTINF: -1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/animax.png" group-title="Entertaiment", Animax 2
-https://m3u-editor.com/serve/66b9b160-8c67-11ec-b408-8386ce95908a/497117500
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertaiment", AXN
-http://45.126.83.51/dr9445/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="MOVIES", Cinemax HD
-https://live.astradamy.com/hbogo/cinemax/index.m3u8
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
 
