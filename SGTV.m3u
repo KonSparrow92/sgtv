@@ -4,9 +4,11 @@
 http://203.154.243.89:11205/
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
+h#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
 
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",8频道
@@ -16,6 +18,7 @@ https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
 https://d3inlz9elsutjl.cloudfront.net/hls/clr4ctv_chu/master.m3u8
 
 #EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="Singapore",Suria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 
 #EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="Singapore",Vasantham
@@ -40,7 +43,8 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-ID="NTV7.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",八度空间
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -56,7 +60,8 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1, tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Drama-Sangat-2020.png" group-title="Malaysia" ,Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-ID="AstroAwani.my" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
@@ -81,7 +86,8 @@ http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&t
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima
-https://link.zozotv.xyz/live/@nasanash/Lifetime8899/33.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+http://163.172.223.171:8080/12810/7f788911/157467?token=ShUNAEFcElxEXVVXDFoGVVhTBQVYDgJdBggFVA4DBwIEUlNTAABVUFMaGEZKTREDAFhpWAUVDwgDBldUAE5DFkJSFz5bUBJcRAsCVQkMQUpDQV9cBBUPCAAFW1YBU1lVCRtHEVtQElxECwNVCBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAEMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggMVl9DGRRSDkJbTURIQVgVJyRBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUA0FOFQ8ODVhDChNtRFkCRAIWVw8LWkQc
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
 https://my.odtv.uk:443/live/1115051340/3656236281/13.m3u8
@@ -274,6 +280,10 @@ http://210.210.129.106/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="MOVIES",Rock Entertaiment_Alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie Sphere" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4f41754c25e159dfb8bae8d9e6101bad/images/titan/assets/aHR0cHM6Ly9tb3ZpZXNwaGVyZS5zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9Nc3BoZXJlX1RodW1ibmFpbF8xOTIweDEwODAuanBn.jpg" group-title="MOVIES",Movie Sphere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 ############################################### MUSIC ######################################
 
