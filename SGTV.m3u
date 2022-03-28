@@ -236,10 +236,12 @@ http://live.flixhub.net/hls/sonypixhd.m3u8
 http://103.153.39.36:8000/play/a016
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD
-http://ip2121.com:8081/web1/hbo/playlist.m3u8
+http://iptv.tvfix.org/hls/hbo.m3u8
+#http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD_ALT
-http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+#EXTINF:-1 tvg-id="411" tvg-name="HBO Malaysia" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" group-title="MOVIES",HBO HD_ALT 1hr diff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="MOVIES",HBO Signature
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
