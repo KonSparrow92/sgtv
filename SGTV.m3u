@@ -83,11 +83,10 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599225
 https://link.zozotv.xyz/live/@nasanash/Lifetime8899/33.ts
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
+https://my.odtv.uk:443/live/1115051340/3656236281/13.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia",Astro Ria HD_Backup
-https://tinyurl.com/47ef5b4z
-#https://tinyurl.com/2n7nve7k
+https://tinyurl.com/2n7nve7k
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
@@ -228,6 +227,10 @@ https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/104.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",&Prive HD
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/105.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="MOVIES", Cinemax (thai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix HD
 http://live.flixhub.net/hls/sonypixhd.m3u8
