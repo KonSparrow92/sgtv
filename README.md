@@ -7,8 +7,9 @@ This Player supports M3U playlists with EPG. [Click Here](https://drive.google.c
 
 ![OTT Player](https://play-lh.googleusercontent.com/pwJ9CyW2JB81t8_cACHW24Ez3kT0PmdcwE4soz3G4vgGaTpUuuVIvpMgua7P4vNFPg=w720-h310-rw)
 
-## NontonTv by Hariimurti
+## NontonTv V2.4 by Hariimurti
 This Player does not support EPGs but supports playlists that have DRMs. [Click Here](https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.4_b540.apk) to Download
+
 
 Place the URL https://konsparrow92.github.io/sgtv/SGTV.m3u into player and load
 
