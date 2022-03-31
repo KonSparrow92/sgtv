@@ -32,11 +32,13 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroPrima" group-title="ARBI | ASTRO" ch-number="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",105 Astro Prima AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF:-1 group-title="ARBI | ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",104 Astro Ria AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+https://linears-playback.astro.com.my/vsg/41V1tuby9aI8xK_VjN6T8TiuSx0GWFekMjIGLDx7_8a6A=jacu/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",Indosiar
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
