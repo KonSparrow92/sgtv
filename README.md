@@ -15,7 +15,10 @@ Or you can also download an alternative player below
 This Player does not support EPGs but supports playlists that have DRMs. [Click Here](https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.4_b540.apk) to Download
 
 
-Copy the URL `https://konsparrow92.github.io/sgtv/SGTV.m3u` into player and load
+Copy the URL into player and load
+```
+https://konsparrow92.github.io/sgtv/SGTV.m3u
+```
 
 Codes here are all found in github. free to use not for sale.
 
