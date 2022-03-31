@@ -26,9 +26,7 @@ This app is not recommended to be used to play live channels but for TV shows th
 
 
 Once u have downloaded the required player *Copy* the URL into player and load.
-```
-https://konsparrow92.github.io/sgtv/SGTV.m3u
-```
+`https://konsparrow92.github.io/sgtv/SGTV.m3u`
 
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
