@@ -1,6 +1,6 @@
 # SGTV
 
-## [Download OTT Player lite](https://dl1.uapkpro.org/2020/12/OTT_Navigator_AF_1.6.3.8_UltraLite_Hifi2007.apk)
+## [Download OTT Player Pro lite](https://drive.google.com/file/d/1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0/view?usp=sharing)
 Or
 ## [NontonTv by Hariimurrti](https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.4_b540.apk)
 
