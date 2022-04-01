@@ -1,7 +1,30 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="ARBI | SUKAN" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",811 Astro SuperSport HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 group-title="ARBI | ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",104 Astro Ria AstGO
-https://linears-playback.astro.com.my/vsg/41V1tuby9aI8xK_VjN6T8TihZlehe05IiGQp-3EE1-nbU=vLDh/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41CtIFLbClVZKsX8S-kQPzaMBIjdsUDi8cI1nyH_p9Z3E=YX3S/dash-wv/jitp-linearwm/601/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="ARBI | SUKAN" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/412CMfoMlkvhFwlfS3loHUpOVHKW-YtMSYQNuCPNfrgFo=pDWs/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="ARBI | SUKAN" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41B3VzQs9ffkWXX0MHOxms7rhJLJURko87tRQhOF47eac=q3IW/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="ARBI | SUKAN" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41x2EmXlcpk9lrZCnNrNC6FYbgDonILdrOnYxPXry1uvk=lGgz/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
+#EXTINF: -1 tvg-id="AstroSupersport5" group-title="ARBI | SUKAN" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD AstGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
