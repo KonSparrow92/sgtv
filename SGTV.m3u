@@ -12,11 +12,6 @@ https://on-load.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="Entertaiment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Entertaiment",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 h#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
@@ -428,6 +423,174 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax Asia
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+=========================== DOCUMENTARY ==================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Documentary",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf5f00d7c35e9a0c4515d93e3938c10:2c2d00ff93b69f9e5e6c377fc8c80cc7
+#EXTINF:-1 tvg-id="715" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="Documentary",HGTV FHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="Documentary",HGTV HD
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3743253e4717ebb939a814f6a20ac10:455e412c13c6369c12555ade2af64a04
+#EXTINF:-1 tvg-id="555" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Documentary",History FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Documentary",History HD
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=394a40dfff6320fca4a327d7c3127610:68633db62849223bb7de00c64f87166f
+#EXTINF:-1 group-title="Documentary" tvg-id="551" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographicAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c626a3022340ea1d7af15e51a118a10:543ce4c3e6139f46c4a95c57ef64f540
+#EXTINF:-1 group-title="Documentary" tvg-id="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographicWildAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8b132be22fca4d1538e2cfa009f08a10&key=d0a2208f3d5a556f831ad4de9fe7e31c
+#EXTINF:-1 tvg-id="554" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="Documentary",BBC Earth FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="Documentary" ch-number="" tvg-id="BBCEarthAsia.uk" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth HD
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ac5123e3450ed42e5c03a4e9f07b710:5e01133b2bc59acf9d9ce16849365671
+#EXTINF:-1 tvg-id="556" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Documentary",Animal Planet FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Documentary",Animal Planet HD
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=398c7f60db4c1639c85be89047de8310&key=7b78f26fd99c7f9e43349547dc8030bc
+#EXTINF:-1 tvg-id="552" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Documentary",Discovery Channel FHD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Documentary",Discovery Channel HD
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5ac299099f8bd93d1cc5a96180d7810:6d931bb991f70059daba1d552f2b4427
+#EXTINF:-1 tvg-id="553" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Documentary",DISCOVERY ASIA FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b73add6f0c8f2f01ad2029f8b19fa310:799dabe972f9c41a25ba37daa73a5fe5
+#EXTINF:-1 tvg-id="714" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Documentary",Crime & Investigation FHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Documentary",Crime & Investigation
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b732fb1488c37774919ae7b4ab0f8010:62d4fdbfee0f22b6b0aaa6db9f8410c6
+#EXTINF:-1 tvg-id="707" tvg-name="TLC HD" group-title="Documentary" tvg-logo="https://iili.io/1NxCTF.png",TLC FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Documentary",TLC HD
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="Documentary",Discovery Science
+#http://live.flixhub.net/hls/dis-science.m3u8
+http://50.7.218.42:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea24fcf5a4e5a1a25a8d118c088dc510:effd0dfaddcd0e533314d5305abe031c
+#EXTINF:-1 tvg-id="716" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-uk-plus1-us-uk.png" group-title="Documentary",DMAX
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0e855d7fb11721129c13d4c1b645e10:2ddd4b255921d5c2a331e5f10f302be0
+#EXTINF:-1 tvg-id="709" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="Documentary",Asian Food Network FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="Documentary",Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0845d8900e973747e70c9f61ebed2d10:4bdb394a43bb955d6d67107620de17db
+#EXTINF:-1 tvg-id="708" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="Documentary",FOOD NETWORK FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+
+======================= KOREA============================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4667aa2bb9d080471f43e03d40868c10;116db8fda0a62355cf24c6acb6aab03d
+EXTINF:-1 tvg-id="416" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="Korea",tvN MOVIES FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="Korea" tvg-id="416" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies HD
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
+#EXTINF:-1 tvg-id="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="Korea",tvN FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+EXTINF:-1 group-title="Korea" tvg-id="TVNPremiumIndonesia.kr" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
+#EXTINF:-1 tvg-id="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Korea",ONE FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+EXTINF:-1 tvg-id="393" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Korea",One HD
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dcd711054d1b3e2b16b41e2446d8c10:f0b97c062a990e4b99cfed4527aed878
+#EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="Korea",OH!K FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddd9708a62b9e2eb44448dd1a6841310:0b248e71fef0c27988fa10049b32f309
+#EXTINF:-1 tvg-id="393" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="Korea",K+
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 ############################################### MUSIC ######################################
 
