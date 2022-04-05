@@ -1,38 +1,39 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
-http://linears-playback.astro.com.my/vsg/41pmuS7c8WyxokQmpmo4VuuBKuiOOmBedcI0L_4IA0UCE=xM6m/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbNfk.png",HBO HD 
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17706273_ico.png",HBO HITS 
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvRma.png",HBO SIGNATURE 
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvisf.png",HBO FAMILY 
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbKJW.png",CINEMAX 
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Entertaiment",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+==================== assp ===================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/41M58MLDIexJFblr4bmptB8ZUtwV34rAB5_zbOTNT28Lo=LHJ8/dash-wv/jitp-linearwm/2402/default_ott.mpd
-
-++++++++++++++++++++++++++++++++++ ASSP ++++++++++++++++++++++++++++++++
+#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
+http://elemento.x10.mx/stream/assp1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-#EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="MuZu | Sports",ASTRO SUPERSPORT
-http://linears-playback.astro.com.my/vsg/41i4KxCsxtb7T4S7lA0D3vNKCsrVS1fSpyfKDXf5EdBNg=a-t1/dash-wv/jitp-linearwm/601/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
+http://elemento.x10.mx/stream/assp2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-#EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="MuZu | Sports",ASTRO SUPERSPORT 2
-http://linears-playback.astro.com.my/vsg/414gE4Gt5Fujs2UtykMhD_GpBIrSfcDbT3bqJeVQaDjOs=Si8L/dash-wv/jitp-linearwm/2104/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
+http://elemento.x10.mx/stream/assp3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-#EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="MuZu | Sports",ASTRO SUPERSPORT 3
-http://linears-playback.astro.com.my/vsg/41GXsmUyvm17xk7Mzmk6yJoejGHZGkWIEbXS8X_cEhMhc=FZKn/dash-wv/jitp-linearwm/2701/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-#EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="MuZu | Sports",ASTRO SUPERSPORT 4
-http://linears-playback.astro.com.my/vsg/410EP8QkPvquEgYNKzG-oIdX2pNfOM3J4S6XNyZGtwlhM=TGlL/dash-wv/jitp-linearwm/2506/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
-#EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="MuZu | Sports",ASTRO SUPERSPORT 5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
+http://elemento.x10.mx/stream/assp4.mpd
