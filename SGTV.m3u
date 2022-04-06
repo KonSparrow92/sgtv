@@ -7,9 +7,14 @@
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 https://on-load.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
+#EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
+#EXTINF:-1 tvg-id="701" group-title="Entertaiment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 ================== Singapore =====================
@@ -379,6 +384,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Backup_MOVIES",BOO
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
 #EXTINF:-1 tvg-id="404" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Backup_MOVIES",Boo_ALT
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1697
 
@@ -388,7 +398,7 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 https://on-load.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",THRILL
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Backup_MOVIES",THRILL
 http://iptv.tvfix.org/hls/thrill.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="MOVIES", Cinemax (thai)
@@ -396,8 +406,8 @@ http://iptv.tvfix.org/hls/thrill.m3u8
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
-#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://iili.io/1NCG4V.png",CINEMAX HD
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="https://iili.io/1NCG4V.png",Cinemax HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Backup_MOVIES", Cinemax ALT
@@ -429,10 +439,10 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="Backup_MOVIES",HBO Signature_ALT
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" group-title="Backup_MOVIES",HBO Signature_ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 
@@ -440,6 +450,11 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
+#EXTINF:-1 tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIES",HBO Family 2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" group-title="Backup_MOVIES",HBO Family_ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
