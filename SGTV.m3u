@@ -12,6 +12,8 @@ https://on-load.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="Entertaiment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
+================== Singapore =====================
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 h#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
@@ -36,6 +38,11 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+========================== Malaysia =========================
+
+#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
@@ -44,15 +51,12 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
-#EXTINF:-1 tvg-ID="TV6.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Malaysia",TV 6
-https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-ID="TV6.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Malaysia",TV 6
+https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-ID="NTV7.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
@@ -136,6 +140,8 @@ http://210.210.129.106/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/6a4670d01e328b6ca20cf1a7a3aeb773.png" group-title="Malaysia",MY FAMILY CHANNEL
 http://210.210.129.106/uq2663/h/h194/index.m3u8
+
+===================== Indonesia =========================
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://otto-aplikasi.xyz/asset/image/logo/mnc.png" group-title="Indonesia",MNCTV
 https://www.ott-navigator.my.id/USEETV-GMPD/master.m3u8?channel=vidio-870
