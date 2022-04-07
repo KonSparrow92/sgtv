@@ -1,19 +1,34 @@
 # Free IPTV Player and Channel Playlist
 
-Works on android based devices only.
+**Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="50" height="12.5"> based devices running 5.0 and above only.**
+
 
 ## *Player Download*
-  - ### OTT Player Pro lite 
-    This Player supports M3U playlists with EPG. 
-
+  - ### OTT Player Pro lite (Live Tv) <img src="https://modyolo.com/wp-content/uploads/2021/12/ott-navigator-iptv-150x150.jpg" width="30" height="30">
+  
+  [FAQs](https://ottnav.github.io/faq.html)
+    
+This Player supports M3U playlists with EPG.
+   
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0)
 
 ![OTT Player](https://play-lh.googleusercontent.com/06G8NX5ToJcqS6YPv1GR-V4yfwYasXgaxWkZ6k3kASK-GYHsZ7gnEbiFKK460e33Yukp=w720-h310-rw)
 
 ![OTT Player](https://play-lh.googleusercontent.com/pwJ9CyW2JB81t8_cACHW24Ez3kT0PmdcwE4soz3G4vgGaTpUuuVIvpMgua7P4vNFPg=w720-h310-rw)
 
-  - ### Netflix Mod by ApkMody
-    This app is not recommended to be used to play live channels but for TV shows that is available on all streaming platforms **EG; Netflix, HBO Go, Disney plus etc.**
+
+  - ### Netflix Mod by ApkMody (Tv Series)
+    This app is not recommended to be used to play live channels.
+    
+    Recommended for TV shows that is available on various streaming platforms 
+    
+      - Netflix 
+    
+      - HBO Go 
+    
+      - Disney plus 
+    
+      - etc*
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1Nw0Kc5ywlzKUwlGL690ylVBy7gWuSNN-)
 
@@ -30,6 +45,8 @@ Once u have downloaded the required player ***Copy*** the URL into player and lo
 
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
+
+## ***Disclaimer***
 
 Codes here are all found in github. free to use not for sale.
 
