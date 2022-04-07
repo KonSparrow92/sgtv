@@ -1,11 +1,10 @@
 # Free IPTV Player and Channel Playlist
 
-**Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="50" height="12.5"> based devices running 5.0 and above only.**
+**Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
 
 ## *Player Download*
-  - ### OTT Player Pro lite (Live Tv) <img src="https://modyolo.com/wp-content/uploads/2021/12/ott-navigator-iptv-150x150.jpg" width="30" height="30">
-  
+  - ### OTT Player Pro lite (Live Tv)  :tv:
   [FAQs](https://ottnav.github.io/faq.html)
     
 This Player supports M3U playlists with EPG.
@@ -17,7 +16,7 @@ This Player supports M3U playlists with EPG.
 ![OTT Player](https://play-lh.googleusercontent.com/pwJ9CyW2JB81t8_cACHW24Ez3kT0PmdcwE4soz3G4vgGaTpUuuVIvpMgua7P4vNFPg=w720-h310-rw)
 
 
-  - ### Netflix Mod by ApkMody (Tv Series)
+  - ### Netflix Mod by ApkMody (Tv Series/Movies) :tv: :movie_camera:
     This app is not recommended to be used to play live channels.
     
     Recommended for TV shows that is available on various streaming platforms 
@@ -50,7 +49,7 @@ Be sure to ***Reload/Refresh*** the playlist once a week to get the latest updat
 
 Codes here are all found in github. free to use not for sale.
 
-***FREE TO USE*** IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
+:money_with_wings::money_with_wings::money_with_wings::money_with_wings: ***FREE TO USE*** IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***! :money_with_wings::money_with_wings::money_with_wings::money_with_wings:
 
 FORK ME!
 
