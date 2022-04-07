@@ -41,13 +41,7 @@ This Player supports M3U playlists with EPG.
 
 Once u have downloaded the required player ***Copy*** the URL into player and load.
 
-<details><summary>Playlist URL</summary>
-<p>
-  
 **`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
-
-</p>
-</details>
 
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
