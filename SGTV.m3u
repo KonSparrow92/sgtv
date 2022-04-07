@@ -23,7 +23,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 #EXTINF:-1 tvg-id="701" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN East Asia
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-================================================================= Singapore =======================================================================================
+================================================================== Singapore =======================================================================================
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5 (OKTO)
 h#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
