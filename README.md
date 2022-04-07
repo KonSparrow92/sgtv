@@ -4,7 +4,7 @@
 
 
 ## *Player Download*
-  - ### OTT Player Pro lite (Live Tv)  :tv:
+  - ### OTT Player Pro lite (Live Tv)
   [FAQs](https://ottnav.github.io/faq.html)
     
 This Player supports M3U playlists with EPG.
@@ -16,7 +16,7 @@ This Player supports M3U playlists with EPG.
 ![OTT Player](https://play-lh.googleusercontent.com/pwJ9CyW2JB81t8_cACHW24Ez3kT0PmdcwE4soz3G4vgGaTpUuuVIvpMgua7P4vNFPg=w720-h310-rw)
 
 
-  - ### Netflix Mod by ApkMody (Tv Series/Movies) :tv: :movie_camera:
+  - ### Netflix Mod by ApkMody (Tv Series/Movies)
     This app is not recommended to be used to play live channels.
     
     Recommended for TV shows that is available on various streaming platforms 
@@ -49,7 +49,7 @@ Be sure to ***Reload/Refresh*** the playlist once a week to get the latest updat
 
 Codes here are all found in github. free to use not for sale.
 
-:money_with_wings::money_with_wings::money_with_wings::money_with_wings: ***FREE TO USE*** IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***! :money_with_wings::money_with_wings::money_with_wings::money_with_wings:
+***FREE TO USE*** IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
 
 FORK ME!
 
