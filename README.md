@@ -10,7 +10,7 @@
     
 This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsparrow92.github.io/sgtv/SETUP.html)
    
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0)<< Android 5.0 and above      [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1BSMOKT1Zcjt77pY4GEz6fKjRa_yG0PTe)<< Android 4.4
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0)<< For Android 5.0 and above      [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1BSMOKT1Zcjt77pY4GEz6fKjRa_yG0PTe)<< For Android 4.4
 
 ![OTT Player](https://play-lh.googleusercontent.com/06G8NX5ToJcqS6YPv1GR-V4yfwYasXgaxWkZ6k3kASK-GYHsZ7gnEbiFKK460e33Yukp=w720-h310-rw)
 
