@@ -1,10 +1,15 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO RIA HD
-https://nonton.site:8443/live/1842273725/9237641816/37332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO PRIMA HD
-https://nonton.site:8443/live/1842273725/9237641816/37333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO OASIS HD
-https://nonton.site:8443/live/1842273725/9237641816/37334.m3u8
+http://lnk.ec/astroria.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO WARNA HD
-https://nonton.site:8443/live/1842273725/9237641816/37335.m3u8
+http://lnk.ec/Warna.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO RIA HD B
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://lnk.ec/astroria.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO WARNA HD B
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://lnk.ec/Warna.m3u8
