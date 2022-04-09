@@ -14,9 +14,13 @@ This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsp
 
 ![OTT Player](https://play-lh.googleusercontent.com/pwJ9CyW2JB81t8_cACHW24Ez3kT0PmdcwE4soz3G4vgGaTpUuuVIvpMgua7P4vNFPg=w720-h310-rw)
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0) << For Android 5.0 and above
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0)
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1BSMOKT1Zcjt77pY4GEz6fKjRa_yG0PTe) << For Android 4.4
+For Android 5.0 and above
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1BSMOKT1Zcjt77pY4GEz6fKjRa_yG0PTe)
+
+For Android 4.4
 
   - ### Netflix Mod by ApkMody (Tv Series/Movies)
    
@@ -36,7 +40,9 @@ Recommended for TV shows that is available on various streaming platforms
     
 - etc*
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1Nw0Kc5ywlzKUwlGL690ylVBy7gWuSNN-)<< Android 5.0 and above
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1Nw0Kc5ywlzKUwlGL690ylVBy7gWuSNN-)
+
+Android 5.0 and above
 
 
 ## ***Playlist URL***
