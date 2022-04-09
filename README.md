@@ -9,32 +9,34 @@
   [FAQs](https://ottnav.github.io/faq.html)
     
 This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsparrow92.github.io/sgtv/SETUP.html)
-   
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0)<< For Android 5.0 and above      [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1BSMOKT1Zcjt77pY4GEz6fKjRa_yG0PTe)<< For Android 4.4
 
 ![OTT Player](https://play-lh.googleusercontent.com/06G8NX5ToJcqS6YPv1GR-V4yfwYasXgaxWkZ6k3kASK-GYHsZ7gnEbiFKK460e33Yukp=w720-h310-rw)
 
 ![OTT Player](https://play-lh.googleusercontent.com/pwJ9CyW2JB81t8_cACHW24Ez3kT0PmdcwE4soz3G4vgGaTpUuuVIvpMgua7P4vNFPg=w720-h310-rw)
 
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1NlYaoay6-gK5TxJGerGJNFhN9dxhwpk0) << For Android 5.0 and above
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1BSMOKT1Zcjt77pY4GEz6fKjRa_yG0PTe) << For Android 4.4
 
   - ### Netflix Mod by ApkMody (Tv Series/Movies)
-    This app is not recommended to be used to play live channels.
-    
-    Recommended for TV shows that is available on various streaming platforms 
-    
-      - Netflix 
-    
-      - HBO Go 
-    
-      - Disney plus 
-    
-      - etc*
-
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1Nw0Kc5ywlzKUwlGL690ylVBy7gWuSNN-)<< Android 5.0 and above
-
+   
 <img src="https://theleaker.com/wp-content/uploads/2019/05/netflix_logo.0.jpg" width="550" height="300">
 
 <img src="https://apkmodo.net/wp-content/uploads/2019/12/netflix-7-54-0-pro-4k-unlocked-0MovkIpp.jpg" width="550" height="300">
+
+This app is not recommended to be used to play live channels.
+
+Recommended for TV shows that is available on various streaming platforms 
+    
+- Netflix 
+    
+- HBO Go 
+    
+- Disney plus 
+    
+- etc*
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1Nw0Kc5ywlzKUwlGL690ylVBy7gWuSNN-)<< Android 5.0 and above
 
 
 ## ***Playlist URL***
