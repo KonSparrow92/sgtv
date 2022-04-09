@@ -264,16 +264,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" group-title="Chinese" tvg-logo="https://iili.io/1NB4Xj.png",Astro Hua Hee Dai HD CH333
 https://linears-playback.astro.com.my/vsg/21uRsll1l3HycZyhhRKd2NEYunyzj2Jnxj8ff5ZEpKWZk=9g8x/dash-wv/jitp-linearwm/2308/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="STAR Chinese Movies HD" tvg-name="STAR Chinese Movies HD" tvg-url="http://www.transvision.co.id" tvg-logo="http://dusktill.masuk.web.id/img/scm.png" group-title="Chinese",STAR Chinese Movies
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="SCM Legend" tvg-name="SCM Legend" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/scmlegend.png" group-title="Chinese",STAR Chinese Movies Legend
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
-
 
 ###############################################################  KIDS  #####################################################################################
 
@@ -311,21 +301,6 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=3e4bcc300dc5f243ba5d5b4efca9fd10:364bdb669b85e49ef93d0de8b9f31cf3
 #EXTINF:-1 tvg-id="617" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="Cartoon",NickJr
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Disney.uk" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/disneychannel.png" group-title="Cartoon",Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="DisneyJunior.uk" tvg-name="" tvg-logo="https://i.imgur.com/tx8XjmM.png" group-title="Cartoon",Disney Junior
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="DisneyXD.uk" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/disneyxd.png" group-title="Cartoon",Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd
 
 ###############################################################  SPORTS  ##########################################################################################
 
@@ -428,30 +403,15 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg",FOX Sports HD
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
-#EXTINF:-1 tvg-id="foxsport1" tvg-logo="https://i.postimg.cc/RhsPxq2C/logo-foxsports1-big.png" group-title="SPORT INDO",FOX SPORT [VSN+]
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg",FOX Sports 2 HD
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
-#EXTINF:-1 tvg-id="foxsport2" tvg-logo="https://i.postimg.cc/MKLssMyd/logo-foxsports2-big.png" group-title="SPORT INDO",FOX SPORT 2 [VSN+]
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD" group-title="Sports" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png",FOX Sports 3 HD
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
-
-#EXTINF:-1 tvg-id="foxsport3" tvg-logo="https://i.postimg.cc/RFvG3cBV/logo-foxsports3-big.png" group-title="SPORT INDO",FOX SPORTS 3 [VSN+]
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
 #EXTINF:-1 tvg-id="821" ch-number="821" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
