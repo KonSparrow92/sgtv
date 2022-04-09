@@ -1,15 +1,10 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO RIA HD
-http://lnk.ec/astroria.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Fox Sport 1 FHD
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO WARNA HD
-http://lnk.ec/Warna.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Fox Sport 2 FHD
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO RIA HD B
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://lnk.ec/astroria.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVID",  MY - ASTRO WARNA HD B
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://lnk.ec/Warna.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Sports",Fox Sport 3 FHD
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
