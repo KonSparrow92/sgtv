@@ -18,6 +18,8 @@ This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsp
 
 For Android 5.0 and above
 
+### For older devices, please download from the link below.
+
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/uc?export=download&id=1BSMOKT1Zcjt77pY4GEz6fKjRa_yG0PTe)
 
 For Android 4.4
