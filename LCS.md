@@ -133,4 +133,4 @@
 | MTV CLASSICS | | X | |
 
 
-[^1]: Not all channels are listed
+[^1]: Not Complete List
