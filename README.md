@@ -2,6 +2,7 @@
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
+Please use Chrome Browser <img src ="https://static.wikia.nocookie.net/logopedia/images/b/b4/Google_Chrome_2022.svg/revision/latest/scale-to-width-down/200?cb=20220405034021" width=20 height=20> to download the apps listed below.
 
 ## *Player Download*
 
@@ -32,13 +33,13 @@ For Android 4.4
 
 This app is not recommended to be used to play live channels.
 
-Recommended for TV shows that is available on various streaming platforms 
+Recommended for TV shows that is available on various streaming platforms such as:-
     
-- Netflix 
+- <img src="https://static.wikia.nocookie.net/logopedia/images/5/5d/Netflix_2014.svg/revision/latest/scale-to-width-down/512?cb=20201124111638" width=80 height=35>
     
-- HBO Go 
+- <img src="https://static.wikia.nocookie.net/logopedia/images/4/4e/HBO_GO_logo.svg/revision/latest/scale-to-width-down/600?cb=20151111230556" width=80 height=35>
     
-- Disney plus 
+- <img src="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/1000?cb=20211113035143" width=80 height=35> 
     
 - etc*
 
@@ -55,13 +56,21 @@ Once u have downloaded the required player ***Copy*** the URL into player and lo
 
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
+Click [HERE](https://konsparrow92.github.io/sgtv/LCS.html) to check the status of the channels.
+
+As all the channels are given free from this site, please understand that the channels may not be very stable at times.
+
+It is recommended that you purchase your own channels from your local provider for a smoother experience.
+
 
 ## ***Disclaimer***
 
-Codes here are all found in github. free to use not for sale.
+Codes here are all found in github.
 
-***FREE TO USE*** IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
+***FREE TO USE, NOT FOR SALE***
+
+IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
 
 FORK ME!
 
-Site built using [**Github Pages**](https://github.com)
+Site built using [**Github Pages**](https://github.com) <img src="https://static.wikia.nocookie.net/logopedia/images/8/8f/25231.svg/revision/latest/scale-to-width-down/439?cb=20180326041942" width=20 height=20>
