@@ -2,7 +2,7 @@
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
-Please use Chrome Browser <img src ="https://static.wikia.nocookie.net/logopedia/images/b/b4/Google_Chrome_2022.svg/revision/latest/scale-to-width-down/200?cb=20220405034021" width=20 height=20> to download the apps listed below.
+Please use Chrome Browser to download the apps listed below.
 
 ## *Player Download*
 
@@ -35,11 +35,11 @@ This app is not recommended to be used to play live channels.
 
 Recommended for TV shows that is available on various streaming platforms such as:-
     
-- <img src="https://static.wikia.nocookie.net/logopedia/images/5/5d/Netflix_2014.svg/revision/latest/scale-to-width-down/512?cb=20201124111638" width=80 height=35>
+- Netflix
     
-- <img src="https://static.wikia.nocookie.net/logopedia/images/4/4e/HBO_GO_logo.svg/revision/latest/scale-to-width-down/600?cb=20151111230556" width=80 height=35>
+- HBO Go
     
-- <img src="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/1000?cb=20211113035143" width=80 height=35> 
+- Disney+
     
 - etc*
 
