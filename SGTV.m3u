@@ -87,6 +87,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 #EXTINF:-1 tvg-ID="AstroAwani.my" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="Cer.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
@@ -139,7 +140,12 @@ http://210.210.129.106/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/6a4670d01e328b6ca20cf1a7a3aeb773.png" group-title="Malaysia",MY FAMILY CHANNEL
 http://210.210.129.106/uq2663/h/h194/index.m3u8
 
+
 ================================================================== Indonesia ================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SCTV_Logo.svg/revision/latest?cb=20200917125607" group-title="Indonesia", SCTV
+https://begaltvku.site/ventidos/master-24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -255,15 +261,9 @@ https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="Indonesia", Indosiar
 http://tvn.x10.bz/TvN_ID/master.m3u8
 
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://i.ibb.co/XsQ0JwN/SCTV-Logo-svg.png" group-title="Indonesia", SCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="Indonesia", SCTV2
-https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
 
 =================================================================== Indian ==================================================================================
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b48c95c2e844ea2b59e27fb42fe4b510:1168d5b1fcb20ad3973b101f2775c9a9
@@ -326,7 +326,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" group-title="Indian" tvg-logo="https://iili.io/1NBfxj.png",BollyOne HD CH251
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
+
 ================================================================== Chinese ===================================================================================
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fed51001c357a9224f8221161313f010:7e0183501f83df2174844c03011fb491
@@ -390,6 +392,7 @@ https://linears-playback.astro.com.my/vsg/21uRsll1l3HycZyhhRKd2NEYunyzj2Jnxj8ff5
 
 
 ###############################################################  KIDS  #####################################################################################
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=435bb823afb75f32a891cc235dda1210:aebc4002b1d9a18388f7bab70c0a7cc8
