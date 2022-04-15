@@ -1,5 +1,7 @@
 # Free IPTV Player and Channel Playlist
 
+| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Channel Status](https://konsparrow92.github.io/sgtv/LCS.html) |
+
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
 Please use Chrome Browser to download the apps listed below.
