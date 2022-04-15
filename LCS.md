@@ -26,7 +26,7 @@
 | ASTRO AWANI | X | | |
 | ASTRO CITRA | X | | |
 | ASTRO HELLO | | X | |
-| ASTRO CITRA | | X | |
+| ASTRO CITRA | X | | |
 | ASTRO OASIS | X | | |
 | ASTRO PRIMA | X | | |
 | ASTRO RIA  | | | X |
@@ -107,7 +107,7 @@
 | DISCOVERY CHANNEL | X | | |
 | DISCOVERY ASIA | X | | |
 | CRIME & INVESTIGATION | X | | |
-| DISCOVERY SCIENCE | X | | |
+| DISCOVERY SCIENCE | | X | |
 |##LIFESTYLE##|###|###|###|
 | LIFESTYLE & FASION | X | | |
 | LIFETIME ASIA | X | | |
