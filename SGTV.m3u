@@ -70,9 +70,8 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="Malaysia",TV3 Backup
+http://iptv12k.com:35461/8022022301/468985/740
 
 #EXTINF:-1 tvg-ID="TV6.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Malaysia",TV 6
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
