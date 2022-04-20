@@ -67,7 +67,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-ID="103" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://m3u-editor.com/serve/ec890d80-be19-11ec-a3c8-6d4f39c796db/547060725
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="Malaysia",TV3 Backup
 http://iptv12k.com:35461/8022022301/468985/740
@@ -99,8 +99,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
 
-
 #EXTINF:-1 tvg-id="108" ch-number="AstroCitra.my" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://axcestv.vip:8080/live/freeview/axcestv/652.ts
+
+#EXTINF:-1 tvg-id="108" ch-number="AstroCitra.my" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 http://iptv12k.com:35461/8022022301/468985/721
 
@@ -119,12 +122,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 http://iptv.tvmalaysia.cc:80/760407/760407/6727
 
 #EXTINF:-1 tvg-id="104" ch-number="104" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-http://95.214.235.96:8880/SWFAF1231138/KTWP7EBX/1705
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+http://axcestv.vip:8080/live/freeview/axcestv/646.ts
 
 #EXTINF:-1 tvg-id="104" ch-number="104" group-title="Backup_MY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
+http://95.214.235.96:8880/SWFAF1231138/KTWP7EBX/1705
 
 #EXTINF:-1 tvg-id="107" ch-number="107" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
