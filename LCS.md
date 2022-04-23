@@ -1,6 +1,6 @@
 # Live Channel Status [^1]
 
-### Updated on 15 April 2022
+### Updated on 23 April 2022
 
 | Channel Name | Stable | Down | Backup Channel |
 | :------------: | :-------: | :---: | :----: |
@@ -18,7 +18,7 @@
 | Berita RTM | X | | |
 | TV1 | X | | |
 | TV2 | X | | |
-| TV3 | X | | |
+| TV3 | | | X |
 |TV6 | X | | |
 | NTV 7 | X | | |
 | TV 9 | X | | |
