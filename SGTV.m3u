@@ -68,7 +68,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-ID="103" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
-http://axcestv.vip:8080/live/freeview/axcestv/626.ts
+http://95.214.235.93:8880/trmall/trmall0308/1732
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="Malaysia",TV3 Backup
 https://ktiptv.co/3057/3057/25810
