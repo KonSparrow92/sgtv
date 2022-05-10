@@ -1,8 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="Malay" tvg-logo="https://iili.io/1NKfxR.png",TV3 CH103 Auto
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="Malay" tvg-logo="https://iili.io/1NKfxR.png",TV3 HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03_720H.mpd
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="Malay" tvg-logo="https://iili.io/1NKfxR.png",TV3 FHD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03_1080FHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sports" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD CH811
+https://linears-playback.astro.com.my/vsg/21LiBQNPJba3OH1zIefQS0vJxdOJ5jo3l64aRM9RDEtRc=x7XN/dash-wv/jitp-linearwm/601/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" group-title="Sports" tvg-logo="https://iili.io/1NzBcl.png",Astro Supersport 2 HD CH812
+https://linears-playback.astro.com.my/vsg/21LiBQNPJba3OH1zIefQS0vJxdOJ5jo3l64aRM9RDEtRc=x7XN/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" group-title="Sports" tvg-logo="https://iili.io/1NzCS2.png",Astro Supersport 3 HD CH813
+https://linears-playback.astro.com.my/vsg/21LiBQNPJba3OH1zIefQS0vJxdOJ5jo3l64aRM9RDEtRc=x7XN/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" group-title="Sports" tvg-logo="https://iili.io/1Nzo9S.png",Astro Supersport 4 HD CH814
+https://linears-playback.astro.com.my/vsg/21LiBQNPJba3OH1zIefQS0vJxdOJ5jo3l64aRM9RDEtRc=x7XN/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-id="815" tvg-name="Astro SuperSport 5 HD" group-title="Sports" tvg-logo="https://iili.io/1N10rP.png",Astro Supersport 5 HD CH815
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
