@@ -1,22 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA/A
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (serve2)
+http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
 
-#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA/B
-http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (serve1)
+http://172.96.160.37:9138/stream/live/c20629.m3u8?idstream=ria
 
-#EXTINF:-1 tvg-logo="astro-WARNA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO WARNA[/I][/COLOR]
-http://bit.ly/astro-WARNA
-
-#EXTINF:-1,ASTRO WARNA/1
-http://bit.ly/astro-WARNA
-
-#EXTINF:-1,ASTRO Ria/1
-http://bit.ly/astro-RIA
-
-#EXTINF:-1,ASTRO WARNA/2
-http://bit.ly/astro-WARNA
-
-#EXTINF:-1,ASTRO Ria/2
-http://bit.ly/astro-RIA
