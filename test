@@ -1,16 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://tv.kpsvpn.com/warna.mpd
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA/A
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1 group-title="MALAY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria ( B3 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-https://linears-playback.astro.com.my/vsg/214t4m8oJTQM8yFnq1avqg1fxrDF5iNyWo8f4CC5iiDMM=J0Sr/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA/B
+http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1, group-title="MALAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png", Astro Warna ( B )
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+#EXTINF:-1 tvg-logo="astro-WARNA.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO WARNA[/I][/COLOR]
+http://bit.ly/astro-WARNA
+
+#EXTINF:-1,ASTRO WARNA/1
+http://bit.ly/astro-WARNA
+
+#EXTINF:-1,ASTRO Ria/1
+http://bit.ly/astro-RIA
+
+#EXTINF:-1,ASTRO WARNA/2
+http://bit.ly/astro-WARNA
+
+#EXTINF:-1,ASTRO Ria/2
+http://bit.ly/astro-RIA
