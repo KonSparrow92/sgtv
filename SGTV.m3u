@@ -124,18 +124,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Malaysia",ASTRO PRIMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default.mpd
-https://stream.zeehanzgadget.com/ria.mpd
-
-#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="Malaysia" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA_B
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="LIVE MALAYSIA", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
-https://aqfadtv.xyz/ria.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Malaysia" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850", Astro Warna
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21067
