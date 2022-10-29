@@ -30,34 +30,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 ================================================================== Singapore =======================================================================================
 
-#EXTINF:-1 tvg-ID="okto (HD)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="SINGAPORE",Channel 5 (OKTO)
-h#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
-
-#EXTINF:-1 tvg-ID="Ch 5 (HD)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="SINGAPORE",Channel 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
-
-#EXTINF:-1 tvg-ID="Ch 8 (HD)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="SINGAPORE",8频道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
-
-#EXTINF:-1 tvg-ID="Ch U (HD)" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="SINGAPORE",U频道
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://d3inlz9elsutjl.cloudfront.net/hls/clr4ctv_chu/master.m3u8
-
-#EXTINF:-1 tvg-ID="Vasantham (HD)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE",Suria 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
-
-#EXTINF:-1 tvg-ID="Suria (HD)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="SINGAPORE",Vasantham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
-
-#EXTINF:-1 tvg-ID="CNA (HD)" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="SINGAPORE",Channel News Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5 
