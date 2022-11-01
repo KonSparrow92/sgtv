@@ -6,6 +6,10 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="712" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="712" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV_B
 https://on-load.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13,14 +17,10 @@ https://on-load.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN_B
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
-
-#EXTINF:-1 tvg-id="axnhd"group-title="ERntertainment" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_165647568626.png",AXN_C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
@@ -137,10 +137,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria_Backup
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria_Backup
 http://51.79.82.208:16007
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna
 http://51.79.82.208:16010
 
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
@@ -636,6 +636,11 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIES", HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
 #EXTINF:-1 tvg-id="414" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIES",HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -949,3 +954,44 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 
 #EXTINF:-1 tvg-id="VEVORBUS.us" tvg-name="VEVO R&B (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fJFzPB7.jpg" group-title="Music",VEVO R&B (US) (1080p)
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+
+====================================================== TEST ==============================================================================
+
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="beIN SPORTS PREMIUM 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylp5fQN2WlloPJvYlNcWQgiwP1sB6xZCcsbOLxOyk_co.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 1
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/98223
+
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylyDkSBz4CMKbrq5CbCc90jGAzvbzqR5Sq7fjB4EobHd.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 2
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/98224
+
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="beIN SPORTS PREMIUM 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvTStaro4Ynnjh8f5TkdQrasyGgtudCESF097SZYiZW_.png" group-title="beIN SPORTS", beINSPORTS PREMIUM 3
+http://amazontv.me:8519/7173409/01514477/98229
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS 1 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" group-title="beIN SPORTS", beINSPORTS 1
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/35
+
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS 2 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" group-title="beIN SPORTS", beINSPORTS 2
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/36
+
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS 3 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" group-title="beIN SPORTS", beINSPORTS 3
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/37
+
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN SPORTS 4 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvU8lUHvjH_yEIb4_inoojSrsi8Uk2nfzJJLahI2VV-D.png" group-title="beIN SPORTS", beINSPORTS 4
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/38
+
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS 5 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyhdqjW7EE5oQSNPCq7ZxqB_i77sie-1CPDRDP0sQ0bWS.png" group-title="beIN SPORTS", beINSPORTS 5
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/39
+
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN SPORTS 6 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyg_HGlhKZZsOBIDJOzUaTyiGpNWuHa-1s4wozBbDoCfQ.png" group-title="beIN SPORTS", beINSPORTS 6
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/40
+
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN SPORTS 7 HD 50FPS" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqpVjhp-5dsCyN3AD3x1O_yquB07rTsL9QAszSx6EBng.png" group-title="beIN SPORTS", beINSPORTS 7
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/41
+
+#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXylUsWOFbZ_5mi-YhZg30nfjem9RCzo7aKVRRSwMOLV_8.png" group-title="beIN SPORTS", beINSPORTS EN 1
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/25
+
+#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjf23n4CK1FPCVfUXyPZnXWQdpB6BLstNAWtfBxHqjmv.png" group-title="beIN SPORTS", beINSPORTS EN 2
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/14
+
+#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN SPORTS EN 3 HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym8DWQHK2_ENw2lG0hi8P54fxgij1yxAF3SOe57RV8Yv.png" group-title="beIN SPORTS", beINSPORTS EN 3
+http://megatv.me:5890/TPWYU493EL/Tq2PMIwWqK/44
