@@ -9,37 +9,56 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="☀️ JAPANESE MOVIES ☀️",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-id="AstroSuperSport.my" group-title="⚽ SPORTS 886 ⚽" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",ASSP1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://aqfadtv.xyz/live/tv3/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
+#http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/106.ts
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/826_300.png",Astro SuperSport HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://astrogo.astro.com.my/601
-https://linear-playback.astro.com.my/linear-livewvdaf/601/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP2
+https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_2.png",Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astrogo.astro.com.my/2104
-https://linear-playback.astro.com.my/linear-livewvdaf/2104/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
+EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP2 (B)
+https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OgFRF0Ey6oMfSjaYjzhhEpU=Ud--/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_3.png",Astro SuperSport 3 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astrogo.astro.com.my/2701
-https://linear-playback.astro.com.my/linear-livewvdaf/2701/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP3
+https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_4.png",Astro SuperSport 4 HD
+EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP3 B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astrogo.astro.com.my/600
-https://linear-playback.astro.com.my/linear-livewvdaf/600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
+https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTggFOoCmkUmQNeayAaAvQWLc=pPvn/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",ASTRO WARNA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astrogo.astro.com.my/2402
-https://linear-playback.astro.com.my/linear-livewvdaf/2402/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP4
+https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="Malaysia", Astro Ria
+EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP4 (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://astrogo.astro.com.my/1004
-https://linear-playback.astro.com.my/linear-livewvdaf/1004/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
+https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ55jLNROYvS1oqeAgFejLXA=x7a2/dash-wv/jitp-linearwm/2506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="ASSP5" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="⚽ SPORTS 886 ⚽",ASSP5 (B)
+https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
