@@ -8,7 +8,7 @@
 https://live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
+#KODIPROP:inputstream.adaptive.license_key=b7f352ff63e533f3baa950d7e2497410:e11de6f5f84bbd2f150ffc82191880e8
 #EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
@@ -18,12 +18,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 https://live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
+#KODIPROP:inputstream.adaptive.license_key=063689e84408a4542e3a158073182210:fd205780495645c7334cbdea0dc94f17
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="Entertainment", PARAMOUNT NETWORK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
+#KODIPROP:inputstream.adaptive.license_key=eaaa02f58d19457c6385bf2831706f10:7294ff05390550e09df76ef3b697f8da
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="Entertainment",PRIMETIME
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
@@ -467,18 +467,18 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 tvg-id="801" ch-number="801" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+#KODIPROP:inputstream.adaptive.license_key=40c958ab268862f44ca7169a0a634710:d83ccdb2a5a66a9653009dab9490e617
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1 tvg-id="802" ch-number="802" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+#KODIPROP:inputstream.adaptive.license_key=a35c43ff90d667ba1285ad0ae34ae810:99191e99138dc6aca5ed5febe3a817a4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/826_300.png",Astro SuperSport HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://raw.githubusercontent.com/faizalrozihan/AqFadTVLogo/main/Faizalrozihan/Astro_Supersport_2.png",Astro SuperSport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
@@ -566,7 +566,7 @@ https://live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+#KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
@@ -580,9 +580,9 @@ https://live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="ShowcaseMovies" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",Showcase
+#EXTINF:-1 group-title="MOVIES" tvg-id="ShowcaseMovies" tvg-chno="401" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
+#KODIPROP:inputstream.adaptive.license_key=e95c72a41b5ea9957b07facd95542410:a5e0de041ca2766754a37952b3468eb2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO HD
