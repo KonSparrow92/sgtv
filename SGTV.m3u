@@ -2,14 +2,16 @@
 
 ================================================================ Entertainment ================================================================================
 
+#EXTINF:-1 tvg-id="712" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="712" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV
 https://live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7f352ff63e533f3baa950d7e2497410:e11de6f5f84bbd2f150ffc82191880e8
 #EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,14 +19,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN
 https://live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=063689e84408a4542e3a158073182210:fd205780495645c7334cbdea0dc94f17
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="Entertainment", PARAMOUNT NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaaa02f58d19457c6385bf2831706f10:7294ff05390550e09df76ef3b697f8da
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="Entertainment",PRIMETIME
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
 ================================================================== Singapore =======================================================================================
@@ -120,25 +124,27 @@ http://51.79.82.208:16008
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria_B
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria (Backup)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.82.208:16007
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",ASTRO WARNA HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://aqfadtv.xyz/live/warna/index.mpd
+
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",ASTRO WARNA (Backup)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.82.208:16010
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",ASTRO WARNA_B
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://23.237.10.66:16424
-
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
