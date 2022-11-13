@@ -100,8 +100,8 @@ http://51.79.82.208:16003
 #EXTINF:-1 tvg-ID="149" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/705
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-ID="501" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -124,8 +124,8 @@ https://aqfadtv.xyz/live/citra/index.mpd
 #EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Malaysia",Astro Oasis
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.82.208:16009
 
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Malaysia",Astro Prima
 #KODIPROP:inputstream.adaptive.manifest_type=hls
