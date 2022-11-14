@@ -6,6 +6,22 @@
 
 Please use Chrome Browser to download the apps listed below.
 
+
+## ***Playlist URL***
+
+Before downloading the required player, ***Copy*** the URL below to add as a provider into player. 
+
+**`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
+
+Follow the steps in this [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) if you are unsure of how to add a provider.
+
+Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
+
+As all the channels are given free from this site, please understand that the channels may not be very stable at times.
+
+It is recommended that you purchase your own channels from your local provider for a smoother experience.
+
+
 ## *Player Download*
 
   - ### OTT Navigator Pro lite (Live Tv)
@@ -21,7 +37,8 @@ This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsp
 
 For Android 5.0 and above only
 
-  - ### Netflix Mod by ApkMody (Tv Series/Movies)
+
+## Netflix Mod by [ApkMody](https://apkmody.io/) (Tv Series/Movies)
    
 <img src="https://theleaker.com/wp-content/uploads/2019/05/netflix_logo.0.jpg" width="550" height="300">
 
@@ -43,20 +60,35 @@ Recommended for TV shows that is available on various streaming platforms such a
 
 Android 5.0 and above
 
+## *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext)*
 
-## ***Playlist URL***
+<img src="https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_03.jpg" width="550" height="300">
+<img src="https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_01.jpg" width="550" height="300">
 
-Once u have downloaded the required player ***Copy*** the URL into player and load.
+Full YouTube experience without the annoying Adverts. 
+[Official Site](https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_03.jpg)
 
-**`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
+Features:-
 
-Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
+- No Ads
 
-Click [HERE](https://konsparrow92.github.io/sgtv/LCS.html) to check the status of the channels.
+- Designed for TV screens
 
-As all the channels are given free from this site, please understand that the channels may not be very stable at times.
+- Up to 8K video resolution
 
-It is recommended that you purchase your own channels from your local provider for a smoother experience.
+- Login into your account
+
+- Cast from the phone
+
+- Support tv box remote controller
+
+- Support external software keyboard
+
+- Support devices without Google Services
+
+- Open source
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1JT58x10u9ZWHSnQHNTv8nujI_yOypa2-/view?usp=share_link)
 
 
 ## ***Disclaimer***
