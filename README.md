@@ -1,6 +1,6 @@
 # Free IPTV Player and Channel Playlist
 
-| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Channel Status](https://konsparrow92.github.io/sgtv/LCS.html) |
+| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](https://github.com/KonSparrow92/sgtv/edit/main/README.md#netflix-mod-by-apkmody-tv-seriesmovies) | [Youtube Mod](https://github.com/KonSparrow92/sgtv/edit/main/README.md#smarttube-by-yuliskov-for-android-tv) |
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
@@ -13,7 +13,7 @@ Before downloading the required player, ***Copy*** the URL below to add as a pro
 
 **`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
 
-Follow the steps in this [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) if you are unsure of how to add a provider.
+Follow the steps in this [OTT Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) if you are unsure of how to add a provider.
 
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
@@ -38,7 +38,7 @@ This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsp
 For Android 5.0 and above only
 
 
-## Netflix Mod by [ApkMody](https://apkmody.io/) (Tv Series/Movies)
+## *Netflix Mod by [ApkMody](https://apkmody.io/) (Tv Series/Movies)*
    
 <img src="https://theleaker.com/wp-content/uploads/2019/05/netflix_logo.0.jpg" width="550" height="300">
 
@@ -60,13 +60,13 @@ Recommended for TV shows that is available on various streaming platforms such a
 
 Android 5.0 and above
 
-## *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext)*
+## *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
 
 <img src="https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_03.jpg" width="550" height="300">
 <img src="https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_01.jpg" width="550" height="300">
 
 Full YouTube experience without the annoying Adverts. 
-[Official Site](https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_03.jpg)
+[Official Site](https://smartyoutubetv.github.io/)
 
 Features:-
 
@@ -101,4 +101,4 @@ IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
 
 FORK ME!
 
-Site built using [**Github Pages**](https://github.com) <img src="https://static.wikia.nocookie.net/logopedia/images/8/8f/25231.svg/revision/latest/scale-to-width-down/439?cb=20180326041942" width=20 height=20>
+Site built using [**Github**](https://github.com) <img src="https://static.wikia.nocookie.net/logopedia/images/8/8f/25231.svg/revision/latest/scale-to-width-down/439?cb=20180326041942" width=20 height=20>
