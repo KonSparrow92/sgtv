@@ -97,8 +97,7 @@ http://51.79.82.208:16007
 #EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna HD
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
 https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna (Backup)
