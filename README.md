@@ -1,6 +1,6 @@
 # Free IPTV Player and Channel Playlist
 
-| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](https://github.com/KonSparrow92/sgtv/edit/main/README.md#netflix-mod-by-apkmody-tv-seriesmovies) | [Youtube Mod](https://github.com/KonSparrow92/sgtv/edit/main/README.md#smarttube-by-yuliskov-for-android-tv) |
+| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](#netflix-mod-by-apkmody-tv-seriesmovies) | [Youtube Mod](#smarttube-by-yuliskov-for-android-tv) |
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
