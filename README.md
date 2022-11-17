@@ -1,6 +1,6 @@
 # Free IPTV Player and Channel Playlist
 
-| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](#netflix-mod-by-apkmody-tv-seriesmovies) | [Youtube Mod](#smarttube-by-yuliskov-for-android-tv) |
+>[Player Download](#player-download)  [Playlist](#playlist-url)  [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html)  [Netflix Mod](#netflix-mod-by-apkmody-tv-seriesmovies)  [Youtube Mod](#smarttube-by-yuliskov-for-android-tv) 
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
@@ -9,9 +9,9 @@ Please use Chrome Browser to download the apps listed below.
 
 ## ***Playlist URL***
 
-Before downloading the required player, ***Copy*** the URL below to add as a provider into player. 
+Before downloading the required player, **Copy the URL below** to add as a provider into player. 
 
-**`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
+- [x] **`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
 
 Follow the steps in this [OTT Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) if you are unsure of how to add a provider.
 
