@@ -49,34 +49,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 ================================================================== Singapore =======================================================================================
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/316e8644-f2c1-4a8c-80b5-4cadf397f4c9
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png",Channel 8 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png",Channel 8 HD
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png",Channel U HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png",Channel U HD
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png",Suria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png",Suria HD
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham HD
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 
@@ -173,7 +173,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-ID="SCTV.id" group-title="Indonesia"tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV_B
 #KODIPROP:inputstream=inputstream.adaptive
@@ -304,8 +304,7 @@ https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-https://on-load.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+https://live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -314,7 +313,10 @@ https://on-load.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="Indonesia", Indosiar
-http://tvn.x10.bz/TvN_ID/master.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/indosiar
 
 =================================================================== Indian ==================================================================================
 
@@ -663,8 +665,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 https://live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00pE-r-j-g_OMotnWvlzQL1feG-gmjwBnMw&usqp=CAU" group-title="Sports" tvg-id="" tvg-name="", Fight Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="821" ch-number="821" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network HD
@@ -672,6 +675,34 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
+
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
+
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
+
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", World Cup Qatar TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 
 #################################################################### MOVIES #################################################################################
 
