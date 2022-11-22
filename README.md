@@ -33,7 +33,13 @@ This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsp
 
 ![OTT Player](https://play-lh.googleusercontent.com/pwJ9CyW2JB81t8_cACHW24Ez3kT0PmdcwE4soz3G4vgGaTpUuuVIvpMgua7P4vNFPg=w720-h310-rw)
 
+Link 1:
+
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1EX3q857dmVizU2B1EYFcRtD5YJUw62FY/view?usp=share_link)
+
+Link 2:
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/11YFkVBzMvPYZK30g_FW70GEL0qrUOtEW/view?usp=share_link)
 
 Click [HERE](#playlist-url) for the playlist
 
@@ -58,7 +64,13 @@ Recommended for TV shows that is available on various streaming platforms such a
     
 - etc*
 
+Link 1:
+
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1NUD-KeYaeZ0fX7y_V4CPyFqz3RXO8ADt/view?usp=share_link)
+
+Link 2:
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1rQ6du_OqAB7FsKiUdgRAeEWMlbTH0J4r/view?usp=share_link)
 
 Android 5.0 and above
 
@@ -90,7 +102,13 @@ Features:-
 
 - Open source
 
+Link 1:
+
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1JT58x10u9ZWHSnQHNTv8nujI_yOypa2-/view?usp=share_link)
+
+Link 2:
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1jl3p1khDfpwvEOpzqNtkxCSz0CeYk-FS/view?usp=share_link)
 
 
 ## ***Disclaimer***
