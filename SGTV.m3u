@@ -548,13 +548,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+https://aqfadtv.xyz/live/arena2/index.mpd
 
 #EXTINF:-1 tvg-id="805" group-title="Sports" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
 
 #EXTINF:-1 tvg-id="805" group-title="Sports" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD (Backup)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
