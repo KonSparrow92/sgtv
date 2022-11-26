@@ -689,37 +689,37 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 1 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/99-993160_logo-bein-sports-max-bein-sports-max-logo.png" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216922
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 2 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/99-993160_logo-bein-sports-max-bein-sports-max-logo.png" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216923
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 3 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/99-993160_logo-bein-sports-max-bein-sports-max-logo.png" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216924
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 4 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/99-993160_logo-bein-sports-max-bein-sports-max-logo.png" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 4 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216925
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 5 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/99-993160_logo-bein-sports-max-bein-sports-max-logo.png" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 5 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216926
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 6 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/99-993160_logo-bein-sports-max-bein-sports-max-logo.png" group-title="WORLDCUP2022",|WC|BEINSPORTS MAX 6 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
