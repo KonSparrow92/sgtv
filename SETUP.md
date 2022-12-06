@@ -16,7 +16,7 @@
 
 ![playlist](https://www.fox-iptv.net/upload/2020/06/4.jpeg)
 
-## Key in **``https://konsparrow92.github.io/sgtv/SGTV.m3u``** in the URL Address and **APPLY**.
+## Key in ``is.gd/qHTNNa`` in the URL Address and **APPLY**.
 
 ![url](https://www.cosmosserver.org/upload/2021/03/5.jpg)
 
