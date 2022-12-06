@@ -1,6 +1,6 @@
 # Free IPTV Player and Channel Playlist
 
-| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](#netflix-mod-by-apkmody-tv-seriesmovies) | [Youtube Mod](#smarttube-by-yuliskov-for-android-tv) |
+| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](#tea-tv-tv-seriesmovies) | [Youtube Mod](#smarttube-by-yuliskov-for-android-tv) | [Windows Subsytem](#windows-subsystem-for-android-windows-11-only)
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
@@ -46,11 +46,11 @@ Click [HERE](#playlist-url) for the playlist
 For Android 5.0 and above only
 
 
-## *Netflix Mod by [ApkMody](https://apkmody.io/) (Tv Series/Movies)*
+## *Tea TV (Tv Series/Movies)*
    
-<img src="https://theleaker.com/wp-content/uploads/2019/05/netflix_logo.0.jpg" width="550" height="300">
+<img src="https://siligiz.com/wp-content/uploads/2021/05/TeaTV_logo5-300x300.png" width="300" height="300">
 
-<img src="https://apkmodo.net/wp-content/uploads/2019/12/netflix-7-54-0-pro-4k-unlocked-0MovkIpp.jpg" width="550" height="300">
+<img src="https://teatv.org/wp-content/uploads/2018/07/movies-diary-best-free-movies-and-tv-shows-app-for-iphone-ipad-2018.jpg" width="550" height="300">
 
 This app is not recommended to be used to play live channels.
 
@@ -64,13 +64,13 @@ Recommended for TV shows that is available on various streaming platforms such a
     
 - etc*
 
-Link 1:
+Stable Link:
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1NUD-KeYaeZ0fX7y_V4CPyFqz3RXO8ADt/view?usp=share_link)
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1wS18pU3P1tSARJxov8gT30rHewRN-eDf/view?usp=share_link)
 
-Link 2:
+ALT Link:
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1rQ6du_OqAB7FsKiUdgRAeEWMlbTH0J4r/view?usp=share_link)
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](TeaTV.net/dl)
 
 Android 5.0 and above
 
@@ -110,6 +110,19 @@ Link 2:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1jl3p1khDfpwvEOpzqNtkxCSz0CeYk-FS/view?usp=share_link)
 
+## Windows Subsystem for Android. (Windows 11 only)
+
+<img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/09/how-to-use-android-apps-in-windows-11.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5" width="550" height="300">
+
+This section is if you want to install Android apps on Windows 11.
+
+Please follow this [GUIDE](https://www.androidpolice.com/set-up-wsa-windows-11-android-apps/) for detailed information.
+
+You can download the Windows Subsystem installer here and follow through with the guide later on.
+
+Direct Link:
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1TwAHFJYm8M0MNpGDURhBd9kR4n3tUvzs/view?usp=share_link)
 
 ## ***Disclaimer***
 
