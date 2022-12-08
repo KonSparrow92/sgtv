@@ -2,6 +2,8 @@
 
 refresh="1"
 
+#EXTM3U billed-msg="$10 will be auto deducted from your account"
+
 ########################################################################################################################################################################
 ################################################################ F.W.C 2022 ############################################################################################
 ########################################################################################################################################################################
@@ -131,7 +133,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://51.79.82.208:16007
+#http://51.79.82.208:16007
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna HD
 #KODIPROP:inputstream=inputstream.adaptive
