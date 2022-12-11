@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/my.xml" m3uautoload=1 cache=500
 
 refresh="1"
 
