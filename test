@@ -23,11 +23,34 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 ===========================================================================================================================================================
 
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" tvg-id="108" ,Astro Citra[A]HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2700
-https://brgjd.com/dash-wv/Citra.mpd
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", Astro World Cup Qatar 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
 
-#EXTINF:-1 group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" tvg-id="108" ,Astro Citra[B]HD
-https://brgjd.com/dash-wv/Citra.mpd.php|license_type=clearkey&license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2700&user-agent=astrogo&referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", Astro World Cup Qatar   2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 
+https://aqfadtv.xyz/live/supersport2/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 (becup)
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
+https://aqfadtv.xyz/live/supersport4/index.mpd
+
+#EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",815 Astro SuperSport 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+https://webdi.openhd.lol/ddy1/premium43/index.m3u8
+
