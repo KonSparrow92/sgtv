@@ -23,12 +23,11 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 ===========================================================================================================================================================
 
 
-#EXTINF:-1 tvg-id="WC2022-1" group-title="⚽ W.C.P 886 ⚽" ch-number="825" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",WC2022 1
+#EXTINF:-1 group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" tvg-id="108" ,Astro Citra[A]HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2700
+https://brgjd.com/dash-wv/Citra.mpd
 
-#EXTINF:-1 tvg-id="WC2022-2" group-title="⚽ W.C.P 886 ⚽" ch-number="826" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",WC2022 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
+#EXTINF:-1 group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" tvg-id="108" ,Astro Citra[B]HD
+https://brgjd.com/dash-wv/Citra.mpd.php|license_type=clearkey&license_key=https://skynet-com.stackstaging.com/clearkey/dash-ck/linear/2700&user-agent=astrogo&referrer=https://astrogo.astro.com.my
