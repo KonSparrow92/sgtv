@@ -1,13 +1,8 @@
-#EXTM3U 
-
-url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
-url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-
-refresh="6"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/unifitv.xml,https://weareblahs.github.io/epg/mytv.xml,https://weareblahs.github.io/epg/rtmklik.xml" 
 
 #EXTM3U billed-msg="EPG updating, FIFA W.C down"
+
+#EXTM3U refresh="6"
 
 ########################################################################################################################################################################
 ################################################################ F.W.C 2022 ############################################################################################
