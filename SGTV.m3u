@@ -1,10 +1,11 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://raw.githubusercontent.com/weareblahs/epg/master/unifitv.xml" m3uautoload=1 cache=500
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
+#EXTM3U 
 
-refresh="1"
+url-tvg="https://weareblahs.github.io/epg/astro.xml" 
+url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
+url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
+url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
+
+refresh="6"
 
 #EXTM3U billed-msg="EPG updating, FIFA W.C down"
 
