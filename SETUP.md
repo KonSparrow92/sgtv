@@ -20,4 +20,16 @@
 
 ![url](https://www.cosmosserver.org/upload/2021/03/5.jpg)
 
+# EPG Setup
+
+## For the EPG, Go to Settings> EPG Teleguide> User-provided EPG sources (xml, xml.gz)> Append user-provided source.
+
+### `is.gd/OaWuDK`
+
+### `is.gd/G7NljP`
+
+### `is.gd/GpkhKc`
+
+### `is.gd/wYrzTH`
+
 # [Homepage](https://konsparrow92.github.io/sgtv)
