@@ -48,7 +48,7 @@ For Android 5.0 and above only
 
 ## *Tea TV (Tv Series/Movies)*
    
-<img src="" width="300" height="300">
+<img src="https://teatvhd.com/wp-content/uploads/2023/04/teatv-app-shows.webp" width="300" height="300">
 
 <img src="https://teatv.org/wp-content/uploads/2018/07/movies-diary-best-free-movies-and-tv-shows-app-for-iphone-ipad-2018.jpg" width="550" height="300">
 
