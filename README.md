@@ -11,7 +11,7 @@ Please use Chrome Browser to download the apps listed below.
 
 Before downloading the required player, **Copy the URL below** to add as a provider into player. 
 
-### **`is.gd/qHTNNa`**
+### **`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
 
 Follow the steps in this [OTT Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) if you are unsure of how to add a provider.
 
