@@ -62,7 +62,7 @@ Recommended for TV shows that is available on various streaming platforms such a
     
 - Disney+
     
-- etc*
+- In-app Updates
 
 Stable Link:
 
@@ -83,6 +83,8 @@ Full YouTube experience without the annoying Adverts.
 [Official Site](https://smartyoutubetv.github.io/)
 
 Features:-
+
+- In-app Updates
 
 - No Ads
 
