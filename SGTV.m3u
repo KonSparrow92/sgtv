@@ -153,6 +153,32 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 ########################################################################################################################################################################
+####################################################################### Chinese ########################################################################################
+########################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
+http://startv365.com:80//live/D85A79B4/55A7743D/191980.ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="AstroQJ" tvg-name="AstroQJ", Astro QJ
+http://startv365.com:80//live/D85A79B4/55A7743D/191974.ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="AstroAOD354" tvg-name="AstroAOD354", Astro AOD 354
+http://startv365.com:80//live/D85A79B4/55A7743D/29650.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Chinese" tvg-id="AstroAOD352" tvg-name="AstroAOD352", Astro AOD 352
+http://startv365.com:80//live/D85A79B4/55A7743D/191848.ts
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="Chinese" tvg-id="AstroAODHD" tvg-name="AstroAODHD", Astro AOD HD 311
+http://startv365.com:80//live/D85A79B4/55A7743D/191847.ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC" tvg-name="AstroAEC", Astro Aec HD
+http://startv365.com:80//live/D85A79B4/55A7743D/191841.ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="Chinese" tvg-id="TVBSAsia" tvg-name="TVBSAsia", TVBS Asia HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+########################################################################################################################################################################
 ####################################################################### Indonesia ######################################################################################
 ########################################################################################################################################################################
 
@@ -309,9 +335,10 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:0 tvg-id="412" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES", CINEMAX HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
-
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-id="413" group-title="MOVIES" tvg-id="ShowcaseMovies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -325,13 +352,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="MOVIES",HBO Family
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
