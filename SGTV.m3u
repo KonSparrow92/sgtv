@@ -23,10 +23,7 @@
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
 #EXTINF:-1 tvg-id="712" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png", Warner TV_B
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
 
 #EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -192,15 +189,6 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://startv365.com:80//live/D85A79B4/55A7743D/45099.ts
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/di2nk/iptv/main/SCTV.png", SCTV
-https://github.com/di2nk/iptv/raw/main/sctv.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/di2nk/iptv/main/SCTV.png", SCTV
-https://github.com/di2nk/iptv/raw/main/sctvv.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/di2nk/iptv/main/SCTV.png", SCTV Digital
-https://mantul.biz.id:443/ekos/748382/32.ts
-
 #EXTINF:-1 tvg-id="RCTI.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -227,10 +215,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network_B
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
 
 #EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -268,30 +253,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://raw.githubusercontent.com/di2nk/iptv/5d1d1e622468791a48a2a674bc4cf5935aedac7e/interface.png" group-title="Sports",Astro SuperSport 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports" tvg-id="AstroSupersport2" tvg-name="AstroSupersport2", Astro SuperSport 2 HD
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports" tvg-id="AstroSupersport3" tvg-name="AstroSupersport3", Astro Supersport 3 HD
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium125/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="AstroSupersport4" tvg-name="AstroSupersport4", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://raw.githubusercontent.com/di2nk/iptv/5d1d1e622468791a48a2a674bc4cf5935aedac7e/interface.png" group-title="Sports", Astro SuperSport 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="beINSports" tvg-name="beINSports", beIN Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -333,10 +298,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mp
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:0 tvg-id="412" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES", CINEMAX HD_B
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="MOVIES" tvg-id="Dreamworks" tvg-name="Dreamworks", DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -351,10 +313,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO HD_B
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
 
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="MOVIES",HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -363,18 +322,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="MOVIES",HBO Family_B
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES" tvg-id=“HBOSignatureAsia.us” tvg-name=“HBOSignatureAsia.us”, HBO Signature Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill HD_B
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -407,10 +361,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Documentary" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD", Discovery Channel HD_B
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
 
 #EXTINF:-1 tvg-id="553" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Documentary",DISCOVERY ASIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -421,6 +372,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 tvg-id="714" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Documentary",Crime & Investigation HD_B
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 ########################################################################################################################################################################
