@@ -45,12 +45,29 @@ Click [HERE](#playlist-url) for the playlist
 
 For Android 5.0 and above only
 
+## *NovaTV (TV Series/Movies)*
+
+Alternative Streaming App.
+
+<img src="https://firetvsticks.com/wp-content/uploads/2022/06/nova-TV-app.jpg" width="550" height="300">
+
+Recommended for TV shows that is available on various streaming platforms such as:-
+    
+- Netflix
+    
+- HBO Go
+    
+- Disney+
+    
+- In-app Updates
+
+Stable Link:
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://novatv.app/download.html#)
 
 ## *Tea TV (Tv Series/Movies)*
    
-<img src="https://teatvhd.com/wp-content/uploads/2023/04/teatv-app-shows.webp" width="300" height="300">
-
-<img src="https://teatv.org/wp-content/uploads/2018/07/movies-diary-best-free-movies-and-tv-shows-app-for-iphone-ipad-2018.jpg" width="550" height="300">
+<img src="https://teatvhd.com/wp-content/uploads/2023/04/teatv-app-shows.webp" width="300" height="550">
 
 This app is not recommended to be used to play live channels.
 
@@ -81,6 +98,8 @@ Android 5.0 and above
 
 Full YouTube experience without the annoying Adverts. 
 [Official Site](https://smartyoutubetv.github.io/)
+
+**NOT SUPPORTED FOR MOBILE!**
 
 Features:-
 
