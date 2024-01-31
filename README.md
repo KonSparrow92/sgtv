@@ -76,8 +76,8 @@ Android 5.0 and above
 
 ## *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
 
-<img src="https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_03.jpg" width="550" height="300">
-<img src="https://smartyoutubetv.github.io/images/screens/smartyoutubetv_screenshot_01.jpg" width="550" height="300">
+<img src="https://smarttubeapp.github.io/images/screens/smartyoutubetv_screenshot_01.jpg" width="550" height="300">
+<img src="https://smarttubeapp.github.io/images/screens/smartyoutubetv_screenshot_03.jpg" width="550" height="300">
 
 Full YouTube experience without the annoying Adverts. 
 [Official Site](https://smartyoutubetv.github.io/)
