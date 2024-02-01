@@ -298,7 +298,15 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mp
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:0 tvg-id="412" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES", CINEMAX HD_B
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cinemax.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="MOVIES", HBO - MAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="MOVIES" tvg-id="Dreamworks" tvg-name="Dreamworks", DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
