@@ -54,3 +54,5 @@ echo ===========================================================================
 pause >nul`
 
 # Save as .cmd and run as Administrator.
+
+*Visit [**MSGuides**](msguides.com) for a more visual guide*
