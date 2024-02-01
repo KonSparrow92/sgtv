@@ -1,6 +1,6 @@
 # Free IPTV Player and Channel Playlist
 
-| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](#novatv-tv-seriesmovies) | [Youtube Mod](#smarttube-by-yuliskov-for-android-tv) | [Windows Subsytem](#windows-subsystem-for-android-windows-11-only)
+| [Player Download](#player-download) | [Playlist](#playlist-url) | [Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) | [Netflix Mod](#novatv-tv-seriesmovies) | [Youtube Mod](#smarttube-by-yuliskov-for-android-tv) | [Windows Subsytem](#windows-subsystem-for-android-windows-11-only) | [Windows Activation](https://konsparrow92.github.io/sgtv/WinActivation.md)
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
