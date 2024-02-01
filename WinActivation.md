@@ -1,4 +1,4 @@
-# Windows Activation via CMD (Run as Administrator). 
+# Windows 11 Activation via CMD (Run as Administrator). 
 
 ## Create a batch file in notepad
 
