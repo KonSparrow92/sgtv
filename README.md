@@ -9,7 +9,7 @@ Please use Chrome Browser to download the apps listed below.
 
 ## ***Playlist URL***
 
-Before downloading the required player, **Copy the URL below** to add as a provider into player. 
+After downloading the required player, **Copy the URL below** to add as a provider into player. 
 
 ### **`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
 
@@ -17,9 +17,9 @@ Follow the steps in this [OTT Setup Guide](https://konsparrow92.github.io/sgtv/S
 
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
-As all the channels are given free from this site, please understand that the channels may not be very stable at times.
+As all the channels are given free from this site, some channels may not be updated regularly. This is a pet project that I created in my free time.
 
-It is recommended that you purchase your own channels from your local provider for a smoother experience.
+It is recommended that you purchase your own channels from your local provider for a smoother and stable experience.
 
 
 ## *Player Download*
@@ -155,4 +155,4 @@ IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
 
 FORK ME!
 
-Site built using [**Github**](https://github.com) <img src="https://static.wikia.nocookie.net/logopedia/images/8/8f/25231.svg/revision/latest/scale-to-width-down/439?cb=20180326041942" width=20 height=20>
+Site built using [**Github**](https://github.com) <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width=20 height=20>
