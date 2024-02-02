@@ -515,7 +515,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 ########################################################################### MUSIC ####################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="MTVLive" tvg-name="MTV Asia HD" group-title="Music" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MTV//MV_MTV.png",718 MTV
+#EXTINF:-1 tvg-id="MTVLive" tvg-name="MTV Asia HD" group-title="Music" tvg-logo="https://ws.kapallayar.cc//image//Logo//MTV//MV_MTV.png",718 MTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
