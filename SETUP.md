@@ -24,6 +24,6 @@
 
 ## For the EPG, Go to Settings> EPG Teleguide> User-provided EPG sources (xml, xml.gz)> Append user-provided source.
 
-### 'is.gd/kEAjRP'
+## `is.gd/kEAjRP`
 
 # [Homepage](https://konsparrow92.github.io/sgtv)
