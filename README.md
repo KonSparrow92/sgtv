@@ -9,11 +9,15 @@ Please use Chrome Browser to download the apps listed below.
 
 ## ***Playlist URL***
 
-After downloading the required player, **Copy the URL below** to add as a provider into player. 
+After downloading the required player, **Copy the URL below** to add as a **provider** into player. 
 
-### **`https://konsparrow92.github.io/sgtv/SGTV.m3u`**
+### **`is.gd/uvafDr`**
 
-Follow the steps in this [OTT Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html) if you are unsure of how to add a provider.
+Then **Copy the URL below** to add the **EPG**.
+
+### **`is.gd/kEAjRP`**
+
+Follow the steps in this **[OTT Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html)** if you are unsure of how to add a **PROVIDER and EPG**.
 
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
