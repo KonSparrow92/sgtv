@@ -1,10 +1,10 @@
-#EXTM3U
+#EXTM3U tvg-shift="-4.5" x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" catchup-correction="-2.5"
 
 #EXTM3U billed-msg="FREE LIVE TV! IF YOU PAID FOR THIS, GET A REFUND"
 
 #EXTM3U refresh="6"
 
-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+
 --------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
 
 
