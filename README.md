@@ -91,9 +91,6 @@ Stable Link:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1wS18pU3P1tSARJxov8gT30rHewRN-eDf/view?usp=share_link)
 
-ALT Link:
-
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](TeaTV.net/dl)
 
 Android 5.0 and above
 
