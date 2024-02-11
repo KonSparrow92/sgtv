@@ -5,15 +5,15 @@
 --------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1 FHD" tvg-logo="https://i.ibb.co/x33RSwC/Assp-1.jpg" group-title="TEST",ASSP 1 FHD
-http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59220
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016544&extension=ts&play_token=Apn851D4pT#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016544&extension=ts&play_token=Apn851D4pT
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2 FHD" tvg-logo="https://i.ibb.co/K5Kc6GC/Assp-2.jpg" group-title="TEST",ASSP 2 FHD
-http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59219
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016545&extension=ts&play_token=IsgYHF0Zih#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016545&extension=ts&play_token=IsgYHF0Zih
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3 FHD" tvg-logo="https://i.ibb.co/QvV1bzN/Assp-3.jpg" group-title="TEST",ASSP 3 FHD
-http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59218
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918984&extension=ts&play_token=TgIo30qilb#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918984&extension=ts&play_token=TgIo30qilb
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4 FHD" tvg-logo="https://i.ibb.co/k2GK5BW/Assp-4.jpg" group-title="TEST",ASSP 4 FHD
-http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59217
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="TEST",ASSP 5 FHD
-http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59216
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918983&extension=ts&play_token=fy0dmMbUWW#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918983&extension=ts&play_token=fy0dmMbUWW
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="TEST",ASSP 5 FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918982&extension=ts&play_token=uaRcAQ3UKc#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918982&extension=ts&play_token=uaRcAQ3UKc
 
 
 
