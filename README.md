@@ -69,7 +69,7 @@ Recommended for TV shows that is available on various streaming platforms such a
 
 Stable Link:
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://novatv.app/download.html#)
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1ZDS-AZGmLyMr9-K1Q6XZ0alCLLZvqLif/view?usp=sharing)
 
 ## *Tea TV (Tv Series/Movies)*
    
