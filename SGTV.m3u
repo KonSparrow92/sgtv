@@ -4,18 +4,6 @@
 
 --------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1 FHD" tvg-logo="https://i.ibb.co/x33RSwC/Assp-1.jpg" group-title="TEST",ASSP 1 FHD
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016544&extension=ts&play_token=Apn851D4pT#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016544&extension=ts&play_token=Apn851D4pT
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2 FHD" tvg-logo="https://i.ibb.co/K5Kc6GC/Assp-2.jpg" group-title="TEST",ASSP 2 FHD
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016545&extension=ts&play_token=IsgYHF0Zih#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=1016545&extension=ts&play_token=IsgYHF0Zih
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3 FHD" tvg-logo="https://i.ibb.co/QvV1bzN/Assp-3.jpg" group-title="TEST",ASSP 3 FHD
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918984&extension=ts&play_token=TgIo30qilb#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918984&extension=ts&play_token=TgIo30qilb
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4 FHD" tvg-logo="https://i.ibb.co/k2GK5BW/Assp-4.jpg" group-title="TEST",ASSP 4 FHD
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918983&extension=ts&play_token=fy0dmMbUWW#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918983&extension=ts&play_token=fy0dmMbUWW
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="TEST",ASSP 5 FHD
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918982&extension=ts&play_token=uaRcAQ3UKc#http://185.243.7.154:80/play/live.php?mac=00:1A:79:32:6C:FF&stream=918982&extension=ts&play_token=uaRcAQ3UKc
-
-
 
 ########################################################################################################################################################################
 ########################################################################### MUSIC ####################################################################################
@@ -621,6 +609,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/mBXzG25/sony-2.jpg" group-title="Sports",SONY TEN 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 #EXTINF:-1 ch-number="821" tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
