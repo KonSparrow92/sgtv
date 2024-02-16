@@ -675,12 +675,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#####EXTINF:-1 tvg-id="AstroArena2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports",Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
-#####EXTINF:-1 tvg-id="0.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport Plus
+#EXTINF:-1 tvg-id="0.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
