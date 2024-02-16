@@ -5,6 +5,29 @@
 --------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
 
 
+#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="TEST", &Flix_B
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts
+
+#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="TEST", &Flix_C
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=m3u8
+
+#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="TEST", &Prive_B
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=ts
+
+#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="TEST", &Prive_C
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=m3u8
 
 
 ########################################################################################################################################################################
@@ -40,16 +63,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES", &Flix
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts
+
 
 #EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES", &Prive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=ts
+
 
 #EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -143,11 +164,6 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 tvg-id="560" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-logo="" group-title="MOVIES",Star Movies
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=m3u8
-http://watchtv.best:80/play/live.php?mac=00:1A:79:C0:09:EE&stream=155727&extension=m3u8
 
 #EXTINF:-1 tvg-id="593" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-logo="" group-title="MOVIES",Star Movies Select 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -680,7 +696,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
-#EXTINF:-1 tvg-id="0.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport Plus
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
