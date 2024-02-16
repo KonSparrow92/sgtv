@@ -321,7 +321,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 http://mku0414.oknirvana.club:8880//live/3us02233n01/adsf232e23/1706.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://startv365.com:80//live/D85A79B4/55A7743D/191874.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
@@ -329,20 +329,10 @@ http://startv365.com:80//live/D85A79B4/55A7743D/191874.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-ID="TV1" tvg-name="TV1 HD" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="102" channel-id="102" group-title="Malaysia",TV2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
-#EXTINF:-1 tvg-ID="TV2" tvg-name="TV2 HD" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Malaysia" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -619,7 +609,7 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.ts
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.m3u8
 
 #EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -676,10 +666,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport Plus
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sports",MY| ASTRO SUPERSPORT 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://startv365.com:80/9794783213/6955630461/6590
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports",MY| ASTRO SUPERSPORT 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://startv365.com:80/9794783213/6955630461/6589
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://startv365.com:80/9794783213/6955630461/6588
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="AstroSupersport4" tvg-name="AstroSupersport4", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
