@@ -55,7 +55,7 @@ For Android 5.0 and above only
 
 Alternative Streaming App.
 
-<img src="https://firetvsticks.com/wp-content/uploads/2022/06/nova-TV-app.jpg" width="550" height="300">
+<img src="https://firetvsticks.com/wp-content/uploads/2022/06/nova-TV-app.jpg" width="550" height="305">
 
 Recommended for TV shows that is available on various streaming platforms such as:-
     
@@ -96,9 +96,9 @@ Android 5.0 and above
 
 ## *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
 
-<img src="https://smarttubeapp.github.io/images/screens/smartyoutubetv_screenshot_01.jpg" width="550" height="250">
+<img src="https://smarttubeapp.github.io/images/screens/smartyoutubetv_screenshot_01.jpg" width="550" height="255">
 
-<img src="https://smarttubeapp.github.io/images/screens/smartyoutubetv_screenshot_03.jpg" width="550" height="250">
+<img src="https://smarttubeapp.github.io/images/screens/smartyoutubetv_screenshot_03.jpg" width="550" height="255">
 
 Full YouTube experience without the annoying Adverts. 
 [Official Site](https://smartyoutubetv.github.io/)
