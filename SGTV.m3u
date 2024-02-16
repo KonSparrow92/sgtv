@@ -5,31 +5,6 @@
 --------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="TEST", &Flix_B
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts
-
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="TEST", &Flix_C
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=m3u8
-
-#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="TEST", &Prive_B
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=ts
-
-#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="TEST", &Prive_C
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=m3u8
-
-
 ########################################################################################################################################################################
 ########################################################################### MUSIC ####################################################################################
 ########################################################################################################################################################################
@@ -184,7 +159,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="MOVIES" tvg-id="ZeeBollywood.in" tvg-name="ZeeBollywood.in", Zee Bollywood
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55212.ts
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55212.m3u8
 
 ########################################################################################################################################################################
 ######################################################################## DOCUMENTARY ###################################################################################
@@ -337,11 +312,11 @@ http://startv365.com:80//live/D85A79B4/55A7743D/79321.ts
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://mku0414.oknirvana.club:8880//live/3us02233n01/adsf232e23/1706.ts
+http://mku0414.oknirvana.club:8880//live/3us02233n01/adsf232e23/1706.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna.
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191874.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/191874.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -375,7 +350,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://metatvpro.com:25461//live/W1808/1109/17.ts
+http://metatvpro.com:25461//live/W1808/1109/17.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeria.my" ch-number=" " tvg-name="Astro Ceria HD" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -398,27 +373,27 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191980.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/191980.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="AstroQJ" tvg-name="AstroQJ", Astro QJ
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191974.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/191974.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="AstroAOD354" tvg-name="AstroAOD354", Astro AOD 354
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/29650.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/29650.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Chinese" tvg-id="AstroAOD352" tvg-name="AstroAOD352", Astro AOD 352
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191848.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/191848.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="Chinese" tvg-id="AstroAODHD" tvg-name="AstroAODHD", Astro AOD HD 311
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191847.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/191847.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC" tvg-name="AstroAEC", Astro Aec HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191841.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/191841.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="Chinese" tvg-id="TVBSAsia" tvg-name="TVBSAsia", TVBS Asia HD
 #KODIPROP:inputstream=inputstream.adaptive
