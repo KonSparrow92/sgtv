@@ -349,8 +349,8 @@ http://metatvpro.com:25461/live/LT186743/8181/13.m3u8
 http://startv365.com:80//live/D85A79B4/55A7743D/79321.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://metatvpro.com:25461/live/W1808/1109/16.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://metatvpro.com:25461/live/W1808/1109/16.m3u8?type=hls
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna_Backup
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
