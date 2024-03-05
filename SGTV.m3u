@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
  
-#EXTM3U billed-msg=""
+#EXTM3U billed-msg="Channels Updated"
 
 --------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
 
@@ -37,6 +37,10 @@ https://mangga-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 https://mangga-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-logo="http://ky-iptv.com:80/images/5a03eaa5aabefed79df40270e9ebd250.png" group-title="Music" tvg-id="92news.uk" tvg-name="92news.uk", MTV Club
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/774vsJ9.png?v=1.0.0.1" group-title="Music", Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -46,47 +50,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 ################################################################ MOVIES ################################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES", &Flix
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://opplextv.cyou:8080//live/7262771/7272772/66236.m3u8
 
-
-#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES", &Prive
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-
+#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", &Prive
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://opplextv.cyou:8080//live/7262771/7272772/66228.m3u8
 
 #EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
-
-#EXTINF:-1 tvg-id="cinemachihd.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi.png",Cinemachi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-1 tvg-id="cinemachiaction.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-action.png",Cinemachi Action HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#EXTINF:-1 tvg-id="cinemachimax.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-max.png",Cinemachi Max HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 tvg-id="cinemachixtra.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-xtra.png",Cinemachi Xtra HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -169,6 +145,30 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-id="cinemachihd.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi.png",Cinemachi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 tvg-id="cinemachiaction.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-action.png",Cinemachi Action HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 tvg-id="cinemachimax.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-max.png",Cinemachi Max HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 tvg-id="cinemachixtra.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-xtra.png",Cinemachi Xtra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="MOVIES" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
 #KODIPROP:inputstream=inputstream.adaptive
@@ -357,11 +357,11 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="Malaysia", Astro Ria
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://startv365.com:80//live/D85A79B4/55A7743D/79321.ts
+http://startv365.com:80//live/D85A79B4/55A7743D/79321.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://mku0414.oknirvana.club:8880//live/3us02233n01/adsf232e23/1706.m3u8
+http://metatvpro.com:25461/live/W1808/1109/16.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -704,20 +704,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 1 (SGP)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
 #EXTINF:-1 tvg-id="AstroArena2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
@@ -729,16 +715,19 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mp
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sports",MY| ASTRO SUPERSPORT 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80/9794783213/6955630461/6590
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports",MY| ASTRO SUPERSPORT 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80/9794783213/6955630461/6589
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium124/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 3 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80/9794783213/6955630461/6588
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium125/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="AstroSupersport4" tvg-name="AstroSupersport4", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
