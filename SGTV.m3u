@@ -51,11 +51,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 ########################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:http-user-agent=VLC/3.5.4 LibVLC/3.5.4
 http://opplextv.cyou:8080//live/7262771/7272772/66236.ts?type=hls
 
 #EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", &Prive
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:http-user-agent=VLC/3.5.4 LibVLC/3.5.4
 http://opplextv.cyou:8080//live/7262771/7272772/66228.ts?type=hls
 
 #EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
