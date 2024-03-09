@@ -1,10 +1,6 @@
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="3600"
  
 #EXTM3U billed-msg="Channels Updated"
-
---------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
-
-
 
 ########################################################################################################################################################################
 ########################################################################### MUSIC ####################################################################################
@@ -724,6 +720,21 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="beINSports" tvg-name="beINSports", beIN Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="beINSports2" tvg-name="beINSports2", beIN Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
 #EXTINF:-1 tvg-id="AstroArena2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports",Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
@@ -742,21 +753,6 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="beINSports" tvg-name="beINSports", beIN Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="beINSports2" tvg-name="beINSports2", beIN Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 ch-number="821" tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
