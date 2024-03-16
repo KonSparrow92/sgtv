@@ -1,43 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="Movies",&Prive HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=16
+https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="AstroGO" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191874.ts?type=hls
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="AstroGO" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna SOOKA 2023
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
-https://linear05-playback.sooka.my/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria HD" group-title="AstroGO" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NoIJS.png",Astro Ceria HD CH611
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network HD" group-title="AstroGO" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NorIn.png",Food Network HD CH708
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="AstroGO | SPORTS" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1mkKts.png",Premier Sports CH823
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9c6/images/202.webp" group-title="Movies",&flix HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=20
+https://liveb.streamready.in/symandflixhd/smil:common.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=7
