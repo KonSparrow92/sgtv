@@ -142,25 +142,25 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="cinemachihd.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi.png",Cinemachi HD
+#EXTINF:-1 tvg-id="Cinemachi" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi.png",Cinemachi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="cinemachiaction.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-action.png",Cinemachi Action HD
+#EXTINF:-1 tvg-id="CinemachiAction" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-action.png",Cinemachi Action HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="cinemachimax.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-max.png",Cinemachi Max HD
+#EXTINF:-1 tvg-id="CinemachiMax" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-max.png",Cinemachi Max HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-id="cinemachixtra.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-xtra.png",Cinemachi Xtra HD
+#EXTINF:-1 tvg-id="CinemachiXtra" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-xtra.png",Cinemachi Xtra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -645,7 +645,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.m
 ####################################################################### Indonesia ######################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV HD
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://startv365.com:80//live/D85A79B4/55A7743D/45099.m3u8
 
@@ -658,13 +658,13 @@ http://startv365.com:80//live/D85A79B4/55A7743D/45099.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://1.bp.blogspot.com/-RuwMkAyJNiM/YJVWuQyj81I/AAAAAAAAEaQ/rzSkWxhVddIh0ffNI4NAH4GZJOClv7SMwCLcBGAsYHQ/s720/idx-p.png",IDX Channel 1
+#EXTINF:-1 tvg-id="IDX.id" group-title="Indonesia" tvg-logo="https://1.bp.blogspot.com/-RuwMkAyJNiM/YJVWuQyj81I/AAAAAAAAEaQ/rzSkWxhVddIh0ffNI4NAH4GZJOClv7SMwCLcBGAsYHQ/s720/idx-p.png",IDX Channel 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RuwMkAyJNiM/YJVWuQyj81I/AAAAAAAAEaQ/rzSkWxhVddIh0ffNI4NAH4GZJOClv7SMwCLcBGAsYHQ/s720/idx-p.png" group-title="Indonesia",IDX Channel 2
+#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://1.bp.blogspot.com/-RuwMkAyJNiM/YJVWuQyj81I/AAAAAAAAEaQ/rzSkWxhVddIh0ffNI4NAH4GZJOClv7SMwCLcBGAsYHQ/s720/idx-p.png" group-title="Indonesia",IDX Channel 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -676,13 +676,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MNC ENTERTAINMENT" tvg-logo="https://i.imgur.com/ZDIVrwq.jpg" group-title="Indonesia",MNC ENTERTAINMENT
+#EXTINF:-1 tvg-name="MNC ENTERTAINMENT" tvg-logo="https://i.imgur.com/ZDIVrwq.jpg" group-title="Indonesia",MNC ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4OlqKa.png" group-title="Indonesia", MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/b4OlqKa.png" group-title="Indonesia", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
