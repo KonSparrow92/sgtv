@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml" refresh="3600"
 
 ########################################################################################################################################################################
 ########################################################################### MUSIC ####################################################################################
@@ -15,18 +15,18 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://startv365.com:80//live/D85A79B4/55A7743D/191957.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png", MTV ID
+#EXTINF:-1 tvg-id="MTVLive.id" group-title="Music" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png", MTV ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://telegra.ph/file/3d40ceb0cbbf895b62bcb.png",Mtv ID
+#EXTINF:-1 tvg-id="MTVLive.id" group-title="Music" tvg-logo="https://telegra.ph/file/3d40ceb0cbbf895b62bcb.png",Mtv ID
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 https://mangga-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://telegra.ph/file/0eb1eee9662483a4aa70e.png",MTV 90's
+#EXTINF:-1 tvg-id="MTV90s" group-title="Music" tvg-logo="https://telegra.ph/file/0eb1eee9662483a4aa70e.png",MTV 90's
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 https://mangga-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
@@ -80,7 +80,7 @@ https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family +1 HD" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="MOVIES",HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family +1 HD" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="MOVIES",HBO Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
@@ -101,7 +101,7 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES" tvg-id=“HBOSignatureAsia.us” tvg-name=“HBOSignatureAsia.us”, HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES", HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
@@ -445,7 +445,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 ####################################################################### Chinese ########################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="Chinese" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NqvDJ.png",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="Chinese" tvg-logo="https://iili.io/1NqvDJ.png",8TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -719,11 +719,16 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="cinemachikids.id" group-title="Cartoon" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-kids.png",Cinemachi Kids HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
+http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.m3u8
+
+#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -735,16 +740,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.m3u8
-
-#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="CinemachiKids" group-title="Cartoon" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-kids.png",Cinemachi Kids HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-id="MoonbugKids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" group-logo="" group-title="Cartoon",Moonbug Kids    
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
