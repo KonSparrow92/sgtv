@@ -1,43 +1,68 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 
-#EXTINF:-1 tvg-id="IMC" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png" group-logo="" group-title="test",IMC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 group-title="Movie" ,&PRIVE
+http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/236897
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Flik.png" group-title="test",Flik
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="IN: & FLIX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="Movie",IN: & FLIX HD
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155990&extension=ts
 
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild HD" group-title="test" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nn6lV.png",Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PpVjiXQOj3VLt7kyNlZuHQ", "kid":"IeFJr7C3yZ4lkU6BAbkFEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2103/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="test" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NnPUB.png",National Geographic HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Main Event
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jUMXfOxg5u7MG5zBuZRrNg", "kid":"l9VGV4JL12rUVFmP8G6aEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/600/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
+http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="GlobalTrekker" tvg-name="Global Trekker" group-title="test" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://telegra.ph/file/6aa3c3717f3250990383b.png",Global Trekker
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
+https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="test" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NoDk7.png",DMAX HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
+https://linear010-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd?c3.ri=13506665491068385835
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Main Event
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00053cbaa4301cc9993e68fd4b6ce671:2a8e008597a45602dc4f39f06e119630
+https://linear007-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsmainevent)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="SPORT LOCAL", Sky Sports Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAVKgTCPIVZYwxb07zu5eQ","k":"ydbLzezPezCzkRqYMoqtRA"}]}
+https://linear005-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsfootball50)/manifest_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="Sports MPD", FOX Sports
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="Sports MPD", FOX Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Sports MPD", FOX Sports 3
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+
 
