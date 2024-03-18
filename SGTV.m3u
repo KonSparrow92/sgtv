@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml" refresh="3600"
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
 
 ########################################################################################################################################################################
 ########################################################################### MUSIC ####################################################################################
@@ -345,15 +345,12 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia", Astro Ria HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://metatvpro.com:25461/live/LT186743/8181/13.ts?type=hls
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="Malaysia", Astro Ria_Backup
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/79321.ts?type=hls
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#http://metatvpro.com:25461/live/W1808/1109/16.ts?type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna_Backup
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -600,11 +597,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Indian" tvg-id="ZeeBollywood.in" tvg-name="ZeeBollywood.in", Zee Bollywood
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55212.m3u8
-
-#EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="Indian",Zee Cinema HD
+#EXTINF:-1 tvg-id="ZeeCinema" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="Indian",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
