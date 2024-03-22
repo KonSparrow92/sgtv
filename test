@@ -1,54 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://i.imgur.com/sfR7Dgd.png" group-title="NASIONAL",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2116
+#EXTINF:-1 tvg-id="ts" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="Movies",&Prive HD
+https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="VH1Europe.uk" tvg-logo="https://i.imgur.com/3QZRSAo.png" group-title="WORLD MUSIC",MTV 00s
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a3d9d4bfa5185516b38e082478f027a3":"508b827a7c12a3c66c2707420a60f2a7","60d7c8bf82e65846b63fe754b6aab293":"070a935db9627a0cf39860ea58905b10","e3723805608f5fc2a443e98577fae7c3":"747e135724d11fc641248527ce70990b"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://tvup-live.secure.footprint.net/vh1/vh1.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2120
+#EXTINF:-1 tvg-id="ts" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9c6/images/202.webp" group-title="Movies",&flix HD
+https://liveb.streamready.in/symandflixhd/smil:common.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="andPrive HD" tvg-logo="https://i.imgur.com/OTWVxc1.png" group-title="GENERAL MOVIES",&prive
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-
-#EXTINF:-1 tvg-id="andFlix HD" tvg-logo="https://i.imgur.com/2DVyy5k.png" group-title="GENERAL MOVIES",&flix
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/puD2me6.png?v=1.0.0.1" group-title="Movies" tvg-id="KIX" tvg-name="KIX HD", KIX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmmjK7o.png?v=1.0.0.1" group-title="Malaysia" tvg-id="128" tvg-name="Dunia Sinema HD", Dunia Sinema HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
-https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EZzFaakU0T0dZdFpHWmtOUzAwT1RnMkxUbGxNbUl0Wm1VelptWm1ZVGcwT1RrNCIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODM4NzYyMiwiaWF0IjoxNjk3NzgzNjIyfQ.v7bGB-0CPHLC5o6sTYWaAspbdUumuu3Bopp8aFPUs3g"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="TEST", Astro Supersport
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EZzFaakU0T0dZdFpHWmtOUzAwT1RnMkxUbGxNbUl0Wm1VelptWm1ZVGcwT1RrNCIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODM4NzYyMiwiaWF0IjoxNjk3NzgzNjIyfQ.v7bGB-0CPHLC5o6sTYWaAspbdUumuu3Bopp8aFPUs3g"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
-#EXTINF:-1 group-title="TEST", Astro Supersport 2
-https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EZzFaakU0T0dZdFpHWmtOUzAwT1RnMkxUbGxNbUl0Wm1VelptWm1ZVGcwT1RrNCIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODM4NzYyMiwiaWF0IjoxNjk3NzgzNjIyfQ.v7bGB-0CPHLC5o6sTYWaAspbdUumuu3Bopp8aFPUs3g"}
-#KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="TEST", Astro Supersport 3
-https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
