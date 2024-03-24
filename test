@@ -1,16 +1,21 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2116
-#EXTINF:-1 tvg-id="ts" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="Movies",&Prive HD
-https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
+#EXTINF:-1 tvg-id="Astro SuperSport HD" group-title="#🌍 EPL with VPN 🌍#" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",🇲🇾 Astro SuperSport HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTYzNjE4OSwiaWF0IjoxNzExMDMyMTg5fQ.TI8X9DhzCFAqDLHcbDAopcoH6lcRA66wix2s1SxJfI8"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2120
-#EXTINF:-1 tvg-id="ts" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9c6/images/202.webp" group-title="Movies",&flix HD
-https://liveb.streamready.in/symandflixhd/smil:common.smil/manifest.mpd
+#EXTINF:-1 tvg-id="812" group-title="#🌍 EPL with VPN 🌍#" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",🇲🇾 Astro SuperSport 2 HD 
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTYzNjE4OSwiaWF0IjoxNzExMDMyMTg5fQ.TI8X9DhzCFAqDLHcbDAopcoH6lcRA66wix2s1SxJfI8"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fgi77bL7NWUaq9B/+YIK1Q","kid":"/3YUj1YiNNmHivSAheLPLQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="20" group-title="Movies"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9c6/images/202.webp",&flix HD 2
-https://liveb.streamready.in/symandflixhd/smil:common.smil/manifest.mpd
+#EXTINF:-1 tvg-id="813" group-title="#🌍 EPL with VPN 🌍#" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",🇲🇾 Astro SuperSport 3 HD  
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxMTYzNjE4OSwiaWF0IjoxNzExMDMyMTg5fQ.TI8X9DhzCFAqDLHcbDAopcoH6lcRA66wix2s1SxJfI8"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
