@@ -10,8 +10,7 @@ https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="ts" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9c6/images/202.webp" group-title="Movies",&flix HD
 https://liveb.streamready.in/symandflixhd/smil:common.smil/manifest.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EDGFhpDz+f3+8FE0XRqQVg","kid":"Fq5iFDX1PFKLDmvr3DBuzQ"}],"type":"temporary"} 
-#EXTINF:-1 tvg-id="16" group-title="Movies"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp",&Prive HD 2
-https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fgi77bL7NWUaq9B/+YIK1Q","kid":"/3YUj1YiNNmHivSAheLPLQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="20" group-title="Movies"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9c6/images/202.webp",&flix HD 2
+https://liveb.streamready.in/symandflixhd/smil:common.smil/manifest.mpd
