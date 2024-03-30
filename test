@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#EXTINF:-1 tvg-id="Warna" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/783c53bf-d652-42fa-b218-d47c4e5f1836
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1706
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CoolTV", [Astro]ASSP1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CoolTV", [Astro]ASSP2
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="CoolTV", [Astro]ASSP3
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
