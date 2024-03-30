@@ -1,9 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#https://www.sctv.co.id/ 
-#EXTGRP:TV Nasional Indonesia 
-#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg",SCTV 
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=202.158.99.122 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NKfxR.png",TV3 CH103
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
