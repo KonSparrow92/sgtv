@@ -46,7 +46,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 
 #EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts
 
+#EXTINF:-1 tvg-id="530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-title="MOVIES",&prive 
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -347,7 +350,7 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com/live/0664251418/9924187372/191874.ts
+http://startv365.com/live/0664251418/9924187372/191874.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna_Backup
 
