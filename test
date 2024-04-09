@@ -4,3 +4,11 @@
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://startv365.com/live/0664251418/9924187372/191874.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="MY ASTROGO", Supersport 1
+http://toh-users.xyz:8080/42204120/16250164/856822
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="MY ASTROGO", Supersport 2
+http://toh-users.xyz:8080/42204120/16250164/856824
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Supersport 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="MY ASTROGO", Supersport 3
+http://toh-users.xyz:8080/42204120/16250164/856827
