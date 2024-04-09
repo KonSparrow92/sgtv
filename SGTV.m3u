@@ -46,12 +46,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 
 #EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
-http://89.187.177.137:8081/&FLIX/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2116
-https://liveb.streamready.in/symandprivehd/smil:common.smil/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -265,12 +265,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 
-#EXTINF:-1 tvg-id="ParamountNetwork" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="Entertainment", PARAMOUNT NETWORK
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default.mpd
-
 #EXTINF:-1 ch-number="707" tvg-id="TLC" group-title="Entertainment" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
@@ -352,10 +346,11 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://startv365.com/live/0664251418/9924187372/191874.ts
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna_Backup
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -908,15 +903,15 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sports",MY| ASTRO SUPERSPORT 1 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+http://toh-users.xyz:8080/42204120/16250164/856822
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports",MY| ASTRO SUPERSPORT 2 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+http://toh-users.xyz:8080/42204120/16250164/856824
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 3 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+http://toh-users.xyz:8080/42204120/16250164/856827
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="AstroSupersport4" tvg-name="AstroSupersport4", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
