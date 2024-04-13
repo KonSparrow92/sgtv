@@ -15,12 +15,6 @@ After downloading the required player, **Copy the URL below** to add as a **prov
 
 ### **`is.gd/uvafDr`**
 
-Then **Copy the URL below** to add the **EPG**.
-
-### **`is.gd/kEAjRP`**
-
-Follow the steps in this **[OTT Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html)** if you are unsure of how to add a **PROVIDER and EPG**.
-
 Be sure to ***Reload/Refresh*** the playlist once a week to get the latest update.
 
 As all the channels are given free from this site, some channels may not be updated regularly. This is a pet project that I created in my free time.
