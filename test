@@ -1,10 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://startv365.com/live/0664251418/9924187372/191874.ts
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/xQxL10G.png" group-title="SPORT", Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia", Astro Ria HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1705
+ 
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/RryemoR.png" group-title="SPORT", Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+ 
 
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/453O4dO.png" group-title="SPORT", Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/oAOnoTx.png" group-title="SPORT", Sony TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+ 
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/3Ppohrq.png" group-title="SPORT", Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
