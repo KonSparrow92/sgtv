@@ -1,22 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="LOKAL Vision+", SCTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="" group-title="SPORTS",Eurosport HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="LOKAL Vision+", INDOSIAR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="Entertainment" tvg-id="MTV90s" tvg-name="MTV90s", MTV 90s
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sports",MY| ASTRO SUPERSPORT 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:69:3C&stream=918986&extension=ts&play_token=c4cT8BHakY
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/Thrill.id.png" group-title="English" tvg-id="Thrill.hk" tvg-name="Thrill.hk", Thrill
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 1 HD_B
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:69:3C&stream=1016544&extension=ts&play_token=y7q9Sbnno6
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports",MY| ASTRO SUPERSPORT 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:69:3C&stream=1016545&extension=ts&play_token=Gj1lATa8JI
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B5:69:3C&stream=918984&extension=ts&play_token=nRYb7Vnj2b
