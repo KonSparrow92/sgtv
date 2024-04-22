@@ -1,40 +1,17 @@
-#EXTINF:-1 tvg-id= "SPOTV.id"  tvg-logo="https://i.ibb.co/ZY2cbSj/SPOTV.png" group-title="SPORT LOKAL",SpoTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://202.150.161.68/spotv1/index.m3u8
-
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.ibb.co/6Bb0rqM/SPOTV2.png" group-title="SPORT LOKAL",SpoTV 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://202.150.161.68/spotv2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDH4RpS/rcti.png" group-title="NATIONAL", 01.RCTI🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 ENTERTAINMENT (ASTRO GO)",AXN HD
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BVmrb4D/mnctv.png" group-title="NATIONAL",02. MNCTV🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/imc.png" group-title="MOVIES", INDONESIA MOVIE CHANNEL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/axn.png" group-title="MOVIES", AXN
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
-https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.ibb.co/6Bb0rqM/SPOTV2.png" group-title="SPORT LOKAL",SpoTV 2 mpd
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 tvg-id="SpoTV2.kr" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="SPORTS",SPOTV2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+#EXTINF:-1 tvg-id="810" tvg-name="SPOTV2" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2 astro
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 
 
