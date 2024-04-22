@@ -188,7 +188,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
 ################################################################## Entertainment #######################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN HD
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
