@@ -203,7 +203,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=wyGv4WibB9W35VvQJcSDzg:wkp4EdmrRrSLdGoOfiaSEA
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN ID
@@ -874,8 +874,9 @@ http://toh-users.xyz:8080/42204120/16250164/856822
 http://toh-users.xyz:8080/42204120/16250164/856824
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 3 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://toh-users.xyz:8080/42204120/16250164/856827
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="AstroSupersport4" tvg-name="AstroSupersport4", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
