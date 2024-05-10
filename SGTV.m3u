@@ -757,8 +757,10 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 ########################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" group-title="Cartoon" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" group-title="Cartoon" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax ID
@@ -779,14 +781,16 @@ http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network ID
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="MoonbugKids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" group-logo="" group-title="Cartoon",Moonbug Kids    
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
