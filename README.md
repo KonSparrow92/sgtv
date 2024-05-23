@@ -2,7 +2,7 @@
 
 |[Player Download](#player-download)|[Playlist URL](#playlist-url)|[Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html)|[Netflix Alternatives](#netflix-alternatives)|
 |---|---|---|---|
-|[Youtube TV (No Ads)](#youtube)|[Windows Subsytem](#windows-subsystem-for-android-windows-11-only)|[Windows Activation](https://konsparrow92.github.io/sgtv/WinActivation.html)|
+|[Youtube TV (No Ads)](#youtube)|[Windows Subsytem](#windows-subsystem-for-android-windows-11-only)|[Windows Activation](https://massgrave.dev/)|
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> ✅ Android based devices running 5.0 and above only.**
 
