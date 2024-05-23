@@ -4,7 +4,7 @@
 |---|---|---|---|
 |[Youtube TV (No Ads)](#youtube)|[Windows Subsytem](#windows-subsystem-for-android-windows-11-only)|[Windows Activation](https://konsparrow92.github.io/sgtv/WinActivation.html)|
 
-**Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
+**Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> ✅ Android based devices running 5.0 and above only.**
 
 Please use <img src="https://static.cdnlogo.com/logos/c/72/chrome.svg" width="20" height="20"> Chrome Browser to download the apps listed below.
 
@@ -99,7 +99,7 @@ Android 5.0 and above
 Full YouTube experience without the annoying Adverts. 
 [Official Site](https://smartyoutubetv.github.io/)
 
-**NOT SUPPORTED FOR MOBILE!**
+❌**NOT SUPPORTED FOR MOBILE!**
 
 Features:-
 
