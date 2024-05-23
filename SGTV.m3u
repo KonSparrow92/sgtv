@@ -79,6 +79,13 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="", IMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
 #EXTINF:-1 ch-number="410" tvg-id="AstroPremier" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",PREMIER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
@@ -115,9 +122,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 ########################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="AnimalPlanet" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/AstroGo/index/2710
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTINF:-1 tvg-id="BBCEarth" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,9 +134,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
 #EXTINF:-1 ch-number="714" tvg-id="CrimeInvestigation" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime & Investigation HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Documentary" tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD", Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
