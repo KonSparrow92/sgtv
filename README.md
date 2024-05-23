@@ -1,8 +1,8 @@
 # Free IPTV Player and Channel Playlist
 
-|[Player Download](#player-download)|[Playlist URL](#playlist-url)|[Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html)|[Netflix Alternatives](#novatv-tv-seriesmovies)|
+|[Player Download](#player-download)|[Playlist URL](#playlist-url)|[Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html)|[Netflix Alternatives](#netflix-alternatives)|
 |---|---|---|---|
-|[Youtube TV (No Ads)](#smarttube-by-yuliskov-for-android-tv)|[Windows Subsytem](#windows-subsystem-for-android-windows-11-only)|[Windows Activation](https://konsparrow92.github.io/sgtv/WinActivation.html)|
+|[Youtube TV (No Ads)](#youtube)|[Windows Subsytem](#windows-subsystem-for-android-windows-11-only)|[Windows Activation](https://konsparrow92.github.io/sgtv/WinActivation.html)|
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> based devices running 5.0 and above only.**
 
@@ -45,7 +45,9 @@ Click [HERE](#playlist-url) for the playlist
 
 For Android 5.0 and above only
 
-## *NovaTV (TV Series/Movies)*
+## *Netflix Alternatives*
+
+  - ### *NovaTV (TV Series/Movies)*
 
 Alternative Streaming App.
 
@@ -65,11 +67,9 @@ Stable Link:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1ZDS-AZGmLyMr9-K1Q6XZ0alCLLZvqLif/view?usp=sharing)
 
-## *Tea TV (Tv Series/Movies)*
+  - ### *Tea TV (Tv Series/Movies)*
    
-<img src="https://teatvhd.com/wp-content/uploads/2023/04/teatv-app-shows.webp" width="300" height="550">
-
-This app is not recommended to be used to play live channels.
+<img src="https://www.firesticktricks.com/wp-content/uploads/2023/10/Setup-Tea-TV-on-FireStick5.jpg" width="550" height="300">
 
 Recommended for TV shows that is available on various streaming platforms such as:-
     
@@ -88,7 +88,9 @@ Stable Link:
 
 Android 5.0 and above
 
-## *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
+## *Youtube*
+
+  - ### *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
 
 <img src="https://smarttubeapp.github.io/images/screens/smartyoutubetv_screenshot_01.jpg" width="550" height="255">
 
