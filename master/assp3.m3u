@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2140692,RESOLUTION=854x480
-http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111032&extension=ts&play_token=TUWsaM2f5w
