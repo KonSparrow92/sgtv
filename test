@@ -1,88 +1,34 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-#EXTINF:-1 tvg-id="816" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",SPOTV HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-#EXTINF:-1 tvg-id="810" tvg-name="SPOTV2" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" group-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/BeIN_SPORTS_4K_Logo.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/BeIN_SPORTS_4K_Logo.jpg",beIN SPORTS 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="" group-title="Sports",Astro UHD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
-
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix
-#EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
-#http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive HD
-#EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
-#http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
-#EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://i.ibb.co/xGLq6CN/Axn-movies-ca.png" group-title="MOVIES",AXN Movies
-https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"padw2I5EA3cvNuIxPo4y0A", "kid":"//WSeiJJ8JT6N3PDkClAEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="713" ch-number=" " tvg-name="Paramount Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="MOVIES",713 Paramount Network
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Animax" ch-number=" " tvg-name="Animax HD" group-title="KIDS" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/KIDS.png" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax (ID)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k7bE/0IMaGSmKU9tIj2bLA", "kid":"Y0SoJygJJF4/qdkmCZUoww" } ], "type":"temporary" }
-https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="612" ch-number=" " tvg-name="Dreamworks" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" group-title="KIDS",612 Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Boomerang" ch-number=" " tvg-name="Boomerang" group-title="KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png",Boomerang (MY)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "HO5FQCla5tbFGcUEGoDxwA", "kid": "jQKveknkSzGXZNgR0BjF6A" } ], "type": "temporary" }
-#EXTINF:-1 tvg-id="Astro Supersport" tvg-name="AstroSupersport" group-title="Sports" tvg-logo="https://assets.iptvsystem.my.id/img/astrosupersport.png",Astro Supersport
-https://cors.iptvsystem.my.id/https://linear03-playback.sooka.my/CH3/masterCH3.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-#EXTINF:-1 tvg-id="Astro Supersport2" tvg-name="AstroSupersport2" group-title="Sports" tvg-logo="https://assets.iptvsystem.my.id/img/astrosupersport2.png",Astro Supersport 2
-https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
-#EXTINF:-1 tvg-id="Astro Supersport4" tvg-name="AstroSupersport4" group-title="Sports" tvg-logo="https://assets.iptvsystem.my.id/img/astrosupersport4.png",Astro Supersport 4
-https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
-
-#EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-name="RIA HD" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", 104 RIA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-http://mykingtv.net:2082/gadget1k85/pass1k85/8444
+#EXTINF:-1 tvg-id="104.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="AstroGo",Ria 
+https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71ajPxBQ-twMNoaSd7IX8EQ=9E11/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroWarna" ch-number="107" tvg-name="WARNA HD" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 107 WARNA HD
-http://mykingtv.net:2082/gadget1k85/pass1k85/8448
+#EXTINF:-1 tvg-id="107.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="AstroGo",Warna 
+https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_obiAFxc=wQUh/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sports Testing",MY| ASTRO SUPERSPORT 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports Testing",MY| ASTRO SUPERSPORT 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+https://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEm7PxwOQPIVXVg8JVXk_DvFk=-oZD/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports Testing",MY| ASTRO SUPERSPORT 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
+#EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="Testing Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/171_144.png",200 Astro First
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 
 
 
