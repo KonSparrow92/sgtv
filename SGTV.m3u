@@ -2,6 +2,11 @@
 ########################################################################### MUSIC ####################################################################################
 ########################################################################################################################################################################
 
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="USA General",MTV HD US
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://mohdtv.com:8880/hdtv00CBB4310CB0/07712465/3110
+
 #EXTINF:-1 tvg-id="MTVAsia" tvg-name="MTV Live HD" group-title="Music" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
@@ -12,6 +17,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="now.90s.gb" tvg-name="UK240:NOW 90S " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK240" group-title="Music",NOW 90S 
+#EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://mohdtv.com:8880/13372552222/Cherif2023/28819
+
+#EXTINF:-1 tvg-id="" tvg-name="DE088:MTV 80S" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE088SkySelect8.png" group-title="Music",MTV 80S
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://mohdtv.com:8880/hdtv00CBB4310CB0/07712465/29196
+
+#EXTINF:-1 tvg-id="one.music.de" tvg-name="DE106:ONE MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE106Pro7.png" group-title="Music",ONE MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://mohdtv.com:8880/hdtv00CBB4310CB0/07712465/29178
 
 ########################################################################################################################################################################
 ################################################################ MOVIES ################################################################################################
@@ -20,14 +39,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee16331
 #EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
-http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
-#http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive HD
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
-http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
-#http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155746&extension=ts
+http://mohdtv.com:8880/13372552222/Cherif2023/1963
 
 #EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,8 +114,14 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://mohdtv.com:8880/hdtv00CBB4310CB0/07712465/55291
+
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="US072:SyFy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" group-title="MOVIES",SyFy HD US
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://mohdtv.com:8880/hdtv00CBB4310CB0/07712465/3096
 
 #EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -347,11 +370,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malaysia",Dunia Sinema HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=1000
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
 #EXTINF:-1 tvg-id="TVS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="Malaysia",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
@@ -553,7 +571,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -742,17 +760,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sports",MY| ASTRO SUPERSPORT 1 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
+#http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
+http://mohdtv.com:8880/13372552222/Cherif2023/1722
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports",MY| ASTRO SUPERSPORT 2 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
+#http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
+http://mohdtv.com:8880/13372552222/Cherif2023/1721
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 3 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+#http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+http://mohdtv.com:8880/13372552222/Cherif2023/1720
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="AstroSupersport4" tvg-name="AstroSupersport4", Astro Supersport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
