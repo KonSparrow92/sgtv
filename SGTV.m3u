@@ -2,7 +2,7 @@
 ########################################################################### MUSIC ####################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="USA General",MTV HD US
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="Music",MTV HD US
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://mohdtv.com:8880/hdtv00CBB4310CB0/07712465/3110
