@@ -116,6 +116,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 ######################################################################## DOCUMENTARY ###################################################################################
 ########################################################################################################################################################################
 
+#EXTINF:-1 tvg-id="AFN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="" group-title="Documentary",Afn  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+
 #EXTINF:-1 tvg-id="AnimalPlanet" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",Animal Planet
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -262,14 +267,11 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 ########################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i71ajPxBQ-twMNoaSd7IX8EQ=9E11/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAcGwJByAU4N2R_D_obiAFxc=wQUh/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+#EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://mohdtv.com:8880/live/voby5094/82723927/1706.ts
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -557,7 +559,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+#https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 #EXTINF:-1 tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg",Jak TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -599,13 +601,13 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
+#https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" group-title="Indonesia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+#https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" group-title="Indonesia", RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -615,7 +617,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/45099.m3u8
+#http://startv365.com:80//live/D85A79B4/55A7743D/45099.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -625,12 +627,12 @@ http://startv365.com:80//live/D85A79B4/55A7743D/45099.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -695,6 +697,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SPOTVStadia" tvg-name="SPOTVStadia" group-title="EURO 2024" group-logo="https://i.ibb.co/mH4K4gc/UEFA-Euro-2024-Logo.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV-STADIA.png",SPOTV STADIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6o+kPMcQLkgc1EHFiy7LCA", "kid":"58ZQrHLc0DEUEYMqgnG7EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="EURO 2024" tvg-logo="https://iili.io/d2lEKpS.png",SPOTV2 STADIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1nOa7mx2dBdjmS03zGbxuA", "kid":"964dxxzFj7h2tOZZF0+cEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5149/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="beINSports" tvg-name="beINSports", beIN Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -764,5 +779,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTM3U billed-msg="Sports Channels Updated - 4/6/24"
+#EXTM3U billed-msg="Multiple Channels Updated - 26/6/24"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3600"
