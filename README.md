@@ -11,7 +11,7 @@ Please use <img src="https://static.cdnlogo.com/logos/c/72/chrome.svg" width="20
 
 ## ***Playlist URL***
 
-After downloading the required player, **Copy the URL below** to add as a **provider** into player. 
+After downloading the required [player](#player-download), **Copy the URL below** to add as a **provider** into player. 
 
 ### **`is.gd/uvafDr`**
 
