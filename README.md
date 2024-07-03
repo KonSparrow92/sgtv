@@ -45,7 +45,9 @@ Click [HERE](#playlist-url) for the playlist
 
 For Android 5.0 and above only
 
+
 ## *Netflix Alternatives*
+
 
   - ### *NovaTV (TV Series/Movies)*
 
@@ -67,6 +69,7 @@ Stable Link:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1ZDS-AZGmLyMr9-K1Q6XZ0alCLLZvqLif/view?usp=sharing)
 
+
   - ### *Tea TV (Tv Series/Movies)*
    
 <img src="https://www.firesticktricks.com/wp-content/uploads/2023/10/Setup-Tea-TV-on-FireStick5.jpg" width="550" height="300">
@@ -85,6 +88,7 @@ Stable Link:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1wS18pU3P1tSARJxov8gT30rHewRN-eDf/view?usp=share_link)
 
+  - ### *OnStream (Tv Series/Movies)*
 
 <img src="https://onstream.so/images/os-phone.png" width="255" height="550"> <img src="https://onstream.so/images/how-to-install-OnStream.jpg" width="550" height="550">
 
@@ -145,11 +149,11 @@ Features:-
 
 - No Ads
 
+- Background Play
+
 - Up to 8K video resolution
 
 - Login into your Google account with **MicroG**
-
-- Cast from the phone
 
 Revanced Link
 
@@ -158,6 +162,7 @@ Revanced Link
 MicroG Link
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1UciCub6SEhjccGk2cM60xiS24blfCX4j/view?usp=sharing)
+
 
   - ### *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
 
@@ -199,6 +204,7 @@ Link 1:
 Link 2:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1jl3p1khDfpwvEOpzqNtkxCSz0CeYk-FS/view?usp=share_link)
+
 
 ## Windows Subsystem for Android. (Windows 11 only)
 
