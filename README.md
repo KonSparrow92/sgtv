@@ -2,7 +2,7 @@
 
 |[Player Download](#player-download)|[Playlist URL](#playlist-url)|[Setup Guide](https://konsparrow92.github.io/sgtv/SETUP.html)|[Netflix Alternatives](#netflix-alternatives)|
 |---|---|---|---|
-|[Youtube TV (No Ads)](#youtube)|[Windows Subsytem](#windows-subsystem-for-android-windows-11-only)|[Windows Activation](https://massgrave.dev/)|
+|[Youtube TV (No Ads)](#youtube)|[Youtube Revanced](#youtube-revanced)|[Windows Activation](https://massgrave.dev/)|[Windows Subsytem](#windows-subsystem-for-android-windows-11-only)
 
 **Works on <img src="https://www.pngplay.com/wp-content/uploads/2/Android-Logo-Transparent-PNG.png" width="80" height="20"> ✅ Android based devices running 5.0 and above only.**
 
@@ -86,9 +86,78 @@ Stable Link:
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1wS18pU3P1tSARJxov8gT30rHewRN-eDf/view?usp=share_link)
 
 
+<img src="https://onstream.so/images/os-phone.png" width="255" height="550"> <img src="https://onstream.so/images/how-to-install-OnStream.jpg" width="550" height="550">
+
+[Official Site](https://onstream.so/)
+
+Recommended for TV shows that is available on various streaming platforms such as:-
+    
+- Free without registration
+  - On Stream is totally free, you can even stream without an account. There are no hidden fees.
+    
+- Multi-subtitles
+  - Watching foreign movies and shows is never easier. Simply choose your desired language and explore new cultures.
+    
+- Multiple server options
+  - For your smoothest watching experience, we provide not only a Torrent server but also other choices well-selected from other sites/services.
+    
+- Download your favorites to watch offline
+  - Save your movies and shows to watch anytime, anywhere, with or without the Internet.
+
+- Custom favorite list
+  - Keep track of movies and shows you love! You might want to rewatch or share it with people you care about later.
+
+- Latest daily updates
+  - Come to OnStream whenever a new movie or episode is released. We are among the fastest to help you quench your thirst.
+
+Mobile Phone Link:
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1HZfu8FqF543FzcBifnkUmm0jBVGQAI6R/view?usp=sharing)
+
+Android TV Link:
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1vbKBoj5baU6faetIwM7wXPhnObX408mS/view?usp=sharing)
+
+
 Android 5.0 and above
 
 ## *Youtube*
+
+  - ### *Youtube Revanced*
+
+<img src=https://www.gizchina.com/wp-content/uploads/images/2022/06/Youtube-Revanced-1.jpg width="550" height="255">
+
+Full YouTube without the ADs!
+
+**Preparations:**
+
+  -  **Turn off Google Play Protect**
+
+  -  **Allow unknown downloads for your browser in settings**
+
+  -  **Disable/uninstall youtube app**
+
+  - **Download both Revanced and MicroG linked below**
+
+  - **Open your files app and install both**
+
+Features:-
+
+- No Ads
+
+- Up to 8K video resolution
+
+- Login into your Google account with **MicroG**
+
+- Cast from the phone
+
+Revanced Link
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1jb3YXk_4TidjablUTu0Nhn2lYOb9t8J2/view?usp=sharing)
+
+MicroG Link
+
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1UciCub6SEhjccGk2cM60xiS24blfCX4j/view?usp=sharing)
 
   - ### *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
 
