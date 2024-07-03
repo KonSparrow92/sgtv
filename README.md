@@ -45,9 +45,9 @@ Click [HERE](#playlist-url) for the playlist
 
 For Android 5.0 and above only
 
+[Go to Top](#free-iptv-player-and-channel-playlist)
 
 ## *Netflix Alternatives*
-
 
   - ### *NovaTV (TV Series/Movies)*
 
@@ -68,7 +68,6 @@ Recommended for TV shows that is available on various streaming platforms such a
 Stable Link:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1ZDS-AZGmLyMr9-K1Q6XZ0alCLLZvqLif/view?usp=sharing)
-
 
   - ### *Tea TV (Tv Series/Movies)*
    
@@ -122,8 +121,9 @@ Android TV Link:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1vbKBoj5baU6faetIwM7wXPhnObX408mS/view?usp=sharing)
 
-
 Android 5.0 and above
+
+[Go to Top](#free-iptv-player-and-channel-playlist)
 
 ## *Youtube*
 
@@ -163,6 +163,7 @@ MicroG Link
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1af9vGneAdp7_cMXSXGpfgIkkzxZOn7Uu/view?usp=sharing)
 
+[Go to Top](#free-iptv-player-and-channel-playlist)
 
   - ### *SmartTube by [Yuliskov](https://github.com/yuliskov/SmartTubeNext) For Android TV*
 
@@ -205,6 +206,8 @@ Link 2:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1jl3p1khDfpwvEOpzqNtkxCSz0CeYk-FS/view?usp=share_link)
 
+[Go to Top](#free-iptv-player-and-channel-playlist)
+
 
 ## Windows Subsystem for Android. (Windows 11 only)
 
@@ -219,6 +222,8 @@ You can download the Windows Subsystem installer here and follow through with th
 Direct Link:
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1TwAHFJYm8M0MNpGDURhBd9kR4n3tUvzs/view?usp=share_link)
+
+[Go to Top](#free-iptv-player-and-channel-playlist)
 
 ## ***Disclaimer***
 
