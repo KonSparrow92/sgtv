@@ -125,7 +125,7 @@ Android 5.0 and above
 
   - ### *Youtube Revanced*
 
-<img src=https://www.gizchina.com/wp-content/uploads/images/2022/06/Youtube-Revanced-1.jpg width="550" height="255">
+<img src="https://www.gizchina.com/wp-content/uploads/images/2022/06/Youtube-Revanced-1.jpg" width="550" height="255">
 
 Full YouTube without the ADs!
 
