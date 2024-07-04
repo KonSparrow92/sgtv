@@ -239,3 +239,5 @@ Site built using [**Github**](https://github.com) <img src="https://cdn.pixabay.
 
 
 [![Hits](https://hits.sh/konsparrow92.github.io/sgtv.svg)](https://hits.sh/konsparrow92.github.io/sgtv/)
+
+<a href="https://hits.sh/konsparrow92.github.io/sgtv/"><img alt="Hits" src="https://hits.sh/konsparrow92.github.io/sgtv.svg"/></a>
