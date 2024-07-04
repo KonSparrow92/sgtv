@@ -236,3 +236,6 @@ IF YOU PAID FOR ANY APPS/LINKS GET A ***REFUND***!
 FORK ME!
 
 Site built using [**Github**](https://github.com) <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width=20 height=20>
+
+
+[![Hits](https://hits.sh/konsparrow92.github.io/sgtv.svg)](https://hits.sh/konsparrow92.github.io/sgtv/)
