@@ -238,4 +238,4 @@ FORK ME!
 Site built using [**Github**](https://github.com) <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width=20 height=20>
 
 
-<a href="https://hits.sh/konsparrow92.github.io/sgtv/"><img alt="Hits" src="https://hits.sh/konsparrow92.github.io/sgtv.svg?label=Visits"/></a>
+<a href="https://hits.sh/konsparrow92.github.io/sgtv/"><img alt="Hits" src="https://hits.sh/konsparrow92.github.io/sgtv.svg?view=today-total&style=plastic&label=Visits&logo=Github"/></a>
