@@ -714,12 +714,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 ###############################################################  KIDS  #################################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="Animax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="",Animax 
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="Cartoon",Animax 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="https://i.imgur.com/7D0u6bL.png" group-title="KIDS", AniPlus
+#EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="https://i.imgur.com/7D0u6bL.png" group-title="Cartoon", AniPlus
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=100
 http://iptvtree.net:8080/F14995/a84c0963/298504
