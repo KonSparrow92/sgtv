@@ -254,9 +254,9 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
 #EXTINF:-1 ch-number="709" tvg-id="AFN" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
