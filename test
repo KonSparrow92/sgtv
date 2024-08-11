@@ -4,4 +4,41 @@
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://visionplus.id//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="MTV 90s" tvg-logo="https://i.imgur.com/YRm5FjB.png" group-title="MUSIK", Mtv 90s_B
+https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+
+#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="MUSIK", Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://i.ibb.co/zm0vfsY/vevo90-1.png" tvg-chno="1522" group-title="MUSIK", Vevo '90s
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://i.ibb.co/MnhLCLT/vevo2010-2.png" tvg-chno="1524" group-title="MUSIK", Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://i.ibb.co/1Lrwd3S/vevopop-1.png" tvg-chno="1532" group-title="MUSIK", Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="MUSIK", Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYjzal6.jpeg" group-title="MUSIK", K Pop
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIK" tvg-logo="https://i.ibb.co/Df8dfPx/retro.png", Retro tv 
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="MUSIK", IHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="MUSIK", IHeart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+  
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/DoH9dqh.png" group-title="MUSIK", Imtv
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+
 #EXTM3U billed-msg="TESTING ONLY"
