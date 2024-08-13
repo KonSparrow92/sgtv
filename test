@@ -1,60 +1,10 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-logo="" group-title="",XXX
-https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8ir0Lq73M1yeKu5ElVA7Pg", "kid":"rBQGeGyFQRmd4/rdQG8rXw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-logo="" group-title="",XXXX
-https://d277c08tzca9og.cloudfront.net/CH2/masterCH2.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="1.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/574e45f95d5d4a288aad6e711ace25b6/version/0/width/120/height/90/quality/80" group-logo="" group-title="",K-POPCORN
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="3.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/66847680a99c4be9af34f94102e6e416/version/0/width/120/height/90/quality/80" group-logo="" group-title="",MTRSPT 1
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1--dash-/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="6.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/120/height/90/quality/80" group-logo="" group-title="",TAYO+
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="7.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e171e4404e5344c8864a8f1079301ec3/version/0/width/120/height/90/quality/80" group-logo="" group-title="",EDGEsport
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00545-edgenetworks-edgesport-dash-/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="8.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/718984734b9a40688ab3fde72f27e7ee/version/0/width/120/height/90/quality/80" group-logo="" group-title="",Infamous TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="9.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bbeffd348eab475f8e6758b84534e6e3/version/0/width/120/height/90/quality/80" group-logo="" group-title="",Gusto TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="10.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6645e2e786014bc482c4835a8f97e1bd/version/0/width/120/height/90/quality/80" group-logo="" group-title="",Bollywood Prime
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00877-b4unetworkeurop-bollywoodprime-dash-/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="11.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/49ff127ab3834c32b241575548e4c4a9/version/0/width/120/height/90/quality/80" group-logo="" group-title="",YRF Music
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-/index.mpd
-
-
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="102" channel-id="102" group-title="Malaysia",TV2 HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
 #EXTM3U billed-msg="TESTING ONLY"
