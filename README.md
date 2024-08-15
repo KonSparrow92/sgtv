@@ -35,7 +35,7 @@ This Player supports M3U playlists with EPG. [**OTT Setup Guide**](https://konsp
 
 Link 1:
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1EX3q857dmVizU2B1EYFcRtD5YJUw62FY/view?usp=share_link)
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1NS3ZqgsgGm7cFOnysPl0QzzVUBZXMMJX/view?usp=drivesdk)
 
 Link 2:
 
