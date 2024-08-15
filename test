@@ -1,21 +1,15 @@
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="AstroWarna" tvg-name="AstroWarna", Astro Warna HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
-http://mohdtv.com:8880//live/ALLChannels681def17c507/98382179/1706.ts
-
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="MY/SG" group-title="Malaysia",Astro Warna
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-https://royal-water-e008.lu-mau-apaan-sih-wadunnn.workers.dev/2402/index.mpd
-
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="Malaysia",Astro Ria
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://royal-water-e008.lu-mau-apaan-sih-wadunnn.workers.dev/1004/index.mpd
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astro" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
+https://tv.jnda.tech/hxr/9u9k4t/l.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2402/
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna
+https://tv.jnda.tech/hxr/1d0euu1/l.mpd
+
 
 
 #EXTM3U billed-msg="TESTING ONLY"
