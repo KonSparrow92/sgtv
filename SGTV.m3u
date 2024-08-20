@@ -22,13 +22,13 @@ https://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd
 
 #EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="Music",MTV HD US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 http://mohdtv.com:8880/hdtv00CBB4310CB0/07712465/3110
 http://mohdtv.com:8880/ALLChannels48B02DE93BD0/42628306/3110
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceKBfzjFFmJRyqS9gAgBD4DRBk_9qaDpo0A&usqp=CAU" group-title="Music" tvg-id="" tvg-name="", MTV Spankin New
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="one.music.de" tvg-name="DE106:ONE MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE106Pro7.png" group-title="Music",1mus
@@ -37,37 +37,37 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Music" tvg-logo="https://i.ibb.co/xGcLjnX/traceurban.png", Trace Urban
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="now.90s.gb" tvg-name="UK240:NOW 90S " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK240" group-title="Music",NOW ROCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DE088:MTV 80S" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE088SkySelect8.png" group-title="Music",NOW 80S
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="Music", IHeart 80s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="Music", IHeart 90s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYjzal6.jpeg" group-title="Music", K Pop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 https://marine2.miplay.cl/kpop/playlist.m3u8
   
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/DoH9dqh.png" group-title="Music", Imtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 ########################################################################################################################################################################
@@ -76,12 +76,12 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive HD
 #EXTVLCOPT:http-user-agent=VLC/3..0.9 LibVLC/3.0.9
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AxnMovies.png" group-title="MOVIES",Axn Movies
@@ -732,7 +732,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -742,7 +742,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10
 
 #EXTINF:-1 tvg-id="SPOTVStadia" tvg-name="SPOTVStadia" group-title="EURO 2024" group-logo="https://i.ibb.co/mH4K4gc/UEFA-Euro-2024-Logo.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV-STADIA.png",SPOTV STADIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
