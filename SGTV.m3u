@@ -86,7 +86,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AxnMovies.png" group-title="MOVIES",Axn Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d630e04e0c5e3f98dc38840be1c1dd4c", "kid":"f9e4be09926c262effa2b5381ae3553d" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=d630e04e0c5e3f98dc38840be1c1dd4c:f9e4be09926c262effa2b5381ae3553d
 https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
 #EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
