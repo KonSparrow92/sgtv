@@ -1,24 +1,12 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
-#EXTINF:-1 tvg-id="114." tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-logo="" group-title="",Spotv 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live05.mpd
-
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZDYwYTMyZTYtYWJmMC0zOGFmLThiZTEtMmQwYzU2MjlmZWYw
-#EXTINF:-1 tvg-id="109." tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/202109/20210930/20210930184212950ddn.png" group-logo="" group-title="",Spotv
-https://unifi-live10.secureswiftcontent.com/UnifiHD/live10.mpd
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://tv.jnda.tech/hxr/9u9k4t/l.mpd
 
-#EXTINF:-1 tvg-id="104.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="" group-title="FHD",Ria 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears-playback.astro.com.my/vsg/41E5u5yWsYfD2ThDIraUqlDXitKJmYnGpeS4I2ujnyx1I=52vj/dash-wv/jitp-linearwm/1004/default_primary.mpd
-
-#EXTINF:-1 tvg-id="107.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-logo="" group-title="FHD",Warna 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linears-playback.astro.com.my/vsg/41oN22S51uUDo8E9ET1Tb2PhhUkjxhY-Q0TNfJ7D9no9w=KCia/dash-wv/jitp-linearwm/2402/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+https://tv.jnda.tech/hxr/1d0euu1/l.mpd
 
 
 #EXTINF:-1 group-title="NEW APP UPDATE!", GO TO is.gd/qGizGR
