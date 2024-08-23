@@ -1,34 +1,30 @@
-#EXTINF:-1 tvg-id=" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive TS
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-http://opplex.tv:8080//live/83212539/43153928/66228.ts
+#EXTINF:-1 group-title="astro" ch-number="100" tvg-id="100.astro" tvg-name="100 KITA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KITA.png",100 KITA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer="https://astrogo.astro.com.my/"
+#EXTHTTP:{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Origin":"https://astrogo.astro.com.my","Pragma":"no-cache","Priority":"u=1, i","Referer":"https://astrogo.astro.com.my/","Sec-Ch-Ua":"\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Google Chrome\";v=\"126\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua-Platform":"Windows","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-site","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
+https://tv.jnda.tech/lic/1m8waq2/l.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive M3U
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
+#EXTINF:-1 group-title="astro" ch-number="100" tvg-id="100.astro" tvg-name="100 KITA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KITA.png",100 KITA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+https://tv.jnda.tech/lic/1m8waq2/l.mpd
 
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix TS
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-http://opplex.tv:8080//live/83212539/43153928/66236.ts
+#EXTINF:-1 tvg-name="108 CITRA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="astro" ch-number="108" tvg-id="108.astro",108 CITRA HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+https://tv.jnda.tech/lic/1obq8t2/l.mpd
 
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", &Flix M3U
+
+
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-http://opplex.tv:8080//live/83212539/43153928/66236.m3u8
+
 
 #EXTINF:-1 group-title="NEW APP UPDATE!", GO TO is.gd/qGizGR
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
