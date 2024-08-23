@@ -155,11 +155,11 @@ Features:-
 
 - Login into your Google account with **MicroG**
 
-Revanced Link
+**Revanced Link**
 
-[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1jb3YXk_4TidjablUTu0Nhn2lYOb9t8J2/view?usp=sharing)
+[<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1Nw_9hg562rTrgpgwp37oBbjpiByy7kaW/view?usp=sharing)
 
-MicroG Link
+**MicroG Link**
 
 [<img src="https://www.mtctutorials.com/wp-content/uploads/2019/04/Download-button-png-GREEN-color-by-mtc-tutorials-2048x574.png" width="200" height="50">](https://drive.google.com/file/d/1af9vGneAdp7_cMXSXGpfgIkkzxZOn7Uu/view?usp=sharing)
 
