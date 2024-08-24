@@ -1,28 +1,19 @@
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-https://tv.jnda.tech/hxr/9u9k4t/l.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EbGpZekE0TkRrdFpETmxNeTAwTkRKakxUbGlNVEV0TVRsaE4ySmtPRGRsWW1RdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDQxNTMzOCwiaWF0IjoxNzIzODExMzM4fQ.h5qTrPYhe5cVxCav9_u2F_Cz6HpFuYa1tkrbXExliEU"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malaysia",Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-https://tv.jnda.tech/hxr/1d0euu1/l.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9EbGpZekE0TkRrdFpETmxNeTAwTkRKakxUbGlNVEV0TVRsaE4ySmtPRGRsWW1RdyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDQxNTMzOCwiaWF0IjoxNzIzODExMzM4fQ.h5qTrPYhe5cVxCav9_u2F_Cz6HpFuYa1tkrbXExliEU"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-name="108 CITRA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="astro" ch-number="108" tvg-id="108.astro",108 CITRA HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-https://tv.jnda.tech/lic/1obq8t2/l.mpd
-
-#EXTINF:-1 group-title="astro" ch-number="100" tvg-id="100.astro" tvg-name="100 KITA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KITA.png",100 KITA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
-https://tv.jnda.tech/lic/1m8waq2/l.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 
 
 #EXTINF:-1 group-title="NEW APP UPDATE!", GO TO is.gd/qGizGR
