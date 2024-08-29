@@ -171,7 +171,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="Thrill - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="MOVIES", Thrill
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thril" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="MOVIES", Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
