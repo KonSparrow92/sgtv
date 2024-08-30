@@ -778,7 +778,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports", Astro Supersport 1_A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59220
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports", Astro Supersport 1_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -786,7 +786,7 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports", Astro Supersport 2_A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828097&extension=ts
+
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports", Astro Supersport 2_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -794,7 +794,7 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports", Astro Supersport 3_A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59218
 
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports", Astro Supersport 3_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -938,5 +938,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTM3U billed-msg="Minor Channels Updated - 29/8/24"
+#EXTM3U billed-msg="Minor Channels Updated - 30/8/24"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3"
