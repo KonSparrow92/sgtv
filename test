@@ -1,13 +1,17 @@
-#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="SPORTS",ASTRO ARENA BOLA
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqUmhOemMzTUdFdE9EVmlOUzAwTmpJMUxUa3paR1F0TTJNek16SmlaamMwWlRabCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTgwMjc3MCwiaWF0IjoxNzI1MTk4NzcwfQ.n1AoVWW98bkggiB3kILWoXQLulLh9wn3aDdy0hRAsAM"} 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUVmtOalpsT1dVdE5HVTVZeTAwTkRnMExUbGxNamN0TVRWak56Qm1aVFJoTjJNMSIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTQxMjUzOSwiaWF0IjoxNzE4ODA4NTM5fQ.1g0tkAX7Lveco97uCst1c0pFnKujtgrsgrSodCrB9dE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="AstroArenaBola",Arena Bola
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png" group-title="SPORTS",ASTRO ARENA BOLA 2
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqUmhOemMzTUdFdE9EVmlOUzAwTmpJMUxUa3paR1F0TTJNek16SmlaamMwWlRabCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTgwMjc3MCwiaWF0IjoxNzI1MTk4NzcwfQ.n1AoVWW98bkggiB3kILWoXQLulLh9wn3aDdy0hRAsAM"} 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" } 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUVmtOalpsT1dVdE5HVTVZeTAwTkRnMExUbGxNamN0TVRWak56Qm1aVFJoTjJNMSIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTQxMjUzOSwiaWF0IjoxNzE4ODA4NTM5fQ.1g0tkAX7Lveco97uCst1c0pFnKujtgrsgrSodCrB9dE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png" tvg-id="AstroArenaBola2",Arena Bola 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTM3U billed-msg="TESTING ONLY"
