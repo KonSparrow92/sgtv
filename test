@@ -3,10 +3,12 @@
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thril" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="MOVIES", Max Stream
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Indihome",SCTV (INDI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/maxstream/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+
 
 
 
