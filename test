@@ -1,49 +1,11 @@
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 80s 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 90s 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 00s 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="Music",MTV Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62430270d6394a0007ef24a6/colorLogoPNG.png" group-title="Music",MTV Love
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b80acac5329000740c022/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" group-title="Music",MTV Rocks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2e06cc9fc2000798c410/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
-
-
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png", AXN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca405251d455a6bed5bec5255b419956:df1c2bae3f7b16a8e7f27889c97e1af1
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227829/3221227829.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84xG01Xrjw7HwPLVHRrvE6eOvL9YVFD9qpq6TlsVF3Gl%2Bl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074502%3AUTC%2C1004320541%2C14.1.254.193%2C20230706074502%2Curn:Huawei:liveTV:XTV51882833%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.171_80&hms_devid=1798&mount=1000002&targetdev=1798&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdS5tu_gqRh0kWDVNT71SwTbSNegfx-LoPv7vEtBT8eDkQK8DqJHClq3rgfovANoMHSyBS1ZpaedTcM85pymaOewseu4v0nBBVdKcrlj5203ZIxGfUv7ejgqfzZSWZMnE-qdr1g5xlgo4pLmiZ8yvi8l_5IPB62WdJkAAAA
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://go.munzstore.xyz/riaz.mpd
 
-#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sport Asia",Astro SuperSport 1
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://lewblivehdplay.ru//&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Sport Asia",Astro SuperSport 2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://lewblivehdplay.ru//&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Sport Asia",Astro SuperSport 3
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://lewblivehdplay.ru//&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sport Asia",Astro SuperSport 4
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://lewblivehdplay.ru//&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-name="WARNA HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+https://go.munzstore.xyz/warnaz.mpd
 
 #EXTM3U billed-msg="TESTING ONLY"
