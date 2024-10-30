@@ -4,6 +4,8 @@
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="" group-title="FHD",Prima
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia", Astro Ria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
