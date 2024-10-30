@@ -1,29 +1,32 @@
 #EXTINF:-1 tvg-id="astro ria" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10":"376b009796e4ad50ea8f68d796676692"}
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://go.munzstore.xyz/malaria.mpd
 
 #EXTINF:-1 tvg-id="astro warna" ch-number="107" tvg-name="WARNA HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/419ZKMQv5UhnrprpIKOVzMjaK1sKPi0PIs05vU8i0DnxQ=sc0V/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=f7feef24-00a0-4e74-aaa1-07c8e67081f9
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318"}
+https://go.munzstore.xyz/shawarma.mpd
 
 #EXTINF:-1 tvg-id="astro citra" ch-number="108" tvg-name="CITRA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://linears-playback.astro.com.my/vsg/41IgP7UozpqvubXIFoK8Y7zWbs16ciNdZfkqUwmk1C9UU=6AQ5/dash-wv/jitp-dashisowm/2700/default.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10":"654f2d25a5bfb27c9e5ae0852584a166"}
+https://go.munzstore.xyz/citrarasa.mpd
 
 #EXTINF:-1 tvg-id="astro prima" ch-number="105" tvg-name="PRIMA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41voPhvGbWVyh5ekxbPWSzDUjbv4j9Jwq1YjzKGiD8jOI=0qlv/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=e6f9bd55-02cf-4714-b684-9a6abbc934b4
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://go.munzstore.xyz/primadona.mpd
 
 
 
