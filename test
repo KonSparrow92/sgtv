@@ -1,45 +1,9 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="AstroArenaBola3" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png",Arena Bola 3
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PuQ1C8CSgFmcLfZeGGntGA", "kid":"l0fLDwdEg+XkaUnba5b7EA" } ], "type":"temporary" }
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
-http://d1w72er2qn2fg9.cloudfront.net/bola3.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="AstroArenaBola4" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/535_144.png",Arena Bola 4
-#KODIPROP:inputstream.adaptive.license_key=2cb9e74464744126a406b04bb92070bf:8a6b59d0bf43e1265fceefe321840061
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default.mpd
-http://d1w72er2qn2fg9.cloudfront.net/bola4.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhtXwGaZx+QI56pJ/1fU9A", "kid":"MiX4N6S5XW5GaDxTgYwXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremierLeague4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oz7eaOi7nQ1OO0UXxCLMzw", "kid":"IpZwRpRpqm94vFu+EAcYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremierLeague5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 5
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
-
+#EXTINF:-1 tvg-id="AstroSportsPlus" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Supersport Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Supersport Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="FightSports.Id" tvg-logo="https://pictr.com/images/2023/05/18/E8sq5f.png",Fight Sports
@@ -73,70 +37,6 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 #EXTINF:-1 tvg-id="CNA" group-title="Singapore;News" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Indosiar.id"  tvg-logo="https://i.postimg.cc/VkqBd3X2/indosiar.png", Indosiar
-https://cdn08jtedge.indihometv.com/dassdvr/130/indosiar/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/XNrPpYqh/sctv.png", SCTV
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sgsK9jf3/nettv.png",NET
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MetroTV.id" tvg-logo="https://i.postimg.cc/nhFY93Tz/metro-tv.png",Metro TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/metro/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="KompasTV.id" tvg-logo="https://i.postimg.cc/MKx1g9CD/kompas-tv.png",Kompas TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/kompas/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://i.postimg.cc/qqrCV75R/cnn-indonesia.png",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="CNBCAsia.id"  tvg-logo="https://i.postimg.cc/XYPGNLzt/cnbc-indonesia.png",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-#EXTINF:0 tvg-id="IDX.id" tvg-logo="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",IDX Channel
-https://cdn08jtedge.indihometv.com/dassdvr/134/idx/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
-https://cdn08jtedge.indihometv.com/dassdvr/134/trans7/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TransTV.id" tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png",Trans TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="tvOne.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-https://cdn08jtedge.indihometv.com/dassdvr/134/tvone/manifest.mpd
-
-#EXTINF:-1 tvg-id="SEAToday" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
-https://cdn08jtedge.indihometv.com/dassdvr/134/seatoday/manifest.mpd
-
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",METRO GLOBE NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sLu8.png",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="RTV" tvg-logo="https://pictr.com/images/2023/05/18/E8snHv.png",Rajawali TV
-https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
-
-#EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TVRI.id" tvg-logo="https://pictr.com/images/2023/05/18/E8s4nV.png",TVRI Nasional
-https://cdn08jtedge.indihometv.com/dassdvr/134/tvri/manifest.mpd
-
-#EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" ,JAK TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/jak/manifest.mpd
-
-#EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/pfgJoOE.jpg?1" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" ,JTV
-https://cdn08jtedge.indihometv.com/dassdvr/134/jtv/manifest.mpd
-
-#EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8suAD.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",BALI TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/bali/manifest.mpd
-
-#EXTINF:0 tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_bdg_tv_2016.png/800px-Logo_bdg_tv_2016.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Bandung TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/bandung/manifest.mpd
-
 
 
 
