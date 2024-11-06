@@ -1,39 +1,25 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTINF:-1 tvg-id="107" tvg-name="Astro Warna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
 http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
 http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
 http://d1w72er2qn2fg9.cloudfront.net/prima.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVTNNMkkwTkRFdE5qQTVaaTAwWTJSbUxXSXhZalF0TkRCalpEVXlZMlF3T1dRMiIsIndtb3BpZCI6MzIsImV4cCI6MTczMTM3NzUzMiwiaWF0IjoxNzMwNzczNTMyfQ.4nEs3IWr3VetuEDThS_23faXmqWn1TtJ_JQ_N7JZyjw"}
 #EXTINF:-1 tvg-id="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
 
+#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVTNNMkkwTkRFdE5qQTVaaTAwWTJSbUxXSXhZalF0TkRCalpEVXlZMlF3T1dRMiIsIndtb3BpZCI6MzIsImV4cCI6MTczMTM3NzUzMiwiaWF0IjoxNzMwNzczNTMyfQ.4nEs3IWr3VetuEDThS_23faXmqWn1TtJ_JQ_N7JZyjw"}
-#EXTINF:-1 tvg-id="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",ASTRO ARENA BOLA 2
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 
-#EXTINF:-1 tvg-id="810" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",ASTRO GRANDSTAND  
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVTNNMkkwTkRFdE5qQTVaaTAwWTJSbUxXSXhZalF0TkRCalpEVXlZMlF3T1dRMiIsIndtb3BpZCI6MzIsImV4cCI6MTczMTM3NzUzMiwiaWF0IjoxNzMwNzczNTMyfQ.4nEs3IWr3VetuEDThS_23faXmqWn1TtJ_JQ_N7JZyjw"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
