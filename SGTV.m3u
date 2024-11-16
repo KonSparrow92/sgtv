@@ -690,6 +690,68 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 ####################################################################### Indonesia ######################################################################################
 ########################################################################################################################################################################
 
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="Indonesia",DAAI TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Indonesia",NET TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Indonesia",NET TV FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Indonesia",SCTV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Indonesia",SCTV HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Indonesia",Trans TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Indonesia",Trans 7
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Indonesia",Trans 7 FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Indonesia",Trans TV FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
+
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Indonesia",Rajawali TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Indonesia",Bali TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/889.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Indonesia",Dunia Lain
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/910.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Indonesia",Indosiar
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="Indonesia",Antara TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32586.m3u8
+
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Indonesia",Kompas TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="Indonesia",TVRI
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="Indonesia",CNN Indonesia
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Indonesia",Metro TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="Indonesia",Aljazeera EN
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/89.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="Indonesia",Berita Satu News
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/136.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="Indonesia",DW TV Asia
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/205.m3u8
 
 ########################################################################################################################################################################
 ###############################################################  KIDS  #################################################################################################
@@ -933,5 +995,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTM3U billed-msg="Minor Channels Updated - 16/11/24"
+#EXTM3U billed-msg="Added Indo Channels, Updated - 16/11/24"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3"
