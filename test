@@ -4,11 +4,14 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Indonesia",NET TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Indonesia",ANTV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/31.m3u8
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Indonesia",NET TV FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Indonesia",SCTV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Indonesia",SCTV HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Indonesia",Trans TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
@@ -16,14 +19,14 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Indonesia",Trans 7
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Indonesia",Trans 7 FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Indonesia",Trans TV FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
+
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Indonesia",Rajawali TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.m3u8
-
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Indonesia",NET TV FHD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="Indonesia",JTV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/135.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Indonesia",Bali TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/889.m3u8
@@ -31,26 +34,11 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Indonesia",Dunia Lain
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/910.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Indonesia",Trans TV FHD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Indonesia",Trans 7 FHD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Indonesia",SCTV HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Indonesia",Indosiar
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png" group-title="Indonesia",Hope Channel
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30183.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="Indonesia",Antara TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32586.m3u8
-
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="Indonesia",TV ONE
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29.m3u8
 
 #EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Indonesia",Kompas TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
