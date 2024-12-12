@@ -834,7 +834,7 @@ http://d37lxn4ksn51zz.cloudfront.net/premier1.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Sports", Astro Premier League_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277973&extension=ts
+
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="Sports", Astro Premier League 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -844,7 +844,7 @@ http://d37lxn4ksn51zz.cloudfront.net/premier2.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="Sports", Astro Premier League 2_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277974&extension=ts
+
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports", Astro Grandstand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -854,13 +854,19 @@ http://d37lxn4ksn51zz.cloudfront.net/grand.mpd
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports", Astro Grandstand_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277975&extension=ts
+
 
 #EXTINF:-1 tvg-id="AstroSportsPlus" group-title="Sports" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png", Astro Sport Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" } 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSportsUHD" group-title="Sports" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro Sports UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports" tvg-id="beINSports" tvg-name="beINSports", beIN Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -981,5 +987,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTM3U billed-msg="Minor Channels Update - 11/12/24"
+#EXTM3U billed-msg="Minor Channels Update - 12/12/24"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3"
