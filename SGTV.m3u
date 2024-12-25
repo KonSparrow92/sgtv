@@ -96,6 +96,12 @@ https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="MOVIES",&Prive HD
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/r2WTxWH/axnmov.png" group-title="MOVIES", AXN MOVIES 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1jDgTgxeP5jcOIQL4cHdTA", "kid":"+eS+CZJsJi7/orU4GuNVPQ" } ], "type":"temporary" }
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
+
 #EXTINF:-1 tvg-id="AstroBoo" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
@@ -154,6 +160,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/gyvGPjT/syfy.png" group-title="MOVIES", SyFy 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ], "type":"temporary" }
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="MOVIES", Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -344,7 +356,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia", Astro Ria_B
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%402.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -658,68 +671,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mp
 ####################################################################### Indonesia ######################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia",SCTV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV HD" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia",SCTV HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia",Indosiar
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
-
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="Indonesia",DAAI TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
-
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="Indonesia",NET TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
-
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="Indonesia",NET TV FHD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7 FHD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV FHD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
-
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Indonesia",Rajawali TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Indonesia",Bali TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/889.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Indonesia",Dunia Lain
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/910.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="" group-title="Indonesia",Antara TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32586.m3u8
-
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="Indonesia",Kompas TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="Indonesia",TVRI
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
-
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="Indonesia",CNN Indonesia
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
-
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_107.png" group-title="Indonesia",Metro TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="Indonesia",Aljazeera EN
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/89.m3u8
-
-#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" tvg-name="Berita Satu News" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="Indonesia",Berita Satu News
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/136.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DWEnglish" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_357.png" group-title="Indonesia",DW TV Asia
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/205.m3u8
 
 ########################################################################################################################################################################
 ###############################################################  KIDS  #################################################################################################
@@ -729,6 +681,13 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/205.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="Cartoon",Animax 
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AniPlus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-logo="" group-title="Cartoon",AniPlus 
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
