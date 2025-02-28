@@ -706,9 +706,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default_primary.m
 
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD_B
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://dev-galaxy-lifetime.pantheonsite.io/spotv.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
