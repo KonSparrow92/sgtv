@@ -717,8 +717,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|r
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD_B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
 #EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
