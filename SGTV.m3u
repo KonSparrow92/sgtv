@@ -138,8 +138,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="MOVIES",HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -199,7 +198,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TU1NncQb5D9SiklAz2bxTA", "kid":"1RmfFROgKG4Dja6PfYIAEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BBCEarth" group-title="Documentary" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" ch-number="554",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -213,7 +212,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Documentary" tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD", Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -233,7 +232,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #EXTINF:-1 tvg-id="GlobalTrekker" tvg-name="Global Trekker" group-title="Documentary"  tvg-logo="https://telegra.ph/file/6aa3c3717f3250990383b.png",Global Trekker
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -241,7 +240,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 
 #EXTINF:-1 tvg-id="History" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Documentary",History HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -530,19 +529,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" } 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
 #EXTINF:-1 tvg-id="PhoenixInfoNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png"  group-title="Chinese",Phoenix Info News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" } 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 #EXTINF:-1tvg-id="TVBClassic" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png"  group-title="Chinese",TVB Classic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" } 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png"  group-title="Chinese",TVB Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -570,7 +569,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavil"  group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",Astro Vaanavil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -588,7 +587,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
 #EXTINF:-1 tvg-id="214" tvg-name="Adithya" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png"  group-title="INDIAN", Adithya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -606,13 +605,13 @@ httpss://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ZeeTamilHD"  group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
 ########################################################################################################################################################################
@@ -635,13 +634,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN HD" ch-number="395" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN HD" ch-number="395" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -652,7 +651,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 
 ########################################################################################################################################################################
@@ -680,7 +679,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" group-title="Cartoon" tvg-logo="https://iili.io/1No7Wb.png",Nickelodeon HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -712,8 +711,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7W1n2VPRSwJrJgLPiEZXfg","kid":"Xv0m2lABNjtNb6SpyBKtEA"}],"type":"temporary"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD_B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -761,6 +760,10 @@ https://jandatv.online/memfs/c1d5e637-58e8-4279-95ee-139646a44a15.m3u8
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="Sports", Astro Premier League 2_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 
+#EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-name="Astro Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-title="Sports",ASTRO PREMIER LEAGUE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports", Astro Grandstand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -903,5 +906,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
-#EXTM3U billed-msg="Channel Update - 28/2/25"
+#EXTM3U billed-msg="Major Channel Update - 2/3/25"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3"
