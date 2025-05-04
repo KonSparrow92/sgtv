@@ -9,10 +9,8 @@
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-logo="https://iili.io/Jmofcle.png" group-title="Music",MTV Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 
