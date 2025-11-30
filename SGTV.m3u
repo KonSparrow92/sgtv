@@ -289,9 +289,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 ########################################################################################################################################################################
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/isAltUrl/False/a.mpdd
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
