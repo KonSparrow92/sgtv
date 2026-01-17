@@ -3,10 +3,7 @@
 ########################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="MTVAsia" tvg-name="MTV Live HD" group-title="Music" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="Music", MTV Classic
 
@@ -79,10 +76,7 @@ https://ucdn.starhubgo.com/bpk-tv/HBOHD/output/manifest.mpd
 https://ucdn.starhubgo.com/bpk-tv/HBOFamilyHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="MOVIES",HBO Hits HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -311,7 +305,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Malaysia" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+#https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="148.astro" tvg-name="TV8" tvg-logo="https://linear-poster.astro.com.my/prod/logo/8TV_v1.png"  group-title="Malaysia",8TV 
 
