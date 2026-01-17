@@ -303,9 +303,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Malaysia" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-#https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
 #EXTINF:-1 tvg-id="148.astro" tvg-name="TV8" tvg-logo="https://linear-poster.astro.com.my/prod/logo/8TV_v1.png"  group-title="Malaysia",8TV 
 
@@ -585,14 +587,21 @@ https://ucdn.starhubgo.com/bpk-tv/KBSWorldHD/output/manifest.mpd
 https://ucdn.starhubgo.com/bpk-tv/ONEHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN HD" ch-number="395" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN HD
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tVNHD)/master.mpd
 
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN HD" ch-number="395" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png", tvN Asia
 
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-name="" ch-number="396" group-title="KOREAN" tvg-logo="http://www.kplus-asia.com/img/title/logo.png", K+
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=826e7fd2d6a14060bfea9347d96f8824:176897afb079e0cc76bc912df4cb0b6e
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/master.mpd
 
 ########################################################################################################################################################################
 ###############################################################  KIDS  #################################################################################################
@@ -653,6 +662,34 @@ https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
 https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="Sports",Astro Arena
+https://d32ee6d372f04fd5bd07bc10fad73eca.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH22-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",Astro Grandstand 
+https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-logo="" group-title="Sports",Astro Football
+https://4e7bc9f6a4934455b47d35625fd385fc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH29-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-logo="" group-title="",Astro Sport Plus
+https://6ff3674dea9d4f99b1b05c2ebcb299fe.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH33-dash/default_primary.mpd?astro=true
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png",FIGHT SPORTS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
