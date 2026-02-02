@@ -817,5 +817,4 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
 
 
 #EXTM3U billed-msg="EPG Update - 2/2/26"
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="3"
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="3"
