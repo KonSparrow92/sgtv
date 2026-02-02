@@ -640,14 +640,14 @@ https://ucdn.starhubgo.com/bpk-tv/NickJr/output/manifest.mpd
 ###############################################################  SPORTS  ###############################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="SPOTV.(HD).sg" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD
+#EXTINF:-1 tvg-id="SPOTV.(HD).sg" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
 https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="SPOTV.2.(HD).sg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD
+#EXTINF:-1 tvg-id="SPOTV.2.(HD).sg" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",SPOTV2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
