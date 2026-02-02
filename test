@@ -1,50 +1,107 @@
-#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,Ria FHD
+#EXTINF:-1 tvg-group="" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-url="https://bit.ly/RtmEpg" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png" group-title="Freeview MYTV",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+http://103.209.159.198:8278/TV1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=12bffbee2d7c9637dbf47e98264a1af4
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+http://103.209.159.198:8278/TV2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d3baa546861909608a61a5e6207d612c
+
+;#EXTINF:-1 tvg-id="103.astro" group-title="Freeview MYTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://live.aqfadtv.xyz/ria/index.mpd
-https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#EXTINF:-1 tvg-id="104.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riahd
-
-
-#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,Prima FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://live.aqfadtv.xyz/prima/index.mpd
-https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&password=vip_level7
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-
-#EXTINF:-1 tvg-id="105.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd
-
-;#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,Citra
-https://smart.946985.filegear-sg.me/smart.php?id=AAcitra
-https://smart.946985.filegear-sg.me/smart.php?id=AAcitra1
-https://mimipipi22.github.io/logo/offline.m3u8
-
-;#EXTINF:-1 tvg-id="118" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-https://aseanic.github.io/hls/36.m3u8
-http://lzoq.serv00.net/daili/Smartv.php?id=Warna-O
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="🇲🇾 ASTRO PREMIUM",Oasis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+;#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 HD
+http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
+
+#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+#EXTINF:-1 tvg-group="" tvg-id="OKEY" tvg-name="Okey Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey TV
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="TV6" tvg-name="TV6" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+http://103.209.159.198:8278/NTV7/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fc944fd715487ebee7f19eec4a3e88e1
+
+#EXTINF:-1 tvg-group="" tvg-id="8TV" tvg-name="8TV" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a9c619074ed38c20e25ad36c3c57c10c": "056e1e49573d2caee5cb4fe78f8c4f3d"}
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live08.mpd
+http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
+
+#EXTINF:-1 tvg-group="" tvg-id="TV9" tvg-name="TV9" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1dfa8a645af41e83c520bddf913934ca": "65f6af8750d24b230d91b984237ac1e4"}
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
+http://103.209.159.198:8278/TV9/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=016e330c761512c534ea1b11ae0521d2
+
+#EXTINF:-1 tvg-id="122.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=530&updatedTime=0&dt=Web" group-title="Unifi TV",TVS Unifi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe6c43961ea8401e8e8bc211b1197961:b9ce7dc616a3987e2b8900ce44735b07
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TVS)/master.mpd
+
+#EXTINF:-1 tvg-group="" tvg-id="TVS" tvg-number="121" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS Astro
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+#EXTINF:-1 tvg-id="tvs" ch-number="122" tvg-name="TVS" group-title="Freeview MYTV" tvg-logo="https://get.perfecttv.net/logo/tvs.png",TVS PTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=tvs
+
+#EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah 
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", TV Alhijrah (unifi)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4745ac4464797aa9d5ed653c1e987917": "ffe2dd898757fb14c156b3e014058ecc"}
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live07.mpd
+
+#EXTINF:-1 tvg-group="" tvg-id="BERITARTM" tvg-name="BERITA RTM" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="BernamaTV"  tvg-name="Bernama Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",BERNAMA
+https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" group-title="Freeview MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="Dewan Negara" tvg-name="Dewan Negara" group-title="Freeview MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Negara
+https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="DuniaSinema" tvg-name="DuniaSinema" group-title="Freeview MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 tvg-group="" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 
 
