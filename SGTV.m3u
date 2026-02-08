@@ -101,18 +101,12 @@ https://ucdn.starhubgo.com/bpk-tv/HITSHD/output/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="MOVIES", Star Movies
 
 
 
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="MOVIES", Thrill
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies HD
@@ -286,6 +280,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=riahd
+https://live.aqfadtv.xyz/ria/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png" group-title="Malaysia",Astro Warna HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -301,7 +296,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Malaysia" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
-http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/1211558.m3u8
 
 #EXTINF:-1 tvg-id="148.astro" tvg-name="TV8" tvg-logo="https://linear-poster.astro.com.my/prod/logo/8TV_v1.png"  group-title="Malaysia",8TV 
 
@@ -324,10 +318,12 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 #EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
+https://load.perfecttv.net/mpd/ceria/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=ceria
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="CITRA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia",Astro Citra HD
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD
+https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="Malaysia",Rania 
 
@@ -788,69 +784,6 @@ https://ucdn.starhubgo.com/bpk-tv/SPOTVNEW/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
 https://ucdn.starhubgo.com/bpk-tv/SPOTV2NEW/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png",FIGHT SPORTS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc9238583b9c4c619683cdb633ba3d12:84a756647f362c601502ef6bb4a013da
-https://ucdn.starhubgo.com/bpk-tv/FightSportsHD/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png",Hub Sports 1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
-https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png",Hub Sports 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
-https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png",Hub Sports 3 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
-https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png",Hub Sports 4 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png",Hub Sports 5 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
-https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.6.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 6 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
-https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png",Hub Sports 7 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
-https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
-
-#EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png",Hub Sports 8 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
-https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
-
 #EXTINF:-1 tvg-id="beIN.SPORTS.(HD).sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png",beIN Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -885,6 +818,13 @@ https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png",FIGHT SPORTS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc9238583b9c4c619683cdb633ba3d12:84a756647f362c601502ef6bb4a013da
+https://ucdn.starhubgo.com/bpk-tv/FightSportsHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -948,6 +888,63 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png",Hub Sports 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png",Hub Sports 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
+https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png",Hub Sports 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
+https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.4.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png",Hub Sports 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.5.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png",Hub Sports 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.6.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 6 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
+https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.7.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png",Hub Sports 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
+https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hub.Sports.8.HD.sg" group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png",Hub Sports 8 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
+https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
+
 
 ########################################################################################################################################################################
 ################################################################  Radio  ###############################################################################################
