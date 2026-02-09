@@ -1,41 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j8x0nhs.png" channel-number="" group-title="AstroGo",MTV Live
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560410.png" group-title="Cgates", MTV 00s
+#EXTINF:-1 tvg-id="103.astro" group-title="Freeview MYTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ba29ad1cfb7c4a8b95cca44cf4641e78":"b5db7930ad42ca8e7eff680ffba8a713"}
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560410/index.mpd
-
-#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560612.png" group-title="Cgates", MTV Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c75b1640bc83ec0c653902a775e5bb1a:1041d72f861c4e60a87a4e828250ded6
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560612/index.mpd
-
-#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560701.png" group-title="Cgates", MTV Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560701/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/250px-MTV_80s_2022.png" group-title="izziGo",MTV 80s
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b515c27589fda8f9607e7949697de6b3:27d2061c0972931e18d43fbb3301c6f0
-https://live-atv-cdn.izzigo.tv/4/out/u/dash/MTV80SSD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png?worldtv2" group-title="izziGo",MTV 00s
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53a3776a034dbe5f483d0f3a46f5fddf:db9d0d03592fbe9f4429ef1a82eb47aa
-https://live-atv-cdn.izzigo.tv/3/out/u/dash/MTV00HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/505px-MTV_Hits_2021.svg.png?worldtv2" group-title="izziGo",MTV Hits
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b5868bc161634a033a19a20f3f3595d:b336c8c6bb249b1a5f89dace8d9889e5
-https://live-atv-cdn.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTM3U billed-msg="TESTING ONLY"
