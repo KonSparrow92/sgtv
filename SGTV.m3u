@@ -20,11 +20,11 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTVLCOPT:network-caching=10
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="now.90s.gb" tvg-name="UK240:NOW 90S " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK240" group-title="Music",NOW ROCK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Music",Now90s Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="DE088:MTV 80S" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE088SkySelect8.png" group-title="Music",NOW 80S
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://americadance90.com.br/wp-content/uploads/2025/10/NOW-90s-00s.png" group-title="Music",NOW 90S
+https://amg01076-amg01076c19-lg-it-10329.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-lgit/playlist.m3u8
 
 ########################################################################################################################################################################
 ################################################################ MOVIES ################################################################################################
@@ -995,5 +995,5 @@ https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
 
 
 
-#EXTM3U billed-msg="Minor Update - 2/2/26"
+#EXTM3U billed-msg="Minor Channel Update - 9/2/26"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="3"
