@@ -275,7 +275,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 ########################################################################## Malaysia ####################################################################################
 ########################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",Astro Ria HD
+#EXTINF:-1 tvg-id="AstroRia" group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",Astro Ria HD_Backup
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
@@ -327,8 +327,13 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="CITRA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia",Astro Citra HD
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD
-
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD_Backup
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+http://15.235.216.7:8080/live/33887773366/226999/14.m3u8
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="Malaysia",Rania 
 
