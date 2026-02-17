@@ -280,7 +280,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1280x720
 http://15.235.216.7:8080/live/33887773366/226999/17.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png" group-title="Malaysia",Astro Warna HD
@@ -332,7 +332,7 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1280x720
 http://15.235.216.7:8080/live/33887773366/226999/14.m3u8
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="Malaysia",Rania 
